@@ -3,12 +3,192 @@
   "description": "Automated daily curated feed of new Rust crates from crates.io",
   "home_page_url": "https://rahulwork247.github.io/daily-rust-crate-digest/",
   "feed_url": "https://rahulwork247.github.io/daily-rust-crate-digest/feed.json",
-  "updated": "2026-11-13T22:40:40.544090+00:00",
+  "updated": "2026-11-13T23:14:30.916395+00:00",
   "monetization": {
     "buymeacoffee": "https://buymeacoffee.com/rahulwork247",
     "sponsors": "https://github.com/sponsors/rahulwork247"
   },
   "items": [
+    {
+      "name": "anthropic-messages",
+      "version": "0.1.0",
+      "description": "Typed client for the Anthropic Messages API: request and response types, HTTP client, SSE event stream",
+      "url": "https://crates.io/crates/anthropic-messages",
+      "documentation": null,
+      "repository": "https://github.com/ZmoleCristian/anthropic-messages",
+      "downloads": 0,
+      "created_at": "2026-11-13T23:14:21.364385Z"
+    },
+    {
+      "name": "mcp-lite",
+      "version": "0.1.0",
+      "description": "A small synchronous Model Context Protocol client with a lazy tool layer",
+      "url": "https://crates.io/crates/mcp-lite",
+      "documentation": null,
+      "repository": "https://github.com/ikarys/mcp-lite",
+      "downloads": 0,
+      "created_at": "2026-11-13T23:09:19.759508Z"
+    },
+    {
+      "name": "claude-code-settings",
+      "version": "0.1.0",
+      "description": "Typed Claude Code settings.json: every key, lossless round-trips, and Claude Code's layer merge",
+      "url": "https://crates.io/crates/claude-code-settings",
+      "documentation": "https://docs.rs/claude-code-settings",
+      "repository": "https://github.com/talaagent/ccwire",
+      "downloads": 0,
+      "created_at": "2026-11-13T23:08:19.121483Z"
+    },
+    {
+      "name": "jtac-store",
+      "version": "0.2.18",
+      "description": "Local content-addressed store and the git ref layer.",
+      "url": "https://crates.io/crates/jtac-store",
+      "documentation": null,
+      "repository": "https://github.com/dmriding/jtac",
+      "downloads": 0,
+      "created_at": "2026-11-13T23:04:09.574706Z"
+    },
+    {
+      "name": "arc-lend",
+      "version": "0.1.0",
+      "description": "A shared-value cell for threads on a deadline: one thread replaces the value while others read it without waiting or freeing",
+      "url": "https://crates.io/crates/arc-lend",
+      "documentation": "https://docs.rs/arc-lend",
+      "repository": "https://github.com/tutti-audio/arc-lend",
+      "downloads": 0,
+      "created_at": "2026-11-13T23:03:58.439854Z"
+    },
+    {
+      "name": "jtac-checks",
+      "version": "0.2.18",
+      "description": "Check runner: subprocess execution, output capture, caching, diff-integrity checks.",
+      "url": "https://crates.io/crates/jtac-checks",
+      "documentation": null,
+      "repository": "https://github.com/dmriding/jtac",
+      "downloads": 0,
+      "created_at": "2026-11-13T23:01:00.133689Z"
+    },
+    {
+      "name": "jtac-sign",
+      "version": "0.2.18",
+      "description": "SSHSIG signing and verification through ssh-keygen.",
+      "url": "https://crates.io/crates/jtac-sign",
+      "documentation": null,
+      "repository": "https://github.com/dmriding/jtac",
+      "downloads": 0,
+      "created_at": "2026-11-13T23:00:57.012585Z"
+    },
+    {
+      "name": "jtac-policy",
+      "version": "0.2.18",
+      "description": "Parse, validate, hash, and evaluate policy.",
+      "url": "https://crates.io/crates/jtac-policy",
+      "documentation": null,
+      "repository": "https://github.com/dmriding/jtac",
+      "downloads": 0,
+      "created_at": "2026-11-13T23:00:56.475354Z"
+    },
+    {
+      "name": "jtac-gate",
+      "version": "0.2.18",
+      "description": "Shell command classifier and the decision function for tool calls and git operations.",
+      "url": "https://crates.io/crates/jtac-gate",
+      "documentation": null,
+      "repository": "https://github.com/dmriding/jtac",
+      "downloads": 0,
+      "created_at": "2026-11-13T23:00:55.642209Z"
+    },
+    {
+      "name": "jtac-core",
+      "version": "0.2.18",
+      "description": "Evidence types, canonical encoding, hashing, the Merkle tree, and the verdict function.",
+      "url": "https://crates.io/crates/jtac-core",
+      "documentation": null,
+      "repository": "https://github.com/dmriding/jtac",
+      "downloads": 0,
+      "created_at": "2026-11-13T23:00:52.726471Z"
+    },
+    {
+      "name": "bgpkit-snap",
+      "version": "1.0.0-rc.1",
+      "description": "Versioned, memory-mappable container for prefix tries, with an append-only journal",
+      "url": "https://crates.io/crates/bgpkit-snap",
+      "documentation": null,
+      "repository": "https://github.com/bgpkit/bgpkit-snap",
+      "downloads": 0,
+      "created_at": "2026-11-13T22:57:57.046911Z"
+    },
+    {
+      "name": "last-commander",
+      "version": "0.0.0",
+      "description": "Last Commander, a keyboard-driven two-panel file manager. Name reserved; under development.",
+      "url": "https://crates.io/crates/last-commander",
+      "documentation": null,
+      "repository": "https://github.com/last-commander/last-commander",
+      "downloads": 0,
+      "created_at": "2026-11-13T22:55:29.961299Z"
+    },
+    {
+      "name": "last-commander-core",
+      "version": "0.0.0",
+      "description": "Core logic of Last Commander, a keyboard-driven two-panel file manager. Name reserved; under development.",
+      "url": "https://crates.io/crates/last-commander-core",
+      "documentation": null,
+      "repository": "https://github.com/last-commander/last-commander",
+      "downloads": 0,
+      "created_at": "2026-11-13T22:55:27.168761Z"
+    },
+    {
+      "name": "consecution-rust",
+      "version": "0.1.0",
+      "description": "Rust functions for Consecution: syn reads the source, Syntagm declarations decide how each construct is formed, and the structure is lowered to body facts and behaviour",
+      "url": "https://crates.io/crates/consecution-rust",
+      "documentation": "https://docs.rs/consecution-rust",
+      "repository": null,
+      "downloads": 0,
+      "created_at": "2026-11-13T22:54:00.377828Z"
+    },
+    {
+      "name": "ufs-base",
+      "version": "0.1.0",
+      "description": "core for ufs",
+      "url": "https://crates.io/crates/ufs-base",
+      "documentation": null,
+      "repository": "https://github.com/p1mo/ufs/tree/main/ufs-core",
+      "downloads": 0,
+      "created_at": "2026-11-13T22:53:54.739319Z"
+    },
+    {
+      "name": "consecution",
+      "version": "0.1.0",
+      "description": "What a function does, from facts about its body: data and order dependencies, the conditions on each return, effects and mutations, a name-free behavioural sequence with its digests, and callee summaries read across a call graph",
+      "url": "https://crates.io/crates/consecution",
+      "documentation": "https://docs.rs/consecution",
+      "repository": null,
+      "downloads": 0,
+      "created_at": "2026-11-13T22:53:40.291257Z"
+    },
+    {
+      "name": "reallyme-protoc-gen-buffa-packaging",
+      "version": "0.1.0",
+      "description": "ReallyMe fork: protoc plugin that emits a mod.rs module tree for buffa per-file output",
+      "url": "https://crates.io/crates/reallyme-protoc-gen-buffa-packaging",
+      "documentation": null,
+      "repository": "https://github.com/reallyme/buffa",
+      "downloads": 0,
+      "created_at": "2026-11-13T22:45:30.474417Z"
+    },
+    {
+      "name": "fifo-bufread",
+      "version": "0.1.0",
+      "description": "Produce hunks of bytes in one thread or async task and consume them from another through a BufRead",
+      "url": "https://crates.io/crates/fifo-bufread",
+      "documentation": null,
+      "repository": null,
+      "downloads": 0,
+      "created_at": "2026-11-13T22:43:43.496215Z"
+    },
     {
       "name": "pixelforge-ash",
       "version": "0.38.1+1.4.352.f4c2ca3",
@@ -128,186 +308,6 @@
       "repository": "https://github.com/reallyme/buffa",
       "downloads": 0,
       "created_at": "2026-11-13T22:19:55.733832Z"
-    },
-    {
-      "name": "csvidx",
-      "version": "1.0.1",
-      "description": "Secondary index for huge CSV files: lookup by key without importing",
-      "url": "https://crates.io/crates/csvidx",
-      "documentation": null,
-      "repository": "https://github.com/csvidx/csvidx",
-      "downloads": 0,
-      "created_at": "2026-11-13T22:14:40.442654Z"
-    },
-    {
-      "name": "scinumtools3-build",
-      "version": "0.10.2",
-      "description": "Compile-time DIPL evaluation and Rust struct initializer generation",
-      "url": "https://crates.io/crates/scinumtools3-build",
-      "documentation": null,
-      "repository": "https://github.com/scinumtools/snt3",
-      "downloads": 0,
-      "created_at": "2026-11-13T22:13:51.319886Z"
-    },
-    {
-      "name": "duke-slides",
-      "version": "0.4.1",
-      "description": "Parse PowerPoint PPTX and legacy PPT presentations into a structured model",
-      "url": "https://crates.io/crates/duke-slides",
-      "documentation": null,
-      "repository": "https://github.com/extend-hq/duke-office",
-      "downloads": 0,
-      "created_at": "2026-11-13T22:13:18.864264Z"
-    },
-    {
-      "name": "langdex",
-      "version": "0.0.1",
-      "description": "The languages of source files: names, aliases, extensions, file names and interpreters, from GitHub Linguist",
-      "url": "https://crates.io/crates/langdex",
-      "documentation": null,
-      "repository": "https://github.com/victor-software-house/langdex",
-      "downloads": 0,
-      "created_at": "2026-11-13T22:10:31.198989Z"
-    },
-    {
-      "name": "reallyme-buffa-codegen",
-      "version": "0.1.0",
-      "description": "ReallyMe fork: Shared code generation logic for buffa (descriptor \u2192 Rust source)",
-      "url": "https://crates.io/crates/reallyme-buffa-codegen",
-      "documentation": null,
-      "repository": "https://github.com/reallyme/buffa",
-      "downloads": 0,
-      "created_at": "2026-11-13T22:06:41.334411Z"
-    },
-    {
-      "name": "reallyme-buffa-proto-options",
-      "version": "0.1.0",
-      "description": "ReallyMe fork: Rust types for buffa's custom protobuf options (buffa/ext/options.proto)",
-      "url": "https://crates.io/crates/reallyme-buffa-proto-options",
-      "documentation": null,
-      "repository": "https://github.com/reallyme/buffa",
-      "downloads": 0,
-      "created_at": "2026-11-13T22:06:36.014487Z"
-    },
-    {
-      "name": "reallyme-buffa-types",
-      "version": "0.1.0",
-      "description": "ReallyMe fork: Protobuf well-known types for buffa",
-      "url": "https://crates.io/crates/reallyme-buffa-types",
-      "documentation": null,
-      "repository": "https://github.com/reallyme/buffa",
-      "downloads": 0,
-      "created_at": "2026-11-13T22:06:32.052801Z"
-    },
-    {
-      "name": "reallyme-buffa-descriptor",
-      "version": "0.1.0",
-      "description": "ReallyMe fork: Protobuf descriptor types (FileDescriptorProto, DescriptorProto, ...) for buffa",
-      "url": "https://crates.io/crates/reallyme-buffa-descriptor",
-      "documentation": null,
-      "repository": "https://github.com/reallyme/buffa",
-      "downloads": 0,
-      "created_at": "2026-11-13T22:06:26.767564Z"
-    },
-    {
-      "name": "reallyme-buffa",
-      "version": "0.1.0",
-      "description": "ReallyMe fork: A pure Rust Protocol Buffers implementation with first-class editions support",
-      "url": "https://crates.io/crates/reallyme-buffa",
-      "documentation": null,
-      "repository": "https://github.com/reallyme/buffa",
-      "downloads": 0,
-      "created_at": "2026-11-13T22:06:21.289791Z"
-    },
-    {
-      "name": "duke-pages-wasm",
-      "version": "0.3.1",
-      "description": "WebAssembly bindings for the duke-pages parser and serializer",
-      "url": "https://crates.io/crates/duke-pages-wasm",
-      "documentation": "https://docs.rs/duke-pages-wasm",
-      "repository": "https://github.com/extend-hq/duke-office",
-      "downloads": 0,
-      "created_at": "2026-11-13T22:06:10.680591Z"
-    },
-    {
-      "name": "broadcast-smooth",
-      "version": "0.1.0",
-      "description": "Microsoft Smooth Streaming (MS-SSTR) client Manifest: typed model with parse and serialize.",
-      "url": "https://crates.io/crates/broadcast-smooth",
-      "documentation": null,
-      "repository": "https://github.com/fishloa/rust-broadcast",
-      "downloads": 0,
-      "created_at": "2026-11-13T22:05:18.604035Z"
-    },
-    {
-      "name": "aerofoil-mlat",
-      "version": "0.1.0-beta.2",
-      "description": "Multilateration (MLAT) receiver registry, clock drift synchronization, and TDOA hyperbolic solver for aerofoil",
-      "url": "https://crates.io/crates/aerofoil-mlat",
-      "documentation": null,
-      "repository": "https://github.com/colinwolff/aerofoil",
-      "downloads": 0,
-      "created_at": "2026-11-13T22:03:12.833353Z"
-    },
-    {
-      "name": "tui-kiso",
-      "version": "0.1.0",
-      "description": "Kiso components for ratatui terminal interfaces",
-      "url": "https://crates.io/crates/tui-kiso",
-      "documentation": null,
-      "repository": "https://github.com/momoi-labs/blueprint",
-      "downloads": 0,
-      "created_at": "2026-11-13T22:02:16.520855Z"
-    },
-    {
-      "name": "kiso-core",
-      "version": "0.1.0",
-      "description": "Kiso component specs: one contract for the React, HTML, text and ratatui outputs",
-      "url": "https://crates.io/crates/kiso-core",
-      "documentation": null,
-      "repository": "https://github.com/momoi-labs/blueprint",
-      "downloads": 0,
-      "created_at": "2026-11-13T22:01:59.350847Z"
-    },
-    {
-      "name": "akibiyori",
-      "version": "0.1.0-rc1",
-      "description": "Generate readable Cobalt source from OpenAPI contracts and authored Markdown",
-      "url": "https://crates.io/crates/akibiyori",
-      "documentation": "https://docs.rs/akibiyori",
-      "repository": "https://github.com/oxur/akibiyori",
-      "downloads": 0,
-      "created_at": "2026-11-13T22:01:50.192873Z"
-    },
-    {
-      "name": "mapdiff",
-      "version": "0.1.0",
-      "description": "Review a change on a map of your code: diffs by function and type, drawn with what they touch",
-      "url": "https://crates.io/crates/mapdiff",
-      "documentation": null,
-      "repository": "https://github.com/avgvi/mapdiff",
-      "downloads": 0,
-      "created_at": "2026-11-13T21:59:33.942715Z"
-    },
-    {
-      "name": "wbfs-rs",
-      "version": "0.1.0",
-      "description": "WBFS (Wii and GameCube disc image) creation and extraction, interchangeable with wit",
-      "url": "https://crates.io/crates/wbfs-rs",
-      "documentation": null,
-      "repository": "https://github.com/alucryd/oxyromon",
-      "downloads": 0,
-      "created_at": "2026-11-13T21:59:18.630978Z"
-    },
-    {
-      "name": "rvz-rs",
-      "version": "0.1.0",
-      "description": "RVZ (GameCube and Wii disc image) compression and decompression, scrubbing included, interchangeable with Dolphin",
-      "url": "https://crates.io/crates/rvz-rs",
-      "documentation": null,
-      "repository": "https://github.com/alucryd/oxyromon",
-      "downloads": 0,
-      "created_at": "2026-11-13T21:59:15.719057Z"
     }
   ]
 }
