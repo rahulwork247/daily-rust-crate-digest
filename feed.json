@@ -1,0 +1,312 @@
+{
+  "title": "Daily Rust Crate Digest",
+  "description": "Automated daily curated feed of new and trending Rust crates from crates.io",
+  "home_page_url": "https://github.com/rahulwork247/daily-rust-crate-digest",
+  "feed_url": "https://rahulwork247.github.io/daily-rust-crate-digest/feed.json",
+  "updated": "2026-11-13T22:22:25.597553+00:00",
+  "monetization": {
+    "buymeacoffee": "https://buymeacoffee.com/rahulwork247"
+  },
+  "items": [
+    {
+      "name": "reallyme-buffa-build",
+      "version": "0.1.0",
+      "description": "ReallyMe fork: Build-time integration for buffa (use in build.rs)",
+      "url": "https://crates.io/crates/reallyme-buffa-build",
+      "documentation": null,
+      "repository": "https://github.com/reallyme/buffa",
+      "downloads": 0,
+      "created_at": "2026-11-13T22:19:55.733832Z"
+    },
+    {
+      "name": "csvidx",
+      "version": "0.1.0",
+      "description": "Secondary index for huge CSV files: lookup by key without importing",
+      "url": "https://crates.io/crates/csvidx",
+      "documentation": null,
+      "repository": "https://github.com/hoopengo/csvidx",
+      "downloads": 0,
+      "created_at": "2026-11-13T22:14:40.442654Z"
+    },
+    {
+      "name": "scinumtools3-build",
+      "version": "0.10.2",
+      "description": "Compile-time DIPL evaluation and Rust struct initializer generation",
+      "url": "https://crates.io/crates/scinumtools3-build",
+      "documentation": null,
+      "repository": "https://github.com/scinumtools/snt3",
+      "downloads": 0,
+      "created_at": "2026-11-13T22:13:51.319886Z"
+    },
+    {
+      "name": "duke-slides",
+      "version": "0.4.1",
+      "description": "Parse PowerPoint PPTX and legacy PPT presentations into a structured model",
+      "url": "https://crates.io/crates/duke-slides",
+      "documentation": null,
+      "repository": "https://github.com/extend-hq/duke-office",
+      "downloads": 0,
+      "created_at": "2026-11-13T22:13:18.864264Z"
+    },
+    {
+      "name": "langdex",
+      "version": "0.0.1",
+      "description": "The languages of source files: names, aliases, extensions, file names and interpreters, from GitHub Linguist",
+      "url": "https://crates.io/crates/langdex",
+      "documentation": null,
+      "repository": "https://github.com/victor-software-house/langdex",
+      "downloads": 0,
+      "created_at": "2026-11-13T22:10:31.198989Z"
+    },
+    {
+      "name": "reallyme-buffa-codegen",
+      "version": "0.1.0",
+      "description": "ReallyMe fork: Shared code generation logic for buffa (descriptor \u2192 Rust source)",
+      "url": "https://crates.io/crates/reallyme-buffa-codegen",
+      "documentation": null,
+      "repository": "https://github.com/reallyme/buffa",
+      "downloads": 0,
+      "created_at": "2026-11-13T22:06:41.334411Z"
+    },
+    {
+      "name": "reallyme-buffa-proto-options",
+      "version": "0.1.0",
+      "description": "ReallyMe fork: Rust types for buffa's custom protobuf options (buffa/ext/options.proto)",
+      "url": "https://crates.io/crates/reallyme-buffa-proto-options",
+      "documentation": null,
+      "repository": "https://github.com/reallyme/buffa",
+      "downloads": 0,
+      "created_at": "2026-11-13T22:06:36.014487Z"
+    },
+    {
+      "name": "reallyme-buffa-types",
+      "version": "0.1.0",
+      "description": "ReallyMe fork: Protobuf well-known types for buffa",
+      "url": "https://crates.io/crates/reallyme-buffa-types",
+      "documentation": null,
+      "repository": "https://github.com/reallyme/buffa",
+      "downloads": 0,
+      "created_at": "2026-11-13T22:06:32.052801Z"
+    },
+    {
+      "name": "reallyme-buffa-descriptor",
+      "version": "0.1.0",
+      "description": "ReallyMe fork: Protobuf descriptor types (FileDescriptorProto, DescriptorProto, ...) for buffa",
+      "url": "https://crates.io/crates/reallyme-buffa-descriptor",
+      "documentation": null,
+      "repository": "https://github.com/reallyme/buffa",
+      "downloads": 0,
+      "created_at": "2026-11-13T22:06:26.767564Z"
+    },
+    {
+      "name": "reallyme-buffa",
+      "version": "0.1.0",
+      "description": "ReallyMe fork: A pure Rust Protocol Buffers implementation with first-class editions support",
+      "url": "https://crates.io/crates/reallyme-buffa",
+      "documentation": null,
+      "repository": "https://github.com/reallyme/buffa",
+      "downloads": 0,
+      "created_at": "2026-11-13T22:06:21.289791Z"
+    },
+    {
+      "name": "duke-pages-wasm",
+      "version": "0.3.1",
+      "description": "WebAssembly bindings for the duke-pages parser and serializer",
+      "url": "https://crates.io/crates/duke-pages-wasm",
+      "documentation": "https://docs.rs/duke-pages-wasm",
+      "repository": "https://github.com/extend-hq/duke-office",
+      "downloads": 0,
+      "created_at": "2026-11-13T22:06:10.680591Z"
+    },
+    {
+      "name": "broadcast-smooth",
+      "version": "0.1.0",
+      "description": "Microsoft Smooth Streaming (MS-SSTR) client Manifest: typed model with parse and serialize.",
+      "url": "https://crates.io/crates/broadcast-smooth",
+      "documentation": null,
+      "repository": "https://github.com/fishloa/rust-broadcast",
+      "downloads": 0,
+      "created_at": "2026-11-13T22:05:18.604035Z"
+    },
+    {
+      "name": "aerofoil-mlat",
+      "version": "0.1.0-beta.2",
+      "description": "Multilateration (MLAT) receiver registry, clock drift synchronization, and TDOA hyperbolic solver for aerofoil",
+      "url": "https://crates.io/crates/aerofoil-mlat",
+      "documentation": null,
+      "repository": "https://github.com/colinwolff/aerofoil",
+      "downloads": 0,
+      "created_at": "2026-11-13T22:03:12.833353Z"
+    },
+    {
+      "name": "tui-kiso",
+      "version": "0.1.0",
+      "description": "Kiso components for ratatui terminal interfaces",
+      "url": "https://crates.io/crates/tui-kiso",
+      "documentation": null,
+      "repository": "https://github.com/momoi-labs/blueprint",
+      "downloads": 0,
+      "created_at": "2026-11-13T22:02:16.520855Z"
+    },
+    {
+      "name": "kiso-core",
+      "version": "0.1.0",
+      "description": "Kiso component specs: one contract for the React, HTML, text and ratatui outputs",
+      "url": "https://crates.io/crates/kiso-core",
+      "documentation": null,
+      "repository": "https://github.com/momoi-labs/blueprint",
+      "downloads": 0,
+      "created_at": "2026-11-13T22:01:59.350847Z"
+    },
+    {
+      "name": "akibiyori",
+      "version": "0.1.0-rc1",
+      "description": "Generate readable Cobalt source from OpenAPI contracts and authored Markdown",
+      "url": "https://crates.io/crates/akibiyori",
+      "documentation": "https://docs.rs/akibiyori",
+      "repository": "https://github.com/oxur/akibiyori",
+      "downloads": 0,
+      "created_at": "2026-11-13T22:01:50.192873Z"
+    },
+    {
+      "name": "mapdiff",
+      "version": "0.1.0",
+      "description": "Review a change on a map of your code: diffs by function and type, drawn with what they touch",
+      "url": "https://crates.io/crates/mapdiff",
+      "documentation": null,
+      "repository": "https://github.com/avgvi/mapdiff",
+      "downloads": 0,
+      "created_at": "2026-11-13T21:59:33.942715Z"
+    },
+    {
+      "name": "wbfs-rs",
+      "version": "0.1.0",
+      "description": "WBFS (Wii and GameCube disc image) creation and extraction, interchangeable with wit",
+      "url": "https://crates.io/crates/wbfs-rs",
+      "documentation": null,
+      "repository": "https://github.com/alucryd/oxyromon",
+      "downloads": 0,
+      "created_at": "2026-11-13T21:59:18.630978Z"
+    },
+    {
+      "name": "rvz-rs",
+      "version": "0.1.0",
+      "description": "RVZ (GameCube and Wii disc image) compression and decompression, scrubbing included, interchangeable with Dolphin",
+      "url": "https://crates.io/crates/rvz-rs",
+      "documentation": null,
+      "repository": "https://github.com/alucryd/oxyromon",
+      "downloads": 0,
+      "created_at": "2026-11-13T21:59:15.719057Z"
+    },
+    {
+      "name": "chd-rs",
+      "version": "0.1.0",
+      "description": "CHD (MAME Compressed Hunks of Data) inspection, compression and decompression, interchangeable with chdman",
+      "url": "https://crates.io/crates/chd-rs",
+      "documentation": null,
+      "repository": "https://github.com/alucryd/oxyromon",
+      "downloads": 0,
+      "created_at": "2026-11-13T21:59:12.615286Z"
+    },
+    {
+      "name": "decidr",
+      "version": "0.1.0",
+      "description": "Command-line client for the TypeSafe (Jev) decision API.",
+      "url": "https://crates.io/crates/decidr",
+      "documentation": null,
+      "repository": null,
+      "downloads": 0,
+      "created_at": "2026-11-13T21:59:08.541415Z"
+    },
+    {
+      "name": "broadcast-dash",
+      "version": "0.1.0",
+      "description": "MPEG-DASH (ISO/IEC 23009-1) manifest syntax: the MPD model, its bounded parser, the SegmentTemplate substitution grammar and the xs:duration reader. Parsing only, no client.",
+      "url": "https://crates.io/crates/broadcast-dash",
+      "documentation": null,
+      "repository": "https://github.com/fishloa/rust-broadcast",
+      "downloads": 0,
+      "created_at": "2026-11-13T21:58:16.076455Z"
+    },
+    {
+      "name": "susik",
+      "version": "0.1.0",
+      "description": "Four Color Cards (\u56db\u8272\u724c): the 112-card deck, multiset hands, melds, and a layout solver shared by its games",
+      "url": "https://crates.io/crates/susik",
+      "documentation": "https://docs.rs/susik",
+      "repository": "https://github.com/jdh8/susik",
+      "downloads": 0,
+      "created_at": "2026-11-13T21:58:04.447325Z"
+    },
+    {
+      "name": "sort-raytracing",
+      "version": "0.1.0",
+      "description": "Pure Rust port of SORT (Simple Open-source Ray Tracing), focused on architectural rendering",
+      "url": "https://crates.io/crates/sort-raytracing",
+      "documentation": null,
+      "repository": "https://github.com/francisreboucas/sort-raytracing",
+      "downloads": 0,
+      "created_at": "2026-11-13T21:56:14.352874Z"
+    },
+    {
+      "name": "duke-pages",
+      "version": "0.3.1",
+      "description": "Rust parser, document model, and serializer for DOCX and legacy Word documents",
+      "url": "https://crates.io/crates/duke-pages",
+      "documentation": "https://docs.rs/duke-pages",
+      "repository": "https://github.com/extend-hq/duke-office",
+      "downloads": 0,
+      "created_at": "2026-11-13T21:53:48.929709Z"
+    },
+    {
+      "name": "chaoshub",
+      "version": "0.1.0",
+      "description": "A terminal app that tracks your GitHub pull requests, with jj or git",
+      "url": "https://crates.io/crates/chaoshub",
+      "documentation": null,
+      "repository": "https://github.com/chaosteil/chaoshub",
+      "downloads": 0,
+      "created_at": "2026-11-13T21:50:48.856213Z"
+    },
+    {
+      "name": "cf-vault",
+      "version": "0.1.0",
+      "description": "Manage Cloudflare credentials: sign in, keep them in the system keychain, and run commands with them",
+      "url": "https://crates.io/crates/cf-vault",
+      "documentation": "https://github.com/cf-contrib/cf-vault",
+      "repository": "https://github.com/cf-contrib/cf-vault",
+      "downloads": 0,
+      "created_at": "2026-11-13T21:49:33.235616Z"
+    },
+    {
+      "name": "sitr",
+      "version": "0.1.0",
+      "description": "sitr CLI: run predefined tree-sitter queries (product binary for sc-treesitter).",
+      "url": "https://crates.io/crates/sitr",
+      "documentation": null,
+      "repository": null,
+      "downloads": 0,
+      "created_at": "2026-11-13T21:49:16.505062Z"
+    },
+    {
+      "name": "mapdiff-server",
+      "version": "0.1.0",
+      "description": "Local HTTP API for the UI.",
+      "url": "https://crates.io/crates/mapdiff-server",
+      "documentation": null,
+      "repository": "https://github.com/avgvi/mapdiff",
+      "downloads": 0,
+      "created_at": "2026-11-13T21:48:23.735371Z"
+    },
+    {
+      "name": "mapdiff-graph",
+      "version": "0.1.0",
+      "description": "Reference graph, edge lifting, cycles and impact.",
+      "url": "https://crates.io/crates/mapdiff-graph",
+      "documentation": null,
+      "repository": "https://github.com/avgvi/mapdiff",
+      "downloads": 0,
+      "created_at": "2026-11-13T21:48:05.740843Z"
+    }
+  ]
+}
