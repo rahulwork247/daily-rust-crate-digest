@@ -1,13 +1,124 @@
 {
   "title": "Daily Rust Crate Digest",
-  "description": "Automated daily curated feed of new and trending Rust crates from crates.io",
-  "home_page_url": "https://github.com/rahulwork247/daily-rust-crate-digest",
+  "description": "Automated daily curated feed of new Rust crates from crates.io",
+  "home_page_url": "https://rahulwork247.github.io/daily-rust-crate-digest/",
   "feed_url": "https://rahulwork247.github.io/daily-rust-crate-digest/feed.json",
-  "updated": "2026-11-13T22:22:25.597553+00:00",
+  "updated": "2026-11-13T22:40:40.544090+00:00",
   "monetization": {
-    "buymeacoffee": "https://buymeacoffee.com/rahulwork247"
+    "buymeacoffee": "https://buymeacoffee.com/rahulwork247",
+    "sponsors": "https://github.com/sponsors/rahulwork247"
   },
   "items": [
+    {
+      "name": "pixelforge-ash",
+      "version": "0.38.1+1.4.352.f4c2ca3",
+      "description": "Vulkan bindings for Rust",
+      "url": "https://crates.io/crates/pixelforge-ash",
+      "documentation": null,
+      "repository": "https://github.com/hgaiser/ash",
+      "downloads": 0,
+      "created_at": "2026-11-13T22:40:32.349133Z"
+    },
+    {
+      "name": "do-not-drop",
+      "version": "0.1.0",
+      "description": "Do-Not-Drop is a package for preventing AI agents and developers from deleting, dropping or truncating tables by mistake.",
+      "url": "https://crates.io/crates/do-not-drop",
+      "documentation": null,
+      "repository": "https://github.com/antonyare93/do-not-drop",
+      "downloads": 0,
+      "created_at": "2026-11-13T22:40:12.781131Z"
+    },
+    {
+      "name": "fsspec_fuse",
+      "version": "0.1.0",
+      "description": "Mount fsspec filesystems with FUSE",
+      "url": "https://crates.io/crates/fsspec_fuse",
+      "documentation": null,
+      "repository": "https://github.com/1kbgz/fsspec-fuse",
+      "downloads": 0,
+      "created_at": "2026-11-13T22:39:27.824878Z"
+    },
+    {
+      "name": "xrack-interpreter",
+      "version": "0.5.0",
+      "description": "XRack interpreter support",
+      "url": "https://crates.io/crates/xrack-interpreter",
+      "documentation": null,
+      "repository": "https://github.com/smallsunsun1/xrack",
+      "downloads": 0,
+      "created_at": "2026-11-13T22:39:20.856549Z"
+    },
+    {
+      "name": "tsap-oo",
+      "version": "0.1.0",
+      "description": "\u5341\u80e1 (Tsa\u030dp-\u00f4o), the Taiwanese Four Color Cards game: rules, round state machine, scoreboard, and bots",
+      "url": "https://crates.io/crates/tsap-oo",
+      "documentation": "https://docs.rs/tsap-oo",
+      "repository": "https://github.com/jdh8/tsap-oo",
+      "downloads": 0,
+      "created_at": "2026-11-13T22:38:13.392143Z"
+    },
+    {
+      "name": "emx",
+      "version": "0.0.1",
+      "description": "A fast terminal editor with Emacs keybindings, built for working alongside coding agents",
+      "url": "https://crates.io/crates/emx",
+      "documentation": null,
+      "repository": "https://github.com/emergingrobotics/emx",
+      "downloads": 0,
+      "created_at": "2026-11-13T22:34:50.446145Z"
+    },
+    {
+      "name": "reallyme-protoc-gen-buffa",
+      "version": "0.1.0",
+      "description": "ReallyMe fork: protoc plugin for generating Rust code with buffa",
+      "url": "https://crates.io/crates/reallyme-protoc-gen-buffa",
+      "documentation": null,
+      "repository": "https://github.com/reallyme/buffa",
+      "downloads": 0,
+      "created_at": "2026-11-13T22:34:15.234072Z"
+    },
+    {
+      "name": "miden-prover-service",
+      "version": "0.0.0",
+      "description": "Placeholder crate for a Miden VM project",
+      "url": "https://crates.io/crates/miden-prover-service",
+      "documentation": null,
+      "repository": "https://github.com/0xMiden/miden-vm",
+      "downloads": 0,
+      "created_at": "2026-11-13T22:32:22.799379Z"
+    },
+    {
+      "name": "aixm",
+      "version": "0.1.0",
+      "description": "AIXM 5.x parser",
+      "url": "https://crates.io/crates/aixm",
+      "documentation": null,
+      "repository": "https://github.com/AeronauticalMaps/libefb",
+      "downloads": 0,
+      "created_at": "2026-11-13T22:28:23.581370Z"
+    },
+    {
+      "name": "duke-slides-wasm",
+      "version": "0.4.1",
+      "description": "WebAssembly bindings for the Extend PowerPoint parser",
+      "url": "https://crates.io/crates/duke-slides-wasm",
+      "documentation": null,
+      "repository": "https://github.com/extend-hq/duke-office",
+      "downloads": 0,
+      "created_at": "2026-11-13T22:23:18.909405Z"
+    },
+    {
+      "name": "reallyme-buffa-remote-derive",
+      "version": "0.1.0",
+      "description": "ReallyMe fork: Derive macros that implement buffa's pluggable owned-type traits (ProtoString, ProtoBytes, ProtoList, ProtoBox, MapStorage) for a newtype wrapping a foreign remote type",
+      "url": "https://crates.io/crates/reallyme-buffa-remote-derive",
+      "documentation": null,
+      "repository": "https://github.com/reallyme/buffa",
+      "downloads": 0,
+      "created_at": "2026-11-13T22:23:06.946124Z"
+    },
     {
       "name": "reallyme-buffa-build",
       "version": "0.1.0",
@@ -20,11 +131,11 @@
     },
     {
       "name": "csvidx",
-      "version": "0.1.0",
+      "version": "1.0.1",
       "description": "Secondary index for huge CSV files: lookup by key without importing",
       "url": "https://crates.io/crates/csvidx",
       "documentation": null,
-      "repository": "https://github.com/hoopengo/csvidx",
+      "repository": "https://github.com/csvidx/csvidx",
       "downloads": 0,
       "created_at": "2026-11-13T22:14:40.442654Z"
     },
@@ -197,116 +308,6 @@
       "repository": "https://github.com/alucryd/oxyromon",
       "downloads": 0,
       "created_at": "2026-11-13T21:59:15.719057Z"
-    },
-    {
-      "name": "chd-rs",
-      "version": "0.1.0",
-      "description": "CHD (MAME Compressed Hunks of Data) inspection, compression and decompression, interchangeable with chdman",
-      "url": "https://crates.io/crates/chd-rs",
-      "documentation": null,
-      "repository": "https://github.com/alucryd/oxyromon",
-      "downloads": 0,
-      "created_at": "2026-11-13T21:59:12.615286Z"
-    },
-    {
-      "name": "decidr",
-      "version": "0.1.0",
-      "description": "Command-line client for the TypeSafe (Jev) decision API.",
-      "url": "https://crates.io/crates/decidr",
-      "documentation": null,
-      "repository": null,
-      "downloads": 0,
-      "created_at": "2026-11-13T21:59:08.541415Z"
-    },
-    {
-      "name": "broadcast-dash",
-      "version": "0.1.0",
-      "description": "MPEG-DASH (ISO/IEC 23009-1) manifest syntax: the MPD model, its bounded parser, the SegmentTemplate substitution grammar and the xs:duration reader. Parsing only, no client.",
-      "url": "https://crates.io/crates/broadcast-dash",
-      "documentation": null,
-      "repository": "https://github.com/fishloa/rust-broadcast",
-      "downloads": 0,
-      "created_at": "2026-11-13T21:58:16.076455Z"
-    },
-    {
-      "name": "susik",
-      "version": "0.1.0",
-      "description": "Four Color Cards (\u56db\u8272\u724c): the 112-card deck, multiset hands, melds, and a layout solver shared by its games",
-      "url": "https://crates.io/crates/susik",
-      "documentation": "https://docs.rs/susik",
-      "repository": "https://github.com/jdh8/susik",
-      "downloads": 0,
-      "created_at": "2026-11-13T21:58:04.447325Z"
-    },
-    {
-      "name": "sort-raytracing",
-      "version": "0.1.0",
-      "description": "Pure Rust port of SORT (Simple Open-source Ray Tracing), focused on architectural rendering",
-      "url": "https://crates.io/crates/sort-raytracing",
-      "documentation": null,
-      "repository": "https://github.com/francisreboucas/sort-raytracing",
-      "downloads": 0,
-      "created_at": "2026-11-13T21:56:14.352874Z"
-    },
-    {
-      "name": "duke-pages",
-      "version": "0.3.1",
-      "description": "Rust parser, document model, and serializer for DOCX and legacy Word documents",
-      "url": "https://crates.io/crates/duke-pages",
-      "documentation": "https://docs.rs/duke-pages",
-      "repository": "https://github.com/extend-hq/duke-office",
-      "downloads": 0,
-      "created_at": "2026-11-13T21:53:48.929709Z"
-    },
-    {
-      "name": "chaoshub",
-      "version": "0.1.0",
-      "description": "A terminal app that tracks your GitHub pull requests, with jj or git",
-      "url": "https://crates.io/crates/chaoshub",
-      "documentation": null,
-      "repository": "https://github.com/chaosteil/chaoshub",
-      "downloads": 0,
-      "created_at": "2026-11-13T21:50:48.856213Z"
-    },
-    {
-      "name": "cf-vault",
-      "version": "0.1.0",
-      "description": "Manage Cloudflare credentials: sign in, keep them in the system keychain, and run commands with them",
-      "url": "https://crates.io/crates/cf-vault",
-      "documentation": "https://github.com/cf-contrib/cf-vault",
-      "repository": "https://github.com/cf-contrib/cf-vault",
-      "downloads": 0,
-      "created_at": "2026-11-13T21:49:33.235616Z"
-    },
-    {
-      "name": "sitr",
-      "version": "0.1.0",
-      "description": "sitr CLI: run predefined tree-sitter queries (product binary for sc-treesitter).",
-      "url": "https://crates.io/crates/sitr",
-      "documentation": null,
-      "repository": null,
-      "downloads": 0,
-      "created_at": "2026-11-13T21:49:16.505062Z"
-    },
-    {
-      "name": "mapdiff-server",
-      "version": "0.1.0",
-      "description": "Local HTTP API for the UI.",
-      "url": "https://crates.io/crates/mapdiff-server",
-      "documentation": null,
-      "repository": "https://github.com/avgvi/mapdiff",
-      "downloads": 0,
-      "created_at": "2026-11-13T21:48:23.735371Z"
-    },
-    {
-      "name": "mapdiff-graph",
-      "version": "0.1.0",
-      "description": "Reference graph, edge lifting, cycles and impact.",
-      "url": "https://crates.io/crates/mapdiff-graph",
-      "documentation": null,
-      "repository": "https://github.com/avgvi/mapdiff",
-      "downloads": 0,
-      "created_at": "2026-11-13T21:48:05.740843Z"
     }
   ]
 }

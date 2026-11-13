@@ -5,39 +5,159 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Daily Rust Crate Digest</title>
   <style>
-    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; background: #0f141c; color: #e1e7ec; margin: 0; padding: 2rem; }
+    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #0f141c; color: #e1e7ec; margin: 0; padding: 2rem; }
     .container { max-width: 900px; margin: 0 auto; }
     header { border-bottom: 1px solid #2d3748; padding-bottom: 1.5rem; margin-bottom: 2rem; }
-    h1 { color: #f77f00; margin: 0 0 0.5rem 0; }
-    p.subtitle { color: #a0aec0; margin: 0; }
-    .actions { margin-top: 1rem; display: flex; gap: 1rem; flex-wrap: wrap; align-items: center; }
-    .btn { padding: 0.5rem 1rem; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.9rem; }
+    h1 { color: #f77f00; margin-bottom: 0.5rem; }
+    .subtitle { color: #a0aec0; margin-top: 0; }
+    .actions { display: flex; gap: 1rem; align-items: center; margin-top: 1rem; flex-wrap: wrap; }
+    .btn { display: inline-block; padding: 0.5rem 1rem; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.9rem; }
     .btn-feed { background: #2d3748; color: #fff; }
-    .btn-coffee { background: #ffdd00; color: #000; }
-    .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 1rem; }
-    .crate-card { background: #1a202c; border: 1px solid #2d3748; border-radius: 8px; padding: 1rem; display: flex; flex-direction: column; justify-content: space-between; }
+    .btn-sponsor { background: #ffdd00; color: #000; }
+    .grid { display: grid; grid-template-columns: 1fr; gap: 1.25rem; }
+    .crate-card { background: #1a202c; border: 1px solid #2d3748; border-radius: 8px; padding: 1.25rem; }
     .card-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.5rem; }
-    .crate-name { color: #63b3ed; text-decoration: none; font-weight: 600; font-size: 1.1rem; word-break: break-all; }
-    .badge { background: #2b6cb0; color: #fff; padding: 0.2rem 0.5rem; border-radius: 4px; font-size: 0.75rem; }
-    .crate-desc { color: #cbd5e0; font-size: 0.9rem; line-height: 1.4; flex-grow: 1; margin: 0.5rem 0 1rem 0; }
-    .card-footer { display: flex; justify-content: space-between; align-items: center; font-size: 0.8rem; color: #718096; }
-    .view-btn { color: #f77f00; text-decoration: none; font-weight: 500; }
-    footer { margin-top: 3rem; text-align: center; border-top: 1px solid #2d3748; padding-top: 1.5rem; color: #718096; font-size: 0.85rem; }
+    .crate-name { font-size: 1.2rem; font-weight: bold; color: #63b3ed; text-decoration: none; }
+    .badge { background: #2b6cb0; color: #fff; font-size: 0.75rem; padding: 0.2rem 0.5rem; border-radius: 4px; }
+    .crate-desc { color: #cbd5e0; font-size: 0.95rem; line-height: 1.5; margin: 0.5rem 0 1rem 0; }
+    .card-footer { display: flex; justify-content: space-between; font-size: 0.85rem; color: #718096; align-items: center; }
+    .view-btn { color: #ed8936; text-decoration: none; font-weight: 600; }
   </style>
 </head>
 <body>
   <div class="container">
     <header>
       <h1>🦀 Daily Rust Crate Digest</h1>
-      <p class="subtitle">Curated daily digest of newly released Rust crates straight from crates.io.</p>
+      <p class="subtitle">Curated, daily automated directory of fresh Rust crates published on crates.io</p>
       <div class="actions">
         <a href="feed.json" class="btn btn-feed">JSON Feed</a>
         <a href="feed.xml" class="btn btn-feed">RSS Feed</a>
-        <a href="https://buymeacoffee.com/rahulwork247" target="_blank" class="btn btn-coffee">☕ Support via Buy Me a Coffee</a>
+        <a href="https://buymeacoffee.com/rahulwork247" target="_blank" class="btn btn-sponsor">☕ Support this Project</a>
       </div>
     </header>
     <main class="grid">
       
+        <div class="crate-card">
+          <div class="card-header">
+            <a href="https://crates.io/crates/pixelforge-ash" target="_blank" class="crate-name">pixelforge-ash</a>
+            <span class="badge">v0.38.1+1.4.352.f4c2ca3</span>
+          </div>
+          <p class="crate-desc">Vulkan bindings for Rust</p>
+          <div class="card-footer">
+            <span class="date">Published: 2026-11-13</span>
+            <a href="https://crates.io/crates/pixelforge-ash" target="_blank" class="view-btn">crates.io ↗</a>
+          </div>
+        </div>
+        <div class="crate-card">
+          <div class="card-header">
+            <a href="https://crates.io/crates/do-not-drop" target="_blank" class="crate-name">do-not-drop</a>
+            <span class="badge">v0.1.0</span>
+          </div>
+          <p class="crate-desc">Do-Not-Drop is a package for preventing AI agents and developers from deleting, dropping or truncating tables by mistake.</p>
+          <div class="card-footer">
+            <span class="date">Published: 2026-11-13</span>
+            <a href="https://crates.io/crates/do-not-drop" target="_blank" class="view-btn">crates.io ↗</a>
+          </div>
+        </div>
+        <div class="crate-card">
+          <div class="card-header">
+            <a href="https://crates.io/crates/fsspec_fuse" target="_blank" class="crate-name">fsspec_fuse</a>
+            <span class="badge">v0.1.0</span>
+          </div>
+          <p class="crate-desc">Mount fsspec filesystems with FUSE</p>
+          <div class="card-footer">
+            <span class="date">Published: 2026-11-13</span>
+            <a href="https://crates.io/crates/fsspec_fuse" target="_blank" class="view-btn">crates.io ↗</a>
+          </div>
+        </div>
+        <div class="crate-card">
+          <div class="card-header">
+            <a href="https://crates.io/crates/xrack-interpreter" target="_blank" class="crate-name">xrack-interpreter</a>
+            <span class="badge">v0.5.0</span>
+          </div>
+          <p class="crate-desc">XRack interpreter support</p>
+          <div class="card-footer">
+            <span class="date">Published: 2026-11-13</span>
+            <a href="https://crates.io/crates/xrack-interpreter" target="_blank" class="view-btn">crates.io ↗</a>
+          </div>
+        </div>
+        <div class="crate-card">
+          <div class="card-header">
+            <a href="https://crates.io/crates/tsap-oo" target="_blank" class="crate-name">tsap-oo</a>
+            <span class="badge">v0.1.0</span>
+          </div>
+          <p class="crate-desc">十胡 (Tsa̍p-ôo), the Taiwanese Four Color Cards game: rules, round state machine, scoreboard, and bots</p>
+          <div class="card-footer">
+            <span class="date">Published: 2026-11-13</span>
+            <a href="https://crates.io/crates/tsap-oo" target="_blank" class="view-btn">crates.io ↗</a>
+          </div>
+        </div>
+        <div class="crate-card">
+          <div class="card-header">
+            <a href="https://crates.io/crates/emx" target="_blank" class="crate-name">emx</a>
+            <span class="badge">v0.0.1</span>
+          </div>
+          <p class="crate-desc">A fast terminal editor with Emacs keybindings, built for working alongside coding agents</p>
+          <div class="card-footer">
+            <span class="date">Published: 2026-11-13</span>
+            <a href="https://crates.io/crates/emx" target="_blank" class="view-btn">crates.io ↗</a>
+          </div>
+        </div>
+        <div class="crate-card">
+          <div class="card-header">
+            <a href="https://crates.io/crates/reallyme-protoc-gen-buffa" target="_blank" class="crate-name">reallyme-protoc-gen-buffa</a>
+            <span class="badge">v0.1.0</span>
+          </div>
+          <p class="crate-desc">ReallyMe fork: protoc plugin for generating Rust code with buffa</p>
+          <div class="card-footer">
+            <span class="date">Published: 2026-11-13</span>
+            <a href="https://crates.io/crates/reallyme-protoc-gen-buffa" target="_blank" class="view-btn">crates.io ↗</a>
+          </div>
+        </div>
+        <div class="crate-card">
+          <div class="card-header">
+            <a href="https://crates.io/crates/miden-prover-service" target="_blank" class="crate-name">miden-prover-service</a>
+            <span class="badge">v0.0.0</span>
+          </div>
+          <p class="crate-desc">Placeholder crate for a Miden VM project</p>
+          <div class="card-footer">
+            <span class="date">Published: 2026-11-13</span>
+            <a href="https://crates.io/crates/miden-prover-service" target="_blank" class="view-btn">crates.io ↗</a>
+          </div>
+        </div>
+        <div class="crate-card">
+          <div class="card-header">
+            <a href="https://crates.io/crates/aixm" target="_blank" class="crate-name">aixm</a>
+            <span class="badge">v0.1.0</span>
+          </div>
+          <p class="crate-desc">AIXM 5.x parser</p>
+          <div class="card-footer">
+            <span class="date">Published: 2026-11-13</span>
+            <a href="https://crates.io/crates/aixm" target="_blank" class="view-btn">crates.io ↗</a>
+          </div>
+        </div>
+        <div class="crate-card">
+          <div class="card-header">
+            <a href="https://crates.io/crates/duke-slides-wasm" target="_blank" class="crate-name">duke-slides-wasm</a>
+            <span class="badge">v0.4.1</span>
+          </div>
+          <p class="crate-desc">WebAssembly bindings for the Extend PowerPoint parser</p>
+          <div class="card-footer">
+            <span class="date">Published: 2026-11-13</span>
+            <a href="https://crates.io/crates/duke-slides-wasm" target="_blank" class="view-btn">crates.io ↗</a>
+          </div>
+        </div>
+        <div class="crate-card">
+          <div class="card-header">
+            <a href="https://crates.io/crates/reallyme-buffa-remote-derive" target="_blank" class="crate-name">reallyme-buffa-remote-derive</a>
+            <span class="badge">v0.1.0</span>
+          </div>
+          <p class="crate-desc">ReallyMe fork: Derive macros that implement buffa's pluggable owned-type traits (ProtoString, ProtoBytes, ProtoList, ProtoBox, MapStorage) for a newtype wrapping a foreign remote type</p>
+          <div class="card-footer">
+            <span class="date">Published: 2026-11-13</span>
+            <a href="https://crates.io/crates/reallyme-buffa-remote-derive" target="_blank" class="view-btn">crates.io ↗</a>
+          </div>
+        </div>
         <div class="crate-card">
           <div class="card-header">
             <a href="https://crates.io/crates/reallyme-buffa-build" target="_blank" class="crate-name">reallyme-buffa-build</a>
@@ -52,7 +172,7 @@
         <div class="crate-card">
           <div class="card-header">
             <a href="https://crates.io/crates/csvidx" target="_blank" class="crate-name">csvidx</a>
-            <span class="badge">v0.1.0</span>
+            <span class="badge">v1.0.1</span>
           </div>
           <p class="crate-desc">Secondary index for huge CSV files: lookup by key without importing</p>
           <div class="card-footer">
@@ -247,131 +367,7 @@
             <a href="https://crates.io/crates/rvz-rs" target="_blank" class="view-btn">crates.io ↗</a>
           </div>
         </div>
-        <div class="crate-card">
-          <div class="card-header">
-            <a href="https://crates.io/crates/chd-rs" target="_blank" class="crate-name">chd-rs</a>
-            <span class="badge">v0.1.0</span>
-          </div>
-          <p class="crate-desc">CHD (MAME Compressed Hunks of Data) inspection, compression and decompression, interchangeable with chdman</p>
-          <div class="card-footer">
-            <span class="date">Published: 2026-11-13</span>
-            <a href="https://crates.io/crates/chd-rs" target="_blank" class="view-btn">crates.io ↗</a>
-          </div>
-        </div>
-        <div class="crate-card">
-          <div class="card-header">
-            <a href="https://crates.io/crates/decidr" target="_blank" class="crate-name">decidr</a>
-            <span class="badge">v0.1.0</span>
-          </div>
-          <p class="crate-desc">Command-line client for the TypeSafe (Jev) decision API.</p>
-          <div class="card-footer">
-            <span class="date">Published: 2026-11-13</span>
-            <a href="https://crates.io/crates/decidr" target="_blank" class="view-btn">crates.io ↗</a>
-          </div>
-        </div>
-        <div class="crate-card">
-          <div class="card-header">
-            <a href="https://crates.io/crates/broadcast-dash" target="_blank" class="crate-name">broadcast-dash</a>
-            <span class="badge">v0.1.0</span>
-          </div>
-          <p class="crate-desc">MPEG-DASH (ISO/IEC 23009-1) manifest syntax: the MPD model, its bounded parser, the SegmentTemplate substitution grammar and the xs:duration reader. Parsing only, no client.</p>
-          <div class="card-footer">
-            <span class="date">Published: 2026-11-13</span>
-            <a href="https://crates.io/crates/broadcast-dash" target="_blank" class="view-btn">crates.io ↗</a>
-          </div>
-        </div>
-        <div class="crate-card">
-          <div class="card-header">
-            <a href="https://crates.io/crates/susik" target="_blank" class="crate-name">susik</a>
-            <span class="badge">v0.1.0</span>
-          </div>
-          <p class="crate-desc">Four Color Cards (四色牌): the 112-card deck, multiset hands, melds, and a layout solver shared by its games</p>
-          <div class="card-footer">
-            <span class="date">Published: 2026-11-13</span>
-            <a href="https://crates.io/crates/susik" target="_blank" class="view-btn">crates.io ↗</a>
-          </div>
-        </div>
-        <div class="crate-card">
-          <div class="card-header">
-            <a href="https://crates.io/crates/sort-raytracing" target="_blank" class="crate-name">sort-raytracing</a>
-            <span class="badge">v0.1.0</span>
-          </div>
-          <p class="crate-desc">Pure Rust port of SORT (Simple Open-source Ray Tracing), focused on architectural rendering</p>
-          <div class="card-footer">
-            <span class="date">Published: 2026-11-13</span>
-            <a href="https://crates.io/crates/sort-raytracing" target="_blank" class="view-btn">crates.io ↗</a>
-          </div>
-        </div>
-        <div class="crate-card">
-          <div class="card-header">
-            <a href="https://crates.io/crates/duke-pages" target="_blank" class="crate-name">duke-pages</a>
-            <span class="badge">v0.3.1</span>
-          </div>
-          <p class="crate-desc">Rust parser, document model, and serializer for DOCX and legacy Word documents</p>
-          <div class="card-footer">
-            <span class="date">Published: 2026-11-13</span>
-            <a href="https://crates.io/crates/duke-pages" target="_blank" class="view-btn">crates.io ↗</a>
-          </div>
-        </div>
-        <div class="crate-card">
-          <div class="card-header">
-            <a href="https://crates.io/crates/chaoshub" target="_blank" class="crate-name">chaoshub</a>
-            <span class="badge">v0.1.0</span>
-          </div>
-          <p class="crate-desc">A terminal app that tracks your GitHub pull requests, with jj or git</p>
-          <div class="card-footer">
-            <span class="date">Published: 2026-11-13</span>
-            <a href="https://crates.io/crates/chaoshub" target="_blank" class="view-btn">crates.io ↗</a>
-          </div>
-        </div>
-        <div class="crate-card">
-          <div class="card-header">
-            <a href="https://crates.io/crates/cf-vault" target="_blank" class="crate-name">cf-vault</a>
-            <span class="badge">v0.1.0</span>
-          </div>
-          <p class="crate-desc">Manage Cloudflare credentials: sign in, keep them in the system keychain, and run commands with them</p>
-          <div class="card-footer">
-            <span class="date">Published: 2026-11-13</span>
-            <a href="https://crates.io/crates/cf-vault" target="_blank" class="view-btn">crates.io ↗</a>
-          </div>
-        </div>
-        <div class="crate-card">
-          <div class="card-header">
-            <a href="https://crates.io/crates/sitr" target="_blank" class="crate-name">sitr</a>
-            <span class="badge">v0.1.0</span>
-          </div>
-          <p class="crate-desc">sitr CLI: run predefined tree-sitter queries (product binary for sc-treesitter).</p>
-          <div class="card-footer">
-            <span class="date">Published: 2026-11-13</span>
-            <a href="https://crates.io/crates/sitr" target="_blank" class="view-btn">crates.io ↗</a>
-          </div>
-        </div>
-        <div class="crate-card">
-          <div class="card-header">
-            <a href="https://crates.io/crates/mapdiff-server" target="_blank" class="crate-name">mapdiff-server</a>
-            <span class="badge">v0.1.0</span>
-          </div>
-          <p class="crate-desc">Local HTTP API for the UI.</p>
-          <div class="card-footer">
-            <span class="date">Published: 2026-11-13</span>
-            <a href="https://crates.io/crates/mapdiff-server" target="_blank" class="view-btn">crates.io ↗</a>
-          </div>
-        </div>
-        <div class="crate-card">
-          <div class="card-header">
-            <a href="https://crates.io/crates/mapdiff-graph" target="_blank" class="crate-name">mapdiff-graph</a>
-            <span class="badge">v0.1.0</span>
-          </div>
-          <p class="crate-desc">Reference graph, edge lifting, cycles and impact.</p>
-          <div class="card-footer">
-            <span class="date">Published: 2026-11-13</span>
-            <a href="https://crates.io/crates/mapdiff-graph" target="_blank" class="view-btn">crates.io ↗</a>
-          </div>
-        </div>
     </main>
-    <footer>
-      <p>Automated via GitHub Actions. Zero-cost infrastructure. <a href="https://buymeacoffee.com/rahulwork247" style="color:#f77f00;">Sponsor this project</a>.</p>
-    </footer>
   </div>
 </body>
 </html>
