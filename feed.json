@@ -1,4 +1,215 @@
 {
-  "generated": "2026-11-13T23:14:57.287142Z",
-  "items": []
+  "updated": "2026-11-14T12:37:05.545423+00:00",
+  "items": [
+    {
+      "name": "dman-web",
+      "version": "0.1.0",
+      "description": "dman's browser UI: server-rendered HTML, htmx and SSE, served by the daemon",
+      "url": "https://crates.io/crates/dman-web",
+      "created_at": "2026-11-14T12:36:40.385536Z"
+    },
+    {
+      "name": "noxi-events",
+      "version": "0.0.1",
+      "description": "Structured operation events, per-build output streams and rustc-style terminal rendering for noxi",
+      "url": "https://crates.io/crates/noxi-events",
+      "created_at": "2026-11-14T12:35:57.918667Z"
+    },
+    {
+      "name": "agentty-gpui-ztracing",
+      "version": "0.1.0",
+      "description": "Zed's ztracing crate, as used by agentty-gpui",
+      "url": "https://crates.io/crates/agentty-gpui-ztracing",
+      "created_at": "2026-11-14T12:35:34.093374Z"
+    },
+    {
+      "name": "pdf2-cli",
+      "version": "0.1.0-alpha.1",
+      "description": "Command-line front end for the pdf2 crate: inspect PDF 2.0 files.",
+      "url": "https://crates.io/crates/pdf2-cli",
+      "created_at": "2026-11-14T12:33:40.904273Z"
+    },
+    {
+      "name": "dman-config",
+      "version": "0.1.0",
+      "description": "Configuration, paths and secrets handling for dman",
+      "url": "https://crates.io/crates/dman-config",
+      "created_at": "2026-11-14T12:26:23.452893Z"
+    },
+    {
+      "name": "agentty-gpui-ztracing-macro",
+      "version": "0.1.0",
+      "description": "Zed's ztracing_macro crate, as used by agentty-gpui",
+      "url": "https://crates.io/crates/agentty-gpui-ztracing-macro",
+      "created_at": "2026-11-14T12:25:25.136634Z"
+    },
+    {
+      "name": "drawen",
+      "version": "0.1.0",
+      "description": "Public facade for the Drawen UI toolkit",
+      "url": "https://crates.io/crates/drawen",
+      "created_at": "2026-11-14T12:25:24.535095Z"
+    },
+    {
+      "name": "tessera-rl-rts",
+      "version": "0.2.0",
+      "description": "Tessera's RTS environment (tessera/RTS-v1): world, map generator and turn resolution",
+      "url": "https://crates.io/crates/tessera-rl-rts",
+      "created_at": "2026-11-14T12:24:33.871936Z"
+    },
+    {
+      "name": "tessera-rl-onnx",
+      "version": "0.2.0",
+      "description": "Tessera ONNX search evaluator: loading and checks of ONNX Runtime (ADR-0057)",
+      "url": "https://crates.io/crates/tessera-rl-onnx",
+      "created_at": "2026-11-14T12:24:33.070456Z"
+    },
+    {
+      "name": "tessera-rl-simd",
+      "version": "0.2.0",
+      "description": "Audited fixed-width lane types and runtime dispatch for Tessera",
+      "url": "https://crates.io/crates/tessera-rl-simd",
+      "created_at": "2026-11-14T12:24:21.294828Z"
+    },
+    {
+      "name": "aac-convert",
+      "version": "0.3.2",
+      "description": "FLAC to AAC (ADTS or M4A) converter for the native Ferrite Rust AAC encoder",
+      "url": "https://crates.io/crates/aac-convert",
+      "created_at": "2026-11-14T12:20:13.666326Z"
+    },
+    {
+      "name": "ferrite-aac",
+      "version": "0.3.2",
+      "description": "Native Rust AAC-LC encoder derived from Fraunhofer FDK AAC (Ferrite)",
+      "url": "https://crates.io/crates/ferrite-aac",
+      "created_at": "2026-11-14T12:17:32.819432Z"
+    },
+    {
+      "name": "vaka-sdk",
+      "version": "0.2.0",
+      "description": "Rust SDK for Vaka: panics, errors, release health and events",
+      "url": "https://crates.io/crates/vaka-sdk",
+      "created_at": "2026-11-14T12:16:31.758496Z"
+    },
+    {
+      "name": "dman-client",
+      "version": "0.1.0",
+      "description": "Typed async client (WebSocket JSON-RPC) for the dman daemon API",
+      "url": "https://crates.io/crates/dman-client",
+      "created_at": "2026-11-14T12:16:04.134681Z"
+    },
+    {
+      "name": "agentty-gpui-zlog",
+      "version": "0.1.0",
+      "description": "Zed's zlog crate, as used by agentty-gpui",
+      "url": "https://crates.io/crates/agentty-gpui-zlog",
+      "created_at": "2026-11-14T12:15:20.240275Z"
+    },
+    {
+      "name": "drawen-browser",
+      "version": "0.1.0",
+      "description": "Browser surface and Servo integration layer for Drawen",
+      "url": "https://crates.io/crates/drawen-browser",
+      "created_at": "2026-11-14T12:14:39.017628Z"
+    },
+    {
+      "name": "klibs-rules",
+      "version": "0.3.0",
+      "description": "Checks a Cargo workspace against the Astra-Interactive architecture rules",
+      "url": "https://crates.io/crates/klibs-rules",
+      "created_at": "2026-11-14T12:14:01.235881Z"
+    },
+    {
+      "name": "minigrep_by_ani",
+      "version": "0.1.0",
+      "description": "A lightweight version of grep tool.",
+      "url": "https://crates.io/crates/minigrep_by_ani",
+      "created_at": "2026-11-14T12:13:01.447244Z"
+    },
+    {
+      "name": "fexu",
+      "version": "0.1.0",
+      "description": "Experimental model-first web framework",
+      "url": "https://crates.io/crates/fexu",
+      "created_at": "2026-11-14T12:10:06.267328Z"
+    },
+    {
+      "name": "fexu-api",
+      "version": "0.1.0",
+      "description": "HTTP runtime for the Fexu framework",
+      "url": "https://crates.io/crates/fexu-api",
+      "created_at": "2026-11-14T12:09:53.088347Z"
+    },
+    {
+      "name": "fexu-admin",
+      "version": "0.1.0",
+      "description": "Server-rendered admin for the Fexu framework",
+      "url": "https://crates.io/crates/fexu-admin",
+      "created_at": "2026-11-14T12:09:24.126538Z"
+    },
+    {
+      "name": "fexu-cli",
+      "version": "0.1.0",
+      "description": "Command line for the Fexu framework",
+      "url": "https://crates.io/crates/fexu-cli",
+      "created_at": "2026-11-14T12:09:04.591880Z"
+    },
+    {
+      "name": "bedlam",
+      "version": "0.2.0",
+      "description": "Self-hosted microVM sandboxes for coding agents, placed by AMC admission",
+      "url": "https://crates.io/crates/bedlam",
+      "created_at": "2026-11-14T12:06:19.691368Z"
+    },
+    {
+      "name": "dman-store",
+      "version": "0.1.0",
+      "description": "Persistent, authoritative job store for the dman daemon",
+      "url": "https://crates.io/crates/dman-store",
+      "created_at": "2026-11-14T12:05:47.827612Z"
+    },
+    {
+      "name": "pologger",
+      "version": "0.1.0-alpha.1",
+      "description": "Performance-oriented structured logging facade backend",
+      "url": "https://crates.io/crates/pologger",
+      "created_at": "2026-11-14T12:05:10.983428Z"
+    },
+    {
+      "name": "agentty-gpui-shared-string",
+      "version": "0.1.0",
+      "description": "Zed's gpui_shared_string crate, as used by agentty-gpui",
+      "url": "https://crates.io/crates/agentty-gpui-shared-string",
+      "created_at": "2026-11-14T12:05:10.565115Z"
+    },
+    {
+      "name": "drawen-director",
+      "version": "0.1.0",
+      "description": "Optional runtime orchestration for Drawen media playback",
+      "url": "https://crates.io/crates/drawen-director",
+      "created_at": "2026-11-14T12:04:39.561435Z"
+    },
+    {
+      "name": "polog-util",
+      "version": "0.1.0-alpha.1",
+      "description": "Performance-oriented structured logging facade utilities",
+      "url": "https://crates.io/crates/polog-util",
+      "created_at": "2026-11-14T12:03:13.589378Z"
+    },
+    {
+      "name": "polog",
+      "version": "0.1.0-alpha.1",
+      "description": "Performance-oriented structured logging facade",
+      "url": "https://crates.io/crates/polog",
+      "created_at": "2026-11-14T12:00:40.099119Z"
+    },
+    {
+      "name": "agentty-gpui-scheduler",
+      "version": "0.1.0",
+      "description": "Zed's scheduler crate, as used by agentty-gpui",
+      "url": "https://crates.io/crates/agentty-gpui-scheduler",
+      "created_at": "2026-11-14T11:55:05.642013Z"
+    }
+  ]
 }
