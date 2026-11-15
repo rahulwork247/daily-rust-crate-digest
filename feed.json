@@ -1,215 +1,215 @@
 {
-  "updated": "2026-11-14T12:37:05.545423+00:00",
+  "updated": "2026-11-15T13:02:22.681505+00:00",
   "items": [
     {
-      "name": "dman-web",
+      "name": "ml-convertant-gptq",
+      "version": "0.0.0",
+      "description": "Reserved name: GPTQ unpack/repack and conversion for ml-convertant (placeholder, not yet released)",
+      "url": "https://crates.io/crates/ml-convertant-gptq",
+      "created_at": "2026-11-15T13:01:22.100827Z"
+    },
+    {
+      "name": "cst816s-rs",
+      "version": "0.2.0",
+      "description": "Hynitron CST816 capacitive touch driver for embedded-hal (blocking and async, I2C)",
+      "url": "https://crates.io/crates/cst816s-rs",
+      "created_at": "2026-11-15T13:01:11.596519Z"
+    },
+    {
+      "name": "tencent-cloud-sts",
       "version": "0.1.0",
-      "description": "dman's browser UI: server-rendered HTML, htmx and SSE, served by the daemon",
-      "url": "https://crates.io/crates/dman-web",
-      "created_at": "2026-11-14T12:36:40.385536Z"
+      "description": "Tencent Cloud STS Rust SDK",
+      "url": "https://crates.io/crates/tencent-cloud-sts",
+      "created_at": "2026-11-15T12:56:09.689810Z"
     },
     {
-      "name": "noxi-events",
-      "version": "0.0.1",
-      "description": "Structured operation events, per-build output streams and rustc-style terminal rendering for noxi",
-      "url": "https://crates.io/crates/noxi-events",
-      "created_at": "2026-11-14T12:35:57.918667Z"
-    },
-    {
-      "name": "agentty-gpui-ztracing",
+      "name": "sag2",
       "version": "0.1.0",
-      "description": "Zed's ztracing crate, as used by agentty-gpui",
-      "url": "https://crates.io/crates/agentty-gpui-ztracing",
-      "created_at": "2026-11-14T12:35:34.093374Z"
+      "description": "SAG2 orchestration: rank_dpp, the judge payload builder and search_sag2",
+      "url": "https://crates.io/crates/sag2",
+      "created_at": "2026-11-15T12:56:02.176875Z"
     },
     {
-      "name": "pdf2-cli",
+      "name": "sag2-index",
+      "version": "0.1.0",
+      "description": "SQLite FTS5 index access for the SAG2 port: open decision table, statistics and retrieve",
+      "url": "https://crates.io/crates/sag2-index",
+      "created_at": "2026-11-15T12:55:18.787758Z"
+    },
+    {
+      "name": "edifact",
+      "version": "0.19.0",
+      "description": "Zero-copy EDIFACT (ISO 9735) parser, writer, typed derive, validation and CONTRL generation",
+      "url": "https://crates.io/crates/edifact",
+      "created_at": "2026-11-15T12:54:26.840689Z"
+    },
+    {
+      "name": "edifact-derive",
+      "version": "0.19.0",
+      "description": "Derive macros for EdifactSerialize / EdifactDeserialize (from edifact)",
+      "url": "https://crates.io/crates/edifact-derive",
+      "created_at": "2026-11-15T12:54:13.595206Z"
+    },
+    {
+      "name": "tencent-cloud-sms",
+      "version": "0.1.0",
+      "description": "Tencent Cloud SMS Rust SDK",
+      "url": "https://crates.io/crates/tencent-cloud-sms",
+      "created_at": "2026-11-15T12:54:09.705381Z"
+    },
+    {
+      "name": "tencent-cloud-captcha",
+      "version": "0.1.0",
+      "description": "Tencent Cloud Captcha Rust SDK",
+      "url": "https://crates.io/crates/tencent-cloud-captcha",
+      "created_at": "2026-11-15T12:53:54.997604Z"
+    },
+    {
+      "name": "sag2-core",
+      "version": "0.1.0",
+      "description": "SAG2 text core: the \u00a74 tokenizer and the Unicode tables it needs",
+      "url": "https://crates.io/crates/sag2-core",
+      "created_at": "2026-11-15T12:53:38.045673Z"
+    },
+    {
+      "name": "sag2-rank-sys",
+      "version": "0.1.0",
+      "description": "Vendored sag_rank.c FTS5 scoring functions, statically linked",
+      "url": "https://crates.io/crates/sag2-rank-sys",
+      "created_at": "2026-11-15T12:52:41.067425Z"
+    },
+    {
+      "name": "sag2-json",
+      "version": "0.1.0",
+      "description": "Byte-exact CPython 3.12 JSON codec used by the SAG2 Rust port",
+      "url": "https://crates.io/crates/sag2-json",
+      "created_at": "2026-11-15T12:52:05.394420Z"
+    },
+    {
+      "name": "tencent-cloud-cos-derive",
+      "version": "0.1.0",
+      "description": "Derive macros for Tencent Cloud COS Rust SDK",
+      "url": "https://crates.io/crates/tencent-cloud-cos-derive",
+      "created_at": "2026-11-15T12:51:57.892714Z"
+    },
+    {
+      "name": "tencent-cloud-cam",
+      "version": "0.1.0",
+      "description": "Tencent Cloud CAM policy model for Rust",
+      "url": "https://crates.io/crates/tencent-cloud-cam",
+      "created_at": "2026-11-15T12:51:08.620893Z"
+    },
+    {
+      "name": "tencent-cloud-common",
+      "version": "0.1.0",
+      "description": "Common utilities for Tencent Cloud SDK",
+      "url": "https://crates.io/crates/tencent-cloud-common",
+      "created_at": "2026-11-15T12:49:57.071527Z"
+    },
+    {
+      "name": "dataviz-mcp",
+      "version": "0.1.0",
+      "description": "MCP server that gives AI assistants (Claude Code, Claude Desktop, any MCP client) fast charts: 120+ chart types from data, CSV/JSON files and PDB molecules, returned as images, built on dataviz.",
+      "url": "https://crates.io/crates/dataviz-mcp",
+      "created_at": "2026-11-15T12:47:30.674343Z"
+    },
+    {
+      "name": "ruaa-dft-grids",
+      "version": "0.1.0",
+      "description": "Molecular DFT numerical-integration grids: Lebedev angular rules, radial quadratures, pruning, and Becke/LKO partition weights with analytic gradients and Hessians. Built-in PySCF level presets and a data-driven grid-preset API for caller-supplied constructions.",
+      "url": "https://crates.io/crates/ruaa-dft-grids",
+      "created_at": "2026-11-15T12:44:56.671625Z"
+    },
+    {
+      "name": "ndsif-transport",
+      "version": "0.1.0",
+      "description": "Serial transport and scheduled playback for NDSIF devices.",
+      "url": "https://crates.io/crates/ndsif-transport",
+      "created_at": "2026-11-15T12:44:09.512520Z"
+    },
+    {
+      "name": "ndsif",
+      "version": "0.1.0",
+      "description": "I/O-independent NDSIF v1 protocol codec for NanoDrive",
+      "url": "https://crates.io/crates/ndsif",
+      "created_at": "2026-11-15T12:36:43.841743Z"
+    },
+    {
+      "name": "zkctl",
       "version": "0.1.0-alpha.1",
-      "description": "Command-line front end for the pdf2 crate: inspect PDF 2.0 files.",
-      "url": "https://crates.io/crates/pdf2-cli",
-      "created_at": "2026-11-14T12:33:40.904273Z"
+      "description": "Command-line tool for ZKTeco biometric and access-control devices: device info, users, attendance export, live event streaming, enrolment. Built on zkteco-client. Part of the Ferrite project.",
+      "url": "https://crates.io/crates/zkctl",
+      "created_at": "2026-11-15T12:32:53.710764Z"
     },
     {
-      "name": "dman-config",
-      "version": "0.1.0",
-      "description": "Configuration, paths and secrets handling for dman",
-      "url": "https://crates.io/crates/dman-config",
-      "created_at": "2026-11-14T12:26:23.452893Z"
+      "name": "zkteco-client",
+      "version": "0.1.0-alpha.1",
+      "description": "Async (tokio) client for ZKTeco biometric and access-control devices over TCP and UDP, with feature parity with pyzk. Part of the Ferrite project.",
+      "url": "https://crates.io/crates/zkteco-client",
+      "created_at": "2026-11-15T12:32:50.202760Z"
     },
     {
-      "name": "agentty-gpui-ztracing-macro",
-      "version": "0.1.0",
-      "description": "Zed's ztracing_macro crate, as used by agentty-gpui",
-      "url": "https://crates.io/crates/agentty-gpui-ztracing-macro",
-      "created_at": "2026-11-14T12:25:25.136634Z"
+      "name": "zkteco-proto",
+      "version": "0.1.0-alpha.1",
+      "description": "Sans-IO implementation of the ZKTeco device protocol (packets, checksums, comm key, record layouts, time encoding), with pyzk parity. Part of the Ferrite project.",
+      "url": "https://crates.io/crates/zkteco-proto",
+      "created_at": "2026-11-15T12:32:47.786925Z"
     },
     {
-      "name": "drawen",
-      "version": "0.1.0",
-      "description": "Public facade for the Drawen UI toolkit",
-      "url": "https://crates.io/crates/drawen",
-      "created_at": "2026-11-14T12:25:24.535095Z"
-    },
-    {
-      "name": "tessera-rl-rts",
+      "name": "tui-monitor",
       "version": "0.2.0",
-      "description": "Tessera's RTS environment (tessera/RTS-v1): world, map generator and turn resolution",
-      "url": "https://crates.io/crates/tessera-rl-rts",
-      "created_at": "2026-11-14T12:24:33.871936Z"
+      "description": "A fast, cross-platform terminal system monitor built with ratatui",
+      "url": "https://crates.io/crates/tui-monitor",
+      "created_at": "2026-11-15T12:31:44.511284Z"
     },
     {
-      "name": "tessera-rl-onnx",
-      "version": "0.2.0",
-      "description": "Tessera ONNX search evaluator: loading and checks of ONNX Runtime (ADR-0057)",
-      "url": "https://crates.io/crates/tessera-rl-onnx",
-      "created_at": "2026-11-14T12:24:33.070456Z"
+      "name": "text_chipper",
+      "version": "0.2.2",
+      "description": "Token-budgeted, Markdown-aware text chunking for RAG and LLM pipelines, with pluggable tokenizers and Python bindings.",
+      "url": "https://crates.io/crates/text_chipper",
+      "created_at": "2026-11-15T12:31:27.095369Z"
     },
     {
-      "name": "tessera-rl-simd",
-      "version": "0.2.0",
-      "description": "Audited fixed-width lane types and runtime dispatch for Tessera",
-      "url": "https://crates.io/crates/tessera-rl-simd",
-      "created_at": "2026-11-14T12:24:21.294828Z"
-    },
-    {
-      "name": "aac-convert",
-      "version": "0.3.2",
-      "description": "FLAC to AAC (ADTS or M4A) converter for the native Ferrite Rust AAC encoder",
-      "url": "https://crates.io/crates/aac-convert",
-      "created_at": "2026-11-14T12:20:13.666326Z"
-    },
-    {
-      "name": "ferrite-aac",
-      "version": "0.3.2",
-      "description": "Native Rust AAC-LC encoder derived from Fraunhofer FDK AAC (Ferrite)",
-      "url": "https://crates.io/crates/ferrite-aac",
-      "created_at": "2026-11-14T12:17:32.819432Z"
-    },
-    {
-      "name": "vaka-sdk",
-      "version": "0.2.0",
-      "description": "Rust SDK for Vaka: panics, errors, release health and events",
-      "url": "https://crates.io/crates/vaka-sdk",
-      "created_at": "2026-11-14T12:16:31.758496Z"
-    },
-    {
-      "name": "dman-client",
+      "name": "unyk",
       "version": "0.1.0",
-      "description": "Typed async client (WebSocket JSON-RPC) for the dman daemon API",
-      "url": "https://crates.io/crates/dman-client",
-      "created_at": "2026-11-14T12:16:04.134681Z"
+      "description": "Utilities, numeric types, and time representations for no_std Rust",
+      "url": "https://crates.io/crates/unyk",
+      "created_at": "2026-11-15T12:30:30.266250Z"
     },
     {
-      "name": "agentty-gpui-zlog",
+      "name": "unyk-derive",
       "version": "0.1.0",
-      "description": "Zed's zlog crate, as used by agentty-gpui",
-      "url": "https://crates.io/crates/agentty-gpui-zlog",
-      "created_at": "2026-11-14T12:15:20.240275Z"
+      "description": "Derive macros for the unyk utility library",
+      "url": "https://crates.io/crates/unyk-derive",
+      "created_at": "2026-11-15T12:30:26.449505Z"
     },
     {
-      "name": "drawen-browser",
+      "name": "byld-lsp",
       "version": "0.1.0",
-      "description": "Browser surface and Servo integration layer for Drawen",
-      "url": "https://crates.io/crates/drawen-browser",
-      "created_at": "2026-11-14T12:14:39.017628Z"
+      "description": "A language server for byld, the language of Byard (.byd files)",
+      "url": "https://crates.io/crates/byld-lsp",
+      "created_at": "2026-11-15T12:27:33.370697Z"
     },
     {
-      "name": "klibs-rules",
+      "name": "kardia-server-proxy",
       "version": "0.3.0",
-      "description": "Checks a Cargo workspace against the Astra-Interactive architecture rules",
-      "url": "https://crates.io/crates/klibs-rules",
-      "created_at": "2026-11-14T12:14:01.235881Z"
+      "description": "Lifecycle-owned HTTP and WebSocket reverse proxy for kardia",
+      "url": "https://crates.io/crates/kardia-server-proxy",
+      "created_at": "2026-11-15T12:19:54.728326Z"
     },
     {
-      "name": "minigrep_by_ani",
+      "name": "byard",
       "version": "0.1.0",
-      "description": "A lightweight version of grep tool.",
-      "url": "https://crates.io/crates/minigrep_by_ani",
-      "created_at": "2026-11-14T12:13:01.447244Z"
+      "description": "A GPU UI framework: the interface in byld, the logic in Rust, and the `byard` command",
+      "url": "https://crates.io/crates/byard",
+      "created_at": "2026-11-15T12:17:33.070699Z"
     },
     {
-      "name": "fexu",
+      "name": "walkwomen-platform",
       "version": "0.1.0",
-      "description": "Experimental model-first web framework",
-      "url": "https://crates.io/crates/fexu",
-      "created_at": "2026-11-14T12:10:06.267328Z"
-    },
-    {
-      "name": "fexu-api",
-      "version": "0.1.0",
-      "description": "HTTP runtime for the Fexu framework",
-      "url": "https://crates.io/crates/fexu-api",
-      "created_at": "2026-11-14T12:09:53.088347Z"
-    },
-    {
-      "name": "fexu-admin",
-      "version": "0.1.0",
-      "description": "Server-rendered admin for the Fexu framework",
-      "url": "https://crates.io/crates/fexu-admin",
-      "created_at": "2026-11-14T12:09:24.126538Z"
-    },
-    {
-      "name": "fexu-cli",
-      "version": "0.1.0",
-      "description": "Command line for the Fexu framework",
-      "url": "https://crates.io/crates/fexu-cli",
-      "created_at": "2026-11-14T12:09:04.591880Z"
-    },
-    {
-      "name": "bedlam",
-      "version": "0.2.0",
-      "description": "Self-hosted microVM sandboxes for coding agents, placed by AMC admission",
-      "url": "https://crates.io/crates/bedlam",
-      "created_at": "2026-11-14T12:06:19.691368Z"
-    },
-    {
-      "name": "dman-store",
-      "version": "0.1.0",
-      "description": "Persistent, authoritative job store for the dman daemon",
-      "url": "https://crates.io/crates/dman-store",
-      "created_at": "2026-11-14T12:05:47.827612Z"
-    },
-    {
-      "name": "pologger",
-      "version": "0.1.0-alpha.1",
-      "description": "Performance-oriented structured logging facade backend",
-      "url": "https://crates.io/crates/pologger",
-      "created_at": "2026-11-14T12:05:10.983428Z"
-    },
-    {
-      "name": "agentty-gpui-shared-string",
-      "version": "0.1.0",
-      "description": "Zed's gpui_shared_string crate, as used by agentty-gpui",
-      "url": "https://crates.io/crates/agentty-gpui-shared-string",
-      "created_at": "2026-11-14T12:05:10.565115Z"
-    },
-    {
-      "name": "drawen-director",
-      "version": "0.1.0",
-      "description": "Optional runtime orchestration for Drawen media playback",
-      "url": "https://crates.io/crates/drawen-director",
-      "created_at": "2026-11-14T12:04:39.561435Z"
-    },
-    {
-      "name": "polog-util",
-      "version": "0.1.0-alpha.1",
-      "description": "Performance-oriented structured logging facade utilities",
-      "url": "https://crates.io/crates/polog-util",
-      "created_at": "2026-11-14T12:03:13.589378Z"
-    },
-    {
-      "name": "polog",
-      "version": "0.1.0-alpha.1",
-      "description": "Performance-oriented structured logging facade",
-      "url": "https://crates.io/crates/polog",
-      "created_at": "2026-11-14T12:00:40.099119Z"
-    },
-    {
-      "name": "agentty-gpui-scheduler",
-      "version": "0.1.0",
-      "description": "Zed's scheduler crate, as used by agentty-gpui",
-      "url": "https://crates.io/crates/agentty-gpui-scheduler",
-      "created_at": "2026-11-14T11:55:05.642013Z"
+      "description": "Android native plugin (Media3 playback service + JNI bridge) for walkwomen",
+      "url": "https://crates.io/crates/walkwomen-platform",
+      "created_at": "2026-11-15T12:13:42.312731Z"
     }
   ]
 }
