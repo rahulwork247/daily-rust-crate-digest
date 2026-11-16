@@ -1,215 +1,215 @@
 {
-  "updated": "2026-11-15T13:02:22.681505+00:00",
+  "updated": "2026-11-16T14:07:10.940225+00:00",
   "items": [
     {
-      "name": "ml-convertant-gptq",
+      "name": "j8platform",
+      "version": "0.1.2",
+      "description": "j8 platform layer: the standard-library implementation of the Platform trait",
+      "url": "https://crates.io/crates/j8platform",
+      "created_at": "2026-11-16T14:07:10.288651Z"
+    },
+    {
+      "name": "kktypr",
+      "version": "0.1.0",
+      "description": "A blazingly fast touch typing academy and developer syntax tutor for your terminal",
+      "url": "https://crates.io/crates/kktypr",
+      "created_at": "2026-11-16T14:06:51.786627Z"
+    },
+    {
+      "name": "kkfetch",
+      "version": "0.27.0",
+      "description": "A fast, lightweight Linux, Windows, macOS, and Android system information fetch tool written in Rust",
+      "url": "https://crates.io/crates/kkfetch",
+      "created_at": "2026-11-16T14:06:34.380712Z"
+    },
+    {
+      "name": "anyrender_tiny_skia",
+      "version": "0.1.0",
+      "description": "tiny-skia backend for anyrender",
+      "url": "https://crates.io/crates/anyrender_tiny_skia",
+      "created_at": "2026-11-16T14:05:26.513550Z"
+    },
+    {
+      "name": "anyrender_vello_gpu",
+      "version": "0.12.0",
+      "description": "vello_gpu (formerly vello_hybrid) backend for anyrender",
+      "url": "https://crates.io/crates/anyrender_vello_gpu",
+      "created_at": "2026-11-16T14:05:20.257351Z"
+    },
+    {
+      "name": "image_filters_types",
+      "version": "0.1.0",
+      "description": "Types describing SVG/CSS image filter graphs",
+      "url": "https://crates.io/crates/image_filters_types",
+      "created_at": "2026-11-16T14:05:13.885055Z"
+    },
+    {
+      "name": "magic-ws",
+      "version": "1.1.0",
+      "description": "Lightweight binary WebSocket framework for real-time games",
+      "url": "https://crates.io/crates/magic-ws",
+      "created_at": "2026-11-16T14:04:11.947169Z"
+    },
+    {
+      "name": "aec3_rs",
+      "version": "0.1.0",
+      "description": "Pure Rust 48 kHz multichannel acoustic echo cancellation derived from WebRTC AEC3",
+      "url": "https://crates.io/crates/aec3_rs",
+      "created_at": "2026-11-16T14:03:21.011711Z"
+    },
+    {
+      "name": "utf8bytes",
+      "version": "0.1.0",
+      "description": "A cheaply cloneable UTF-8 string type",
+      "url": "https://crates.io/crates/utf8bytes",
+      "created_at": "2026-11-16T14:01:41.454045Z"
+    },
+    {
+      "name": "codyscript-json",
+      "version": "0.5.0",
+      "description": "JSON for CodyScript: parse and print programs and values, the language's JSON Schema, and serde_json interop.",
+      "url": "https://crates.io/crates/codyscript-json",
+      "created_at": "2026-11-16T14:01:37.092677Z"
+    },
+    {
+      "name": "codyscript-core",
+      "version": "0.5.0",
+      "description": "CodyScript: a small, sandboxed interpreter for programs written as data. Hosts supply the operations; programs supply the logic. Format-independent core.",
+      "url": "https://crates.io/crates/codyscript-core",
+      "created_at": "2026-11-16T14:01:33.156503Z"
+    },
+    {
+      "name": "agentde",
       "version": "0.0.0",
-      "description": "Reserved name: GPTQ unpack/repack and conversion for ml-convertant (placeholder, not yet released)",
-      "url": "https://crates.io/crates/ml-convertant-gptq",
-      "created_at": "2026-11-15T13:01:22.100827Z"
+      "description": "Placeholder for Dopame's agentde",
+      "url": "https://crates.io/crates/agentde",
+      "created_at": "2026-11-16T14:00:49.851147Z"
     },
     {
-      "name": "cst816s-rs",
-      "version": "0.2.0",
-      "description": "Hynitron CST816 capacitive touch driver for embedded-hal (blocking and async, I2C)",
-      "url": "https://crates.io/crates/cst816s-rs",
-      "created_at": "2026-11-15T13:01:11.596519Z"
-    },
-    {
-      "name": "tencent-cloud-sts",
+      "name": "sinew-scope",
       "version": "0.1.0",
-      "description": "Tencent Cloud STS Rust SDK",
-      "url": "https://crates.io/crates/tencent-cloud-sts",
-      "created_at": "2026-11-15T12:56:09.689810Z"
+      "description": "Trace server, web UI and terminal viewer for Sinew (LangSmith-style)",
+      "url": "https://crates.io/crates/sinew-scope",
+      "created_at": "2026-11-16T13:59:04.245541Z"
     },
     {
-      "name": "sag2",
+      "name": "flextable",
       "version": "0.1.0",
-      "description": "SAG2 orchestration: rank_dpp, the judge payload builder and search_sag2",
-      "url": "https://crates.io/crates/sag2",
-      "created_at": "2026-11-15T12:56:02.176875Z"
+      "description": "A Lua-inspired table: one flexible structure for arrays, dictionaries, objects, records, sets, and modules.",
+      "url": "https://crates.io/crates/flextable",
+      "created_at": "2026-11-16T13:57:31.280519Z"
     },
     {
-      "name": "sag2-index",
+      "name": "j8builtins",
+      "version": "0.1.2",
+      "description": "j8 built-in objects: implements Intrinsics and installs Object / Function / Array / String / Number / Math / Error / console into a Realm",
+      "url": "https://crates.io/crates/j8builtins",
+      "created_at": "2026-11-16T13:56:57.683285Z"
+    },
+    {
+      "name": "polylint-rumdl",
+      "version": "0.3.4",
+      "description": "Polylint's internal fork of rumdl. Use the rumdl crate instead.",
+      "url": "https://crates.io/crates/polylint-rumdl",
+      "created_at": "2026-11-16T13:56:05.514559Z"
+    },
+    {
+      "name": "cortexkit-length-refusal",
       "version": "0.1.0",
-      "description": "SQLite FTS5 index access for the SAG2 port: open decision table, statistics and retrieve",
-      "url": "https://crates.io/crates/sag2-index",
-      "created_at": "2026-11-15T12:55:18.787758Z"
+      "description": "Whether a model provider refused a request as too long for the model's context window, and the token counts the refusal states.",
+      "url": "https://crates.io/crates/cortexkit-length-refusal",
+      "created_at": "2026-11-16T13:53:36.082213Z"
     },
     {
-      "name": "edifact",
-      "version": "0.19.0",
-      "description": "Zero-copy EDIFACT (ISO 9735) parser, writer, typed derive, validation and CONTRL generation",
-      "url": "https://crates.io/crates/edifact",
-      "created_at": "2026-11-15T12:54:26.840689Z"
+      "name": "j8binding",
+      "version": "0.1.2",
+      "description": "Rust \u21c4 JS bindings for j8: type conversion, host objects, exporting Rust types as JS classes (procedural macros live in j8macros)",
+      "url": "https://crates.io/crates/j8binding",
+      "created_at": "2026-11-16T13:51:31.141753Z"
     },
     {
-      "name": "edifact-derive",
-      "version": "0.19.0",
-      "description": "Derive macros for EdifactSerialize / EdifactDeserialize (from edifact)",
-      "url": "https://crates.io/crates/edifact-derive",
-      "created_at": "2026-11-15T12:54:13.595206Z"
+      "name": "acfs",
+      "version": "0.0.0",
+      "description": "Placeholder for Dopame's acfs",
+      "url": "https://crates.io/crates/acfs",
+      "created_at": "2026-11-16T13:50:33.497695Z"
     },
     {
-      "name": "tencent-cloud-sms",
+      "name": "acde-dopame",
+      "version": "0.0.0",
+      "description": "Placeholder for Dopame's acde-dopame",
+      "url": "https://crates.io/crates/acde-dopame",
+      "created_at": "2026-11-16T13:50:28.187160Z"
+    },
+    {
+      "name": "acde-base",
+      "version": "0.0.0",
+      "description": "Placeholder for Dopame's acde-base",
+      "url": "https://crates.io/crates/acde-base",
+      "created_at": "2026-11-16T13:50:25.246422Z"
+    },
+    {
+      "name": "acdert",
+      "version": "0.0.0",
+      "description": "Placeholder for Dopame's acdert",
+      "url": "https://crates.io/crates/acdert",
+      "created_at": "2026-11-16T13:50:22.099248Z"
+    },
+    {
+      "name": "acde",
+      "version": "0.0.0",
+      "description": "Placeholder for Dopame's acde",
+      "url": "https://crates.io/crates/acde",
+      "created_at": "2026-11-16T13:50:18.842519Z"
+    },
+    {
+      "name": "bevel-theme",
       "version": "0.1.0",
-      "description": "Tencent Cloud SMS Rust SDK",
-      "url": "https://crates.io/crates/tencent-cloud-sms",
-      "created_at": "2026-11-15T12:54:09.705381Z"
+      "description": "Design tokens (surfaces, text, accent, status tones, radii, spacing) in dark and light for egui, applied to a context in one call.",
+      "url": "https://crates.io/crates/bevel-theme",
+      "created_at": "2026-11-16T13:49:48.489390Z"
     },
     {
-      "name": "tencent-cloud-captcha",
+      "name": "bevel-widgets",
       "version": "0.1.0",
-      "description": "Tencent Cloud Captcha Rust SDK",
-      "url": "https://crates.io/crates/tencent-cloud-captcha",
-      "created_at": "2026-11-15T12:53:54.997604Z"
+      "description": "Reusable egui controls: icon buttons, tabs, panes, splits and resize handles, docking, a multilingual UI font stack and localized number fields.",
+      "url": "https://crates.io/crates/bevel-widgets",
+      "created_at": "2026-11-16T13:49:46.220532Z"
     },
     {
-      "name": "sag2-core",
+      "name": "bevel-window",
       "version": "0.1.0",
-      "description": "SAG2 text core: the \u00a74 tokenizer and the Unicode tables it needs",
-      "url": "https://crates.io/crates/sag2-core",
-      "created_at": "2026-11-15T12:53:38.045673Z"
+      "description": "Decides who draws the window frame on each desktop (macOS, Windows, X11, Wayland), makes an egui app's top strip act as its title bar, and keeps the bookkeeping of one window per document.",
+      "url": "https://crates.io/crates/bevel-window",
+      "created_at": "2026-11-16T13:49:44.892488Z"
     },
     {
-      "name": "sag2-rank-sys",
+      "name": "bevel-i18n",
       "version": "0.1.0",
-      "description": "Vendored sag_rank.c FTS5 scoring functions, statically linked",
-      "url": "https://crates.io/crates/sag2-rank-sys",
-      "created_at": "2026-11-15T12:52:41.067425Z"
+      "description": "Translation lookup with fallback, CLDR plurals and number formats, the system locale and region, search folding and locale sorting, on ICU4X.",
+      "url": "https://crates.io/crates/bevel-i18n",
+      "created_at": "2026-11-16T13:49:44.316395Z"
     },
     {
-      "name": "sag2-json",
+      "name": "bevel-fonts-build",
       "version": "0.1.0",
-      "description": "Byte-exact CPython 3.12 JSON codec used by the SAG2 Rust port",
-      "url": "https://crates.io/crates/sag2-json",
-      "created_at": "2026-11-15T12:52:05.394420Z"
+      "description": "Embeds font faces from a craft-fonts checkout in an app's build.rs, optionally cut to the characters of its translations, or serves them for web builds.",
+      "url": "https://crates.io/crates/bevel-fonts-build",
+      "created_at": "2026-11-16T13:49:43.794182Z"
     },
     {
-      "name": "tencent-cloud-cos-derive",
+      "name": "secureai",
       "version": "0.1.0",
-      "description": "Derive macros for Tencent Cloud COS Rust SDK",
-      "url": "https://crates.io/crates/tencent-cloud-cos-derive",
-      "created_at": "2026-11-15T12:51:57.892714Z"
+      "description": "Sub-millisecond kernel sandboxing and execution security runtime for AI agents",
+      "url": "https://crates.io/crates/secureai",
+      "created_at": "2026-11-16T13:49:21.380108Z"
     },
     {
-      "name": "tencent-cloud-cam",
-      "version": "0.1.0",
-      "description": "Tencent Cloud CAM policy model for Rust",
-      "url": "https://crates.io/crates/tencent-cloud-cam",
-      "created_at": "2026-11-15T12:51:08.620893Z"
-    },
-    {
-      "name": "tencent-cloud-common",
-      "version": "0.1.0",
-      "description": "Common utilities for Tencent Cloud SDK",
-      "url": "https://crates.io/crates/tencent-cloud-common",
-      "created_at": "2026-11-15T12:49:57.071527Z"
-    },
-    {
-      "name": "dataviz-mcp",
-      "version": "0.1.0",
-      "description": "MCP server that gives AI assistants (Claude Code, Claude Desktop, any MCP client) fast charts: 120+ chart types from data, CSV/JSON files and PDB molecules, returned as images, built on dataviz.",
-      "url": "https://crates.io/crates/dataviz-mcp",
-      "created_at": "2026-11-15T12:47:30.674343Z"
-    },
-    {
-      "name": "ruaa-dft-grids",
-      "version": "0.1.0",
-      "description": "Molecular DFT numerical-integration grids: Lebedev angular rules, radial quadratures, pruning, and Becke/LKO partition weights with analytic gradients and Hessians. Built-in PySCF level presets and a data-driven grid-preset API for caller-supplied constructions.",
-      "url": "https://crates.io/crates/ruaa-dft-grids",
-      "created_at": "2026-11-15T12:44:56.671625Z"
-    },
-    {
-      "name": "ndsif-transport",
-      "version": "0.1.0",
-      "description": "Serial transport and scheduled playback for NDSIF devices.",
-      "url": "https://crates.io/crates/ndsif-transport",
-      "created_at": "2026-11-15T12:44:09.512520Z"
-    },
-    {
-      "name": "ndsif",
-      "version": "0.1.0",
-      "description": "I/O-independent NDSIF v1 protocol codec for NanoDrive",
-      "url": "https://crates.io/crates/ndsif",
-      "created_at": "2026-11-15T12:36:43.841743Z"
-    },
-    {
-      "name": "zkctl",
-      "version": "0.1.0-alpha.1",
-      "description": "Command-line tool for ZKTeco biometric and access-control devices: device info, users, attendance export, live event streaming, enrolment. Built on zkteco-client. Part of the Ferrite project.",
-      "url": "https://crates.io/crates/zkctl",
-      "created_at": "2026-11-15T12:32:53.710764Z"
-    },
-    {
-      "name": "zkteco-client",
-      "version": "0.1.0-alpha.1",
-      "description": "Async (tokio) client for ZKTeco biometric and access-control devices over TCP and UDP, with feature parity with pyzk. Part of the Ferrite project.",
-      "url": "https://crates.io/crates/zkteco-client",
-      "created_at": "2026-11-15T12:32:50.202760Z"
-    },
-    {
-      "name": "zkteco-proto",
-      "version": "0.1.0-alpha.1",
-      "description": "Sans-IO implementation of the ZKTeco device protocol (packets, checksums, comm key, record layouts, time encoding), with pyzk parity. Part of the Ferrite project.",
-      "url": "https://crates.io/crates/zkteco-proto",
-      "created_at": "2026-11-15T12:32:47.786925Z"
-    },
-    {
-      "name": "tui-monitor",
-      "version": "0.2.0",
-      "description": "A fast, cross-platform terminal system monitor built with ratatui",
-      "url": "https://crates.io/crates/tui-monitor",
-      "created_at": "2026-11-15T12:31:44.511284Z"
-    },
-    {
-      "name": "text_chipper",
-      "version": "0.2.2",
-      "description": "Token-budgeted, Markdown-aware text chunking for RAG and LLM pipelines, with pluggable tokenizers and Python bindings.",
-      "url": "https://crates.io/crates/text_chipper",
-      "created_at": "2026-11-15T12:31:27.095369Z"
-    },
-    {
-      "name": "unyk",
-      "version": "0.1.0",
-      "description": "Utilities, numeric types, and time representations for no_std Rust",
-      "url": "https://crates.io/crates/unyk",
-      "created_at": "2026-11-15T12:30:30.266250Z"
-    },
-    {
-      "name": "unyk-derive",
-      "version": "0.1.0",
-      "description": "Derive macros for the unyk utility library",
-      "url": "https://crates.io/crates/unyk-derive",
-      "created_at": "2026-11-15T12:30:26.449505Z"
-    },
-    {
-      "name": "byld-lsp",
-      "version": "0.1.0",
-      "description": "A language server for byld, the language of Byard (.byd files)",
-      "url": "https://crates.io/crates/byld-lsp",
-      "created_at": "2026-11-15T12:27:33.370697Z"
-    },
-    {
-      "name": "kardia-server-proxy",
-      "version": "0.3.0",
-      "description": "Lifecycle-owned HTTP and WebSocket reverse proxy for kardia",
-      "url": "https://crates.io/crates/kardia-server-proxy",
-      "created_at": "2026-11-15T12:19:54.728326Z"
-    },
-    {
-      "name": "byard",
-      "version": "0.1.0",
-      "description": "A GPU UI framework: the interface in byld, the logic in Rust, and the `byard` command",
-      "url": "https://crates.io/crates/byard",
-      "created_at": "2026-11-15T12:17:33.070699Z"
-    },
-    {
-      "name": "walkwomen-platform",
-      "version": "0.1.0",
-      "description": "Android native plugin (Media3 playback service + JNI bridge) for walkwomen",
-      "url": "https://crates.io/crates/walkwomen-platform",
-      "created_at": "2026-11-15T12:13:42.312731Z"
+      "name": "staron",
+      "version": "1.0.0",
+      "description": "A tiny, functional GitHub star gate for CLI tools.",
+      "url": "https://crates.io/crates/staron",
+      "created_at": "2026-11-16T13:49:20.512960Z"
     }
   ]
 }
