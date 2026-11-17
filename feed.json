@@ -1,215 +1,215 @@
 {
-  "updated": "2026-11-16T14:07:10.940225+00:00",
+  "updated": "2026-11-17T15:00:18.614487+00:00",
   "items": [
     {
-      "name": "j8platform",
-      "version": "0.1.2",
-      "description": "j8 platform layer: the standard-library implementation of the Platform trait",
-      "url": "https://crates.io/crates/j8platform",
-      "created_at": "2026-11-16T14:07:10.288651Z"
+      "name": "pcfg",
+      "version": "0.1.3",
+      "description": "Password cracker using Probabilistic Context-Free Grammars",
+      "url": "https://crates.io/crates/pcfg",
+      "created_at": "2026-11-17T14:57:45.670410Z"
     },
     {
-      "name": "kktypr",
+      "name": "gotipe-wasm",
       "version": "0.1.0",
-      "description": "A blazingly fast touch typing academy and developer syntax tutor for your terminal",
-      "url": "https://crates.io/crates/kktypr",
-      "created_at": "2026-11-16T14:06:51.786627Z"
+      "description": "WebAssembly bindings of the GoTipe editor engine (the @gotipe/wasm npm package).",
+      "url": "https://crates.io/crates/gotipe-wasm",
+      "created_at": "2026-11-17T14:56:59.077136Z"
     },
     {
-      "name": "kkfetch",
-      "version": "0.27.0",
-      "description": "A fast, lightweight Linux, Windows, macOS, and Android system information fetch tool written in Rust",
-      "url": "https://crates.io/crates/kkfetch",
-      "created_at": "2026-11-16T14:06:34.380712Z"
-    },
-    {
-      "name": "anyrender_tiny_skia",
+      "name": "irender-flow-kit",
       "version": "0.1.0",
-      "description": "tiny-skia backend for anyrender",
-      "url": "https://crates.io/crates/anyrender_tiny_skia",
-      "created_at": "2026-11-16T14:05:26.513550Z"
+      "description": "Node-and-edge diagrams for iRender documents: React Flow-compatible JSON, node types written as ordinary iRender trees",
+      "url": "https://crates.io/crates/irender-flow-kit",
+      "created_at": "2026-11-17T14:56:25.314108Z"
     },
     {
-      "name": "anyrender_vello_gpu",
-      "version": "0.12.0",
-      "description": "vello_gpu (formerly vello_hybrid) backend for anyrender",
-      "url": "https://crates.io/crates/anyrender_vello_gpu",
-      "created_at": "2026-11-16T14:05:20.257351Z"
-    },
-    {
-      "name": "image_filters_types",
+      "name": "irender-chart-kit",
       "version": "0.1.0",
-      "description": "Types describing SVG/CSS image filter graphs",
-      "url": "https://crates.io/crates/image_filters_types",
-      "created_at": "2026-11-16T14:05:13.885055Z"
+      "description": "Charts for iRender documents, drawn by Apache ECharts: every series type, themed from the document's tokens",
+      "url": "https://crates.io/crates/irender-chart-kit",
+      "created_at": "2026-11-17T14:56:23.056603Z"
     },
     {
-      "name": "magic-ws",
-      "version": "1.1.0",
-      "description": "Lightweight binary WebSocket framework for real-time games",
-      "url": "https://crates.io/crates/magic-ws",
-      "created_at": "2026-11-16T14:04:11.947169Z"
-    },
-    {
-      "name": "aec3_rs",
+      "name": "misb",
       "version": "0.1.0",
-      "description": "Pure Rust 48 kHz multichannel acoustic echo cancellation derived from WebRTC AEC3",
-      "url": "https://crates.io/crates/aec3_rs",
-      "created_at": "2026-11-16T14:03:21.011711Z"
+      "description": "MISB KLV metadata for drone video (STANAG 4609): ST 0601 UAS Datalink, ST 0102 security, ST 0903 VMTI and ST 1201 IMAPB. Decode and encode, checksum checked, no_std, no dependencies",
+      "url": "https://crates.io/crates/misb",
+      "created_at": "2026-11-17T14:52:29.980539Z"
     },
     {
-      "name": "utf8bytes",
+      "name": "subspace-framework",
       "version": "0.1.0",
-      "description": "A cheaply cloneable UTF-8 string type",
-      "url": "https://crates.io/crates/utf8bytes",
-      "created_at": "2026-11-16T14:01:41.454045Z"
+      "description": "The Subspace Framework: build desktop dashboard apps from Spaces with GPUI Kit",
+      "url": "https://crates.io/crates/subspace-framework",
+      "created_at": "2026-11-17T14:49:59.547129Z"
     },
     {
-      "name": "codyscript-json",
-      "version": "0.5.0",
-      "description": "JSON for CodyScript: parse and print programs and values, the language's JSON Schema, and serde_json interop.",
-      "url": "https://crates.io/crates/codyscript-json",
-      "created_at": "2026-11-16T14:01:37.092677Z"
-    },
-    {
-      "name": "codyscript-core",
-      "version": "0.5.0",
-      "description": "CodyScript: a small, sandboxed interpreter for programs written as data. Hosts supply the operations; programs supply the logic. Format-independent core.",
-      "url": "https://crates.io/crates/codyscript-core",
-      "created_at": "2026-11-16T14:01:33.156503Z"
-    },
-    {
-      "name": "agentde",
-      "version": "0.0.0",
-      "description": "Placeholder for Dopame's agentde",
-      "url": "https://crates.io/crates/agentde",
-      "created_at": "2026-11-16T14:00:49.851147Z"
-    },
-    {
-      "name": "sinew-scope",
+      "name": "gotipe-export-wasm",
       "version": "0.1.0",
-      "description": "Trace server, web UI and terminal viewer for Sinew (LangSmith-style)",
-      "url": "https://crates.io/crates/sinew-scope",
-      "created_at": "2026-11-16T13:59:04.245541Z"
+      "description": "WebAssembly bindings of the GoTipe PDF and DOCX exporter (the @gotipe/export-wasm npm package).",
+      "url": "https://crates.io/crates/gotipe-export-wasm",
+      "created_at": "2026-11-17T14:46:43.852392Z"
     },
     {
-      "name": "flextable",
+      "name": "pdf-probe",
+      "version": "0.4.0",
+      "description": "A small, fail-closed reader that answers two questions about an untrusted PDF: how many pages, and how big is each page.",
+      "url": "https://crates.io/crates/pdf-probe",
+      "created_at": "2026-11-17T14:42:09.572772Z"
+    },
+    {
+      "name": "mcp-goals",
       "version": "0.1.0",
-      "description": "A Lua-inspired table: one flexible structure for arrays, dictionaries, objects, records, sets, and modules.",
-      "url": "https://crates.io/crates/flextable",
-      "created_at": "2026-11-16T13:57:31.280519Z"
+      "description": "Wire types and lifecycle state machine for the chaos/goals MCP extension",
+      "url": "https://crates.io/crates/mcp-goals",
+      "created_at": "2026-11-17T14:41:35.271213Z"
     },
     {
-      "name": "j8builtins",
-      "version": "0.1.2",
-      "description": "j8 built-in objects: implements Intrinsics and installs Object / Function / Array / String / Number / Math / Error / console into a Realm",
-      "url": "https://crates.io/crates/j8builtins",
-      "created_at": "2026-11-16T13:56:57.683285Z"
-    },
-    {
-      "name": "polylint-rumdl",
-      "version": "0.3.4",
-      "description": "Polylint's internal fork of rumdl. Use the rumdl crate instead.",
-      "url": "https://crates.io/crates/polylint-rumdl",
-      "created_at": "2026-11-16T13:56:05.514559Z"
-    },
-    {
-      "name": "cortexkit-length-refusal",
+      "name": "irender-ui-kit",
       "version": "0.1.0",
-      "description": "Whether a model provider refused a request as too long for the model's context window, and the token counts the refusal states.",
-      "url": "https://crates.io/crates/cortexkit-length-refusal",
-      "created_at": "2026-11-16T13:53:36.082213Z"
+      "description": "A ready-made component kit for iRender: buttons, cards, alerts, form controls, tables and more",
+      "url": "https://crates.io/crates/irender-ui-kit",
+      "created_at": "2026-11-17T14:41:09.727925Z"
     },
     {
-      "name": "j8binding",
-      "version": "0.1.2",
-      "description": "Rust \u21c4 JS bindings for j8: type conversion, host objects, exporting Rust types as JS classes (procedural macros live in j8macros)",
-      "url": "https://crates.io/crates/j8binding",
-      "created_at": "2026-11-16T13:51:31.141753Z"
-    },
-    {
-      "name": "acfs",
-      "version": "0.0.0",
-      "description": "Placeholder for Dopame's acfs",
-      "url": "https://crates.io/crates/acfs",
-      "created_at": "2026-11-16T13:50:33.497695Z"
-    },
-    {
-      "name": "acde-dopame",
-      "version": "0.0.0",
-      "description": "Placeholder for Dopame's acde-dopame",
-      "url": "https://crates.io/crates/acde-dopame",
-      "created_at": "2026-11-16T13:50:28.187160Z"
-    },
-    {
-      "name": "acde-base",
-      "version": "0.0.0",
-      "description": "Placeholder for Dopame's acde-base",
-      "url": "https://crates.io/crates/acde-base",
-      "created_at": "2026-11-16T13:50:25.246422Z"
-    },
-    {
-      "name": "acdert",
-      "version": "0.0.0",
-      "description": "Placeholder for Dopame's acdert",
-      "url": "https://crates.io/crates/acdert",
-      "created_at": "2026-11-16T13:50:22.099248Z"
-    },
-    {
-      "name": "acde",
-      "version": "0.0.0",
-      "description": "Placeholder for Dopame's acde",
-      "url": "https://crates.io/crates/acde",
-      "created_at": "2026-11-16T13:50:18.842519Z"
-    },
-    {
-      "name": "bevel-theme",
+      "name": "irender-icon-kit",
       "version": "0.1.0",
-      "description": "Design tokens (surfaces, text, accent, status tones, radii, spacing) in dark and light for egui, applied to a context in one call.",
-      "url": "https://crates.io/crates/bevel-theme",
-      "created_at": "2026-11-16T13:49:48.489390Z"
+      "description": "SVG icons for iRender documents: original outline icons in packs per industry, plus your own",
+      "url": "https://crates.io/crates/irender-icon-kit",
+      "created_at": "2026-11-17T14:41:09.229599Z"
     },
     {
-      "name": "bevel-widgets",
+      "name": "irender-html",
       "version": "0.1.0",
-      "description": "Reusable egui controls: icon buttons, tabs, panes, splits and resize handles, docking, a multilingual UI font stack and localized number fields.",
-      "url": "https://crates.io/crates/bevel-widgets",
-      "created_at": "2026-11-16T13:49:46.220532Z"
+      "description": "Server-side HTML renderer and tiny browser runtime for iRender documents",
+      "url": "https://crates.io/crates/irender-html",
+      "created_at": "2026-11-17T14:41:07.549941Z"
     },
     {
-      "name": "bevel-window",
+      "name": "irender-style",
       "version": "0.1.0",
-      "description": "Decides who draws the window frame on each desktop (macOS, Windows, X11, Wayland), makes an egui app's top strip act as its title bar, and keeps the bookkeeping of one window per document.",
-      "url": "https://crates.io/crates/bevel-window",
-      "created_at": "2026-11-16T13:49:44.892488Z"
+      "description": "Compiles iRender style blocks into hashed, deduplicated CSS classes",
+      "url": "https://crates.io/crates/irender-style",
+      "created_at": "2026-11-17T14:41:06.017206Z"
     },
     {
-      "name": "bevel-i18n",
+      "name": "wholesym-stackpulse",
       "version": "0.1.0",
-      "description": "Translation lookup with fallback, CLDR plurals and number formats, the system locale and region, search folding and locale sorting, on ICU4X.",
-      "url": "https://crates.io/crates/bevel-i18n",
-      "created_at": "2026-11-16T13:49:44.316395Z"
+      "description": "A complete solution for fetching symbol files and resolving code addresses to symbols and debuginfo. (Stackpulse fork)",
+      "url": "https://crates.io/crates/wholesym-stackpulse",
+      "created_at": "2026-11-17T14:41:04.674519Z"
     },
     {
-      "name": "bevel-fonts-build",
+      "name": "irender-core",
       "version": "0.1.0",
-      "description": "Embeds font faces from a craft-fonts checkout in an app's build.rs, optionally cut to the characters of its translations, or serves them for web builds.",
-      "url": "https://crates.io/crates/bevel-fonts-build",
-      "created_at": "2026-11-16T13:49:43.794182Z"
+      "description": "Document model, expressions, theming, policy and validation for iRender",
+      "url": "https://crates.io/crates/irender-core",
+      "created_at": "2026-11-17T14:41:04.346617Z"
     },
     {
-      "name": "secureai",
+      "name": "samply-api-stackpulse",
       "version": "0.1.0",
-      "description": "Sub-millisecond kernel sandboxing and execution security runtime for AI agents",
-      "url": "https://crates.io/crates/secureai",
-      "created_at": "2026-11-16T13:49:21.380108Z"
+      "description": "JSON API for querying symbol information, uses samply-symbols. (Stackpulse fork)",
+      "url": "https://crates.io/crates/samply-api-stackpulse",
+      "created_at": "2026-11-17T14:41:02.144704Z"
     },
     {
-      "name": "staron",
-      "version": "1.0.0",
-      "description": "A tiny, functional GitHub star gate for CLI tools.",
-      "url": "https://crates.io/crates/staron",
-      "created_at": "2026-11-16T13:49:20.512960Z"
+      "name": "samply-symbols-stackpulse",
+      "version": "0.1.0",
+      "description": "Symbolication utilities for the Firefox profiler. (Stackpulse fork)",
+      "url": "https://crates.io/crates/samply-symbols-stackpulse",
+      "created_at": "2026-11-17T14:40:59.512287Z"
+    },
+    {
+      "name": "samply-object-stackpulse",
+      "version": "0.1.0",
+      "description": "Samply object functions. (Stackpulse fork)",
+      "url": "https://crates.io/crates/samply-object-stackpulse",
+      "created_at": "2026-11-17T14:40:56.824311Z"
+    },
+    {
+      "name": "samply-debugid-stackpulse",
+      "version": "0.1.0",
+      "description": "Samply compatible debugids. (Stackpulse fork)",
+      "url": "https://crates.io/crates/samply-debugid-stackpulse",
+      "created_at": "2026-11-17T14:40:54.351112Z"
+    },
+    {
+      "name": "subspace-shell",
+      "version": "0.1.0",
+      "description": "Subspace Framework shell: the window, switcher, palette, help, Settings and themes. Internal crate; apps depend on `subspace-framework`.",
+      "url": "https://crates.io/crates/subspace-shell",
+      "created_at": "2026-11-17T14:39:46.010467Z"
+    },
+    {
+      "name": "taigaui",
+      "version": "0.1.1",
+      "description": "Taiga UI styled components for Rust - typed builders that render framework-agnostic HTML and CSS for axum, actix-web, rocket, SSR and static sites. Zero JavaScript. Buttons, inputs, tabs, alerts.",
+      "url": "https://crates.io/crates/taigaui",
+      "created_at": "2026-11-17T14:37:28.992649Z"
+    },
+    {
+      "name": "gotipe-export",
+      "version": "0.1.0",
+      "description": "Import and export for GoTipe documents: Markdown, HTML, JSON, and its own PDF layout and DOCX writer.",
+      "url": "https://crates.io/crates/gotipe-export",
+      "created_at": "2026-11-17T14:36:08.764900Z"
+    },
+    {
+      "name": "foxfire",
+      "version": "0.1.0",
+      "description": "A terminal client for AI coding agents via the Agent Client Protocol (ACP)",
+      "url": "https://crates.io/crates/foxfire",
+      "created_at": "2026-11-17T14:33:49.836292Z"
+    },
+    {
+      "name": "foxfire-tui",
+      "version": "0.1.0",
+      "description": "Embeddable terminal UI for AI coding agents via the Agent Client Protocol (ACP)",
+      "url": "https://crates.io/crates/foxfire-tui",
+      "created_at": "2026-11-17T14:33:48.137203Z"
+    },
+    {
+      "name": "foxfire-core",
+      "version": "0.1.0",
+      "description": "UI-agnostic Agent Client Protocol (ACP) client core shared by foxfire's frontends",
+      "url": "https://crates.io/crates/foxfire-core",
+      "created_at": "2026-11-17T14:33:46.266059Z"
+    },
+    {
+      "name": "foxfire-acp",
+      "version": "0.1.0",
+      "description": "Agent Client Protocol (ACP) client utilities and Aether protocol extensions",
+      "url": "https://crates.io/crates/foxfire-acp",
+      "created_at": "2026-11-17T14:33:44.496153Z"
+    },
+    {
+      "name": "trash-streamers-contracts",
+      "version": "1.2.10",
+      "description": "Protobuf definitions and generated Rust types",
+      "url": "https://crates.io/crates/trash-streamers-contracts",
+      "created_at": "2026-11-17T14:30:55.925365Z"
+    },
+    {
+      "name": "ev_lib_macros",
+      "version": "0.1.0",
+      "description": "ev_lib's derives: `Views` (a service's views, their hrefs and their table)",
+      "url": "https://crates.io/crates/ev_lib_macros",
+      "created_at": "2026-11-17T14:30:53.245970Z"
+    },
+    {
+      "name": "subspace-search-ui",
+      "version": "0.1.0",
+      "description": "Subspace Framework: the retained full-text search view and source settings. Internal crate; apps depend on `subspace-framework`.",
+      "url": "https://crates.io/crates/subspace-search-ui",
+      "created_at": "2026-11-17T14:29:32.869145Z"
+    },
+    {
+      "name": "citygml-rs",
+      "version": "0.1.0",
+      "description": "CityGML 2.0 and 3.0 to and from CityJSON, whichever version a document is",
+      "url": "https://crates.io/crates/citygml-rs",
+      "created_at": "2026-11-17T14:29:14.082559Z"
     }
   ]
 }
