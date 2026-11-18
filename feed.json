@@ -1,215 +1,215 @@
 {
-  "updated": "2026-11-17T15:00:18.614487+00:00",
+  "updated": "2026-11-18T14:41:23.926067+00:00",
   "items": [
     {
-      "name": "pcfg",
-      "version": "0.1.3",
-      "description": "Password cracker using Probabilistic Context-Free Grammars",
-      "url": "https://crates.io/crates/pcfg",
-      "created_at": "2026-11-17T14:57:45.670410Z"
-    },
-    {
-      "name": "gotipe-wasm",
+      "name": "la1010",
       "version": "0.1.0",
-      "description": "WebAssembly bindings of the GoTipe editor engine (the @gotipe/wasm npm package).",
-      "url": "https://crates.io/crates/gotipe-wasm",
-      "created_at": "2026-11-17T14:56:59.077136Z"
+      "description": "CLI and library for the Kingst LA1010 USB logic analyzer: capture, measure, decode UART/I2C/SPI/USB",
+      "url": "https://crates.io/crates/la1010",
+      "created_at": "2026-11-18T14:39:18.911984Z"
     },
     {
-      "name": "irender-flow-kit",
+      "name": "orgize-ng",
+      "version": "0.10.0-alpha.10",
+      "description": "A Rust library for parsing org-mode files (maintained fork of orgize).",
+      "url": "https://crates.io/crates/orgize-ng",
+      "created_at": "2026-11-18T14:38:32.609833Z"
+    },
+    {
+      "name": "biome_js_type_info",
+      "version": "0.7.3",
+      "description": "Data structures for tracking type information",
+      "url": "https://crates.io/crates/biome_js_type_info",
+      "created_at": "2026-11-18T14:37:54.153177Z"
+    },
+    {
+      "name": "prime-toggleswitch",
       "version": "0.1.0",
-      "description": "Node-and-edge diagrams for iRender documents: React Flow-compatible JSON, node types written as ordinary iRender trees",
-      "url": "https://crates.io/crates/irender-flow-kit",
-      "created_at": "2026-11-17T14:56:25.314108Z"
+      "description": "prime-rs: ToggleSwitch component (port of PrimeNG)",
+      "url": "https://crates.io/crates/prime-toggleswitch",
+      "created_at": "2026-11-18T14:36:09.272738Z"
     },
     {
-      "name": "irender-chart-kit",
-      "version": "0.1.0",
-      "description": "Charts for iRender documents, drawn by Apache ECharts: every series type, themed from the document's tokens",
-      "url": "https://crates.io/crates/irender-chart-kit",
-      "created_at": "2026-11-17T14:56:23.056603Z"
-    },
-    {
-      "name": "misb",
-      "version": "0.1.0",
-      "description": "MISB KLV metadata for drone video (STANAG 4609): ST 0601 UAS Datalink, ST 0102 security, ST 0903 VMTI and ST 1201 IMAPB. Decode and encode, checksum checked, no_std, no dependencies",
-      "url": "https://crates.io/crates/misb",
-      "created_at": "2026-11-17T14:52:29.980539Z"
-    },
-    {
-      "name": "subspace-framework",
-      "version": "0.1.0",
-      "description": "The Subspace Framework: build desktop dashboard apps from Spaces with GPUI Kit",
-      "url": "https://crates.io/crates/subspace-framework",
-      "created_at": "2026-11-17T14:49:59.547129Z"
-    },
-    {
-      "name": "gotipe-export-wasm",
-      "version": "0.1.0",
-      "description": "WebAssembly bindings of the GoTipe PDF and DOCX exporter (the @gotipe/export-wasm npm package).",
-      "url": "https://crates.io/crates/gotipe-export-wasm",
-      "created_at": "2026-11-17T14:46:43.852392Z"
-    },
-    {
-      "name": "pdf-probe",
+      "name": "louis-cli",
       "version": "0.4.0",
-      "description": "A small, fail-closed reader that answers two questions about an untrusted PDF: how many pages, and how big is each page.",
-      "url": "https://crates.io/crates/pdf-probe",
-      "created_at": "2026-11-17T14:42:09.572772Z"
+      "description": "Command line tool for louis-rs, a pure Rust re-implementation of the liblouis braille translator",
+      "url": "https://crates.io/crates/louis-cli",
+      "created_at": "2026-11-18T14:35:37.900182Z"
     },
     {
-      "name": "mcp-goals",
+      "name": "libimgquant-capi",
+      "version": "3.0.0",
+      "description": "C API of libimgquant (libimgquant.h, libimgquant.so/.a), compatible with the libimagequant 2.4.x API",
+      "url": "https://crates.io/crates/libimgquant-capi",
+      "created_at": "2026-11-18T14:34:47.318304Z"
+    },
+    {
+      "name": "sensaix",
+      "version": "0.0.0",
+      "description": "Reserved for the SensAI inference engine command.",
+      "url": "https://crates.io/crates/sensaix",
+      "created_at": "2026-11-18T14:34:46.689454Z"
+    },
+    {
+      "name": "imgquant",
+      "version": "3.0.0",
+      "description": "pngquant-style command-line PNG quantizer (lossy PNG compression to 8-bit palette with alpha), built on libimgquant",
+      "url": "https://crates.io/crates/imgquant",
+      "created_at": "2026-11-18T14:34:46.572788Z"
+    },
+    {
+      "name": "sensai-engine",
+      "version": "0.0.0",
+      "description": "Reserved for the SensAI inference engine library.",
+      "url": "https://crates.io/crates/sensai-engine",
+      "created_at": "2026-11-18T14:34:44.085769Z"
+    },
+    {
+      "name": "libimgquant",
+      "version": "3.0.0",
+      "description": "Pure-Rust, BSD-licensed color quantizer: converts RGBA images to 8-bit palette images with alpha for small PNGs and GIFs. Based on libimagequant 2.4.1, improved with color quantization research",
+      "url": "https://crates.io/crates/libimgquant",
+      "created_at": "2026-11-18T14:34:43.538948Z"
+    },
+    {
+      "name": "embassy-rp-riscv",
       "version": "0.1.0",
-      "description": "Wire types and lifecycle state machine for the chaos/goals MCP extension",
-      "url": "https://crates.io/crates/mcp-goals",
-      "created_at": "2026-11-17T14:41:35.271213Z"
+      "description": "Embassy Hardware Abstraction Layer (HAL) for the Raspberry Pi RP2040 or RP235x microcontroller",
+      "url": "https://crates.io/crates/embassy-rp-riscv",
+      "created_at": "2026-11-18T14:29:41.122960Z"
     },
     {
-      "name": "irender-ui-kit",
+      "name": "biome_js_runtime",
+      "version": "0.7.3",
+      "description": "ECMAScript runtime for JS plugins",
+      "url": "https://crates.io/crates/biome_js_runtime",
+      "created_at": "2026-11-18T14:27:54.011498Z"
+    },
+    {
+      "name": "tarot-cards",
       "version": "0.1.0",
-      "description": "A ready-made component kit for iRender: buttons, cards, alerts, form controls, tables and more",
-      "url": "https://crates.io/crates/irender-ui-kit",
-      "created_at": "2026-11-17T14:41:09.727925Z"
+      "description": "The 78 Rider-Waite tarot cards as static data: names, keywords, upright and reversed meanings, yes/no answers, plus a seeded draw.",
+      "url": "https://crates.io/crates/tarot-cards",
+      "created_at": "2026-11-18T14:26:28.018810Z"
     },
     {
-      "name": "irender-icon-kit",
+      "name": "prime-toast",
       "version": "0.1.0",
-      "description": "SVG icons for iRender documents: original outline icons in packs per industry, plus your own",
-      "url": "https://crates.io/crates/irender-icon-kit",
-      "created_at": "2026-11-17T14:41:09.229599Z"
+      "description": "prime-rs: Toast component and MessageService (PrimeNG port)",
+      "url": "https://crates.io/crates/prime-toast",
+      "created_at": "2026-11-18T14:26:05.901140Z"
     },
     {
-      "name": "irender-html",
+      "name": "embassy-executor-riscv",
       "version": "0.1.0",
-      "description": "Server-side HTML renderer and tiny browser runtime for iRender documents",
-      "url": "https://crates.io/crates/irender-html",
-      "created_at": "2026-11-17T14:41:07.549941Z"
+      "description": "async/await executor designed for embedded usage",
+      "url": "https://crates.io/crates/embassy-executor-riscv",
+      "created_at": "2026-11-18T14:19:16.865467Z"
     },
     {
-      "name": "irender-style",
+      "name": "pandleanpcs",
+      "version": "0.5.0",
+      "description": "Reference openings for sparse univariate polynomials over GF(2^128)",
+      "url": "https://crates.io/crates/pandleanpcs",
+      "created_at": "2026-11-18T14:18:18.519502Z"
+    },
+    {
+      "name": "biome_resolver",
+      "version": "0.7.3",
+      "description": "Responsible for resolving dependency path",
+      "url": "https://crates.io/crates/biome_resolver",
+      "created_at": "2026-11-18T14:17:53.439806Z"
+    },
+    {
+      "name": "saidhome",
+      "version": "0.0.1",
+      "description": "SAIDHOME Inc., makers of .said, the memory file any AI can use. Name reserved; the first release is coming.",
+      "url": "https://crates.io/crates/saidhome",
+      "created_at": "2026-11-18T14:16:32.872790Z"
+    },
+    {
+      "name": "prime-timeline",
       "version": "0.1.0",
-      "description": "Compiles iRender style blocks into hashed, deduplicated CSS classes",
-      "url": "https://crates.io/crates/irender-style",
-      "created_at": "2026-11-17T14:41:06.017206Z"
+      "description": "prime-rs: Timeline component (PrimeNG port)",
+      "url": "https://crates.io/crates/prime-timeline",
+      "created_at": "2026-11-18T14:16:02.555607Z"
     },
     {
-      "name": "wholesym-stackpulse",
+      "name": "rand_mwcx",
       "version": "0.1.0",
-      "description": "A complete solution for fetching symbol files and resolving code addresses to symbols and debuginfo. (Stackpulse fork)",
-      "url": "https://crates.io/crates/wholesym-stackpulse",
-      "created_at": "2026-11-17T14:41:04.674519Z"
+      "description": "Scrambled multiply-with-carry random number generators",
+      "url": "https://crates.io/crates/rand_mwcx",
+      "created_at": "2026-11-18T14:15:49.034706Z"
     },
     {
-      "name": "irender-core",
+      "name": "asksaid",
+      "version": "0.0.1",
+      "description": "Rust SDK for .said, the memory file any AI can use. Name reserved; the first release is coming.",
+      "url": "https://crates.io/crates/asksaid",
+      "created_at": "2026-11-18T14:14:07.426051Z"
+    },
+    {
+      "name": "said-core",
+      "version": "0.0.1",
+      "description": "Reader and writer for the open .said memory format. Name reserved; the first release is coming.",
+      "url": "https://crates.io/crates/said-core",
+      "created_at": "2026-11-18T14:13:53.186026Z"
+    },
+    {
+      "name": "branded-index",
       "version": "0.1.0",
-      "description": "Document model, expressions, theming, policy and validation for iRender",
-      "url": "https://crates.io/crates/irender-core",
-      "created_at": "2026-11-17T14:41:04.346617Z"
+      "description": "Branded indices: pay the bounds check once, at validation, instead of on every access",
+      "url": "https://crates.io/crates/branded-index",
+      "created_at": "2026-11-18T14:11:16.330070Z"
     },
     {
-      "name": "samply-api-stackpulse",
+      "name": "embassy-time-queue-utils-riscv",
       "version": "0.1.0",
-      "description": "JSON API for querying symbol information, uses samply-symbols. (Stackpulse fork)",
-      "url": "https://crates.io/crates/samply-api-stackpulse",
-      "created_at": "2026-11-17T14:41:02.144704Z"
+      "description": "Timer queue driver trait for embassy-time",
+      "url": "https://crates.io/crates/embassy-time-queue-utils-riscv",
+      "created_at": "2026-11-18T14:10:16.790106Z"
     },
     {
-      "name": "samply-symbols-stackpulse",
+      "name": "biome_project_layout",
+      "version": "0.7.3",
+      "description": "Data structure for tracking projects and their packages",
+      "url": "https://crates.io/crates/biome_project_layout",
+      "created_at": "2026-11-18T14:07:52.618191Z"
+    },
+    {
+      "name": "prime-theme",
       "version": "0.1.0",
-      "description": "Symbolication utilities for the Firefox profiler. (Stackpulse fork)",
-      "url": "https://crates.io/crates/samply-symbols-stackpulse",
-      "created_at": "2026-11-17T14:40:59.512287Z"
+      "description": "prime-rs: static CSS of the Aura theme",
+      "url": "https://crates.io/crates/prime-theme",
+      "created_at": "2026-11-18T14:05:59.512044Z"
     },
     {
-      "name": "samply-object-stackpulse",
+      "name": "embassy-executor-timer-queue-riscv",
       "version": "0.1.0",
-      "description": "Samply object functions. (Stackpulse fork)",
-      "url": "https://crates.io/crates/samply-object-stackpulse",
-      "created_at": "2026-11-17T14:40:56.824311Z"
+      "description": "Timer queue item and interface between embassy-executor and timer queues",
+      "url": "https://crates.io/crates/embassy-executor-timer-queue-riscv",
+      "created_at": "2026-11-18T14:00:15.923717Z"
     },
     {
-      "name": "samply-debugid-stackpulse",
+      "name": "shitsukan",
       "version": "0.1.0",
-      "description": "Samply compatible debugids. (Stackpulse fork)",
-      "url": "https://crates.io/crates/samply-debugid-stackpulse",
-      "created_at": "2026-11-17T14:40:54.351112Z"
+      "description": "Placeholder",
+      "url": "https://crates.io/crates/shitsukan",
+      "created_at": "2026-11-18T13:58:10.200248Z"
     },
     {
-      "name": "subspace-shell",
-      "version": "0.1.0",
-      "description": "Subspace Framework shell: the window, switcher, palette, help, Settings and themes. Internal crate; apps depend on `subspace-framework`.",
-      "url": "https://crates.io/crates/subspace-shell",
-      "created_at": "2026-11-17T14:39:46.010467Z"
+      "name": "biome_package",
+      "version": "0.7.3",
+      "description": "Workspace package handler",
+      "url": "https://crates.io/crates/biome_package",
+      "created_at": "2026-11-18T13:57:53.254883Z"
     },
     {
-      "name": "taigaui",
-      "version": "0.1.1",
-      "description": "Taiga UI styled components for Rust - typed builders that render framework-agnostic HTML and CSS for axum, actix-web, rocket, SSR and static sites. Zero JavaScript. Buttons, inputs, tabs, alerts.",
-      "url": "https://crates.io/crates/taigaui",
-      "created_at": "2026-11-17T14:37:28.992649Z"
-    },
-    {
-      "name": "gotipe-export",
-      "version": "0.1.0",
-      "description": "Import and export for GoTipe documents: Markdown, HTML, JSON, and its own PDF layout and DOCX writer.",
-      "url": "https://crates.io/crates/gotipe-export",
-      "created_at": "2026-11-17T14:36:08.764900Z"
-    },
-    {
-      "name": "foxfire",
-      "version": "0.1.0",
-      "description": "A terminal client for AI coding agents via the Agent Client Protocol (ACP)",
-      "url": "https://crates.io/crates/foxfire",
-      "created_at": "2026-11-17T14:33:49.836292Z"
-    },
-    {
-      "name": "foxfire-tui",
-      "version": "0.1.0",
-      "description": "Embeddable terminal UI for AI coding agents via the Agent Client Protocol (ACP)",
-      "url": "https://crates.io/crates/foxfire-tui",
-      "created_at": "2026-11-17T14:33:48.137203Z"
-    },
-    {
-      "name": "foxfire-core",
-      "version": "0.1.0",
-      "description": "UI-agnostic Agent Client Protocol (ACP) client core shared by foxfire's frontends",
-      "url": "https://crates.io/crates/foxfire-core",
-      "created_at": "2026-11-17T14:33:46.266059Z"
-    },
-    {
-      "name": "foxfire-acp",
-      "version": "0.1.0",
-      "description": "Agent Client Protocol (ACP) client utilities and Aether protocol extensions",
-      "url": "https://crates.io/crates/foxfire-acp",
-      "created_at": "2026-11-17T14:33:44.496153Z"
-    },
-    {
-      "name": "trash-streamers-contracts",
-      "version": "1.2.10",
-      "description": "Protobuf definitions and generated Rust types",
-      "url": "https://crates.io/crates/trash-streamers-contracts",
-      "created_at": "2026-11-17T14:30:55.925365Z"
-    },
-    {
-      "name": "ev_lib_macros",
-      "version": "0.1.0",
-      "description": "ev_lib's derives: `Views` (a service's views, their hrefs and their table)",
-      "url": "https://crates.io/crates/ev_lib_macros",
-      "created_at": "2026-11-17T14:30:53.245970Z"
-    },
-    {
-      "name": "subspace-search-ui",
-      "version": "0.1.0",
-      "description": "Subspace Framework: the retained full-text search view and source settings. Internal crate; apps depend on `subspace-framework`.",
-      "url": "https://crates.io/crates/subspace-search-ui",
-      "created_at": "2026-11-17T14:29:32.869145Z"
-    },
-    {
-      "name": "citygml-rs",
-      "version": "0.1.0",
-      "description": "CityGML 2.0 and 3.0 to and from CityJSON, whichever version a document is",
-      "url": "https://crates.io/crates/citygml-rs",
-      "created_at": "2026-11-17T14:29:14.082559Z"
+      "name": "koliseo",
+      "version": "0.0.0",
+      "description": "Safe Rust bindings for koliseo",
+      "url": "https://crates.io/crates/koliseo",
+      "created_at": "2026-11-18T13:56:38.269495Z"
     }
   ]
 }
