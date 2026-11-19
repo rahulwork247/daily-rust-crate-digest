@@ -1,215 +1,215 @@
 {
-  "updated": "2026-11-18T14:41:23.926067+00:00",
+  "updated": "2026-11-19T14:48:17.781776+00:00",
   "items": [
     {
-      "name": "la1010",
+      "name": "smbcloud-ascapi-xiaomi",
+      "version": "0.7.0",
+      "description": "Xiaomi GetApps developer interface: HMAC-SHA1 signed requests, order queries and the APK upload address.",
+      "url": "https://crates.io/crates/smbcloud-ascapi-xiaomi",
+      "created_at": "2026-11-19T14:45:09.280517Z"
+    },
+    {
+      "name": "grow-opentelemetry-collector",
       "version": "0.1.0",
-      "description": "CLI and library for the Kingst LA1010 USB logic analyzer: capture, measure, decode UART/I2C/SPI/USB",
-      "url": "https://crates.io/crates/la1010",
-      "created_at": "2026-11-18T14:39:18.911984Z"
+      "description": "Rust SDK for OpenTelemetry Collector by Grow Codes",
+      "url": "https://crates.io/crates/grow-opentelemetry-collector",
+      "created_at": "2026-11-19T14:40:34.599665Z"
     },
     {
-      "name": "orgize-ng",
-      "version": "0.10.0-alpha.10",
-      "description": "A Rust library for parsing org-mode files (maintained fork of orgize).",
-      "url": "https://crates.io/crates/orgize-ng",
-      "created_at": "2026-11-18T14:38:32.609833Z"
+      "name": "neocogi-com-host-dylib",
+      "version": "0.4.0-alpha.1",
+      "description": "Native C bootstrap shim for the NeoCogi host runtime",
+      "url": "https://crates.io/crates/neocogi-com-host-dylib",
+      "created_at": "2026-11-19T14:37:06.727908Z"
     },
     {
-      "name": "biome_js_type_info",
-      "version": "0.7.3",
-      "description": "Data structures for tracking type information",
-      "url": "https://crates.io/crates/biome_js_type_info",
-      "created_at": "2026-11-18T14:37:54.153177Z"
-    },
-    {
-      "name": "prime-toggleswitch",
+      "name": "wordsmith",
       "version": "0.1.0",
-      "description": "prime-rs: ToggleSwitch component (port of PrimeNG)",
-      "url": "https://crates.io/crates/prime-toggleswitch",
-      "created_at": "2026-11-18T14:36:09.272738Z"
+      "description": "Screen reader friendly typing help for wxDragon text boxes, starting with @mention and #hashtag style completion",
+      "url": "https://crates.io/crates/wordsmith",
+      "created_at": "2026-11-19T14:36:26.250133Z"
     },
     {
-      "name": "louis-cli",
-      "version": "0.4.0",
-      "description": "Command line tool for louis-rs, a pure Rust re-implementation of the liblouis braille translator",
-      "url": "https://crates.io/crates/louis-cli",
-      "created_at": "2026-11-18T14:35:37.900182Z"
+      "name": "gst-rtmpx",
+      "version": "0.3.1",
+      "description": "GStreamer RTMP source and sink elements built on rtmpx",
+      "url": "https://crates.io/crates/gst-rtmpx",
+      "created_at": "2026-11-19T14:36:12.278625Z"
     },
     {
-      "name": "libimgquant-capi",
-      "version": "3.0.0",
-      "description": "C API of libimgquant (libimgquant.h, libimgquant.so/.a), compatible with the libimagequant 2.4.x API",
-      "url": "https://crates.io/crates/libimgquant-capi",
-      "created_at": "2026-11-18T14:34:47.318304Z"
+      "name": "oxspec",
+      "version": "0.3.0-rc.1",
+      "description": "The oxspec command: an independent Rust implementation of Xspec (developer interface for now)",
+      "url": "https://crates.io/crates/oxspec",
+      "created_at": "2026-11-19T14:33:14.039613Z"
     },
     {
-      "name": "sensaix",
-      "version": "0.0.0",
-      "description": "Reserved for the SensAI inference engine command.",
-      "url": "https://crates.io/crates/sensaix",
-      "created_at": "2026-11-18T14:34:46.689454Z"
+      "name": "oxspec-core",
+      "version": "0.3.0-rc.1",
+      "description": "The engine behind OXspec, an independent Rust implementation of Xspec's spectral fitting",
+      "url": "https://crates.io/crates/oxspec-core",
+      "created_at": "2026-11-19T14:31:48.115490Z"
     },
     {
-      "name": "imgquant",
-      "version": "3.0.0",
-      "description": "pngquant-style command-line PNG quantizer (lossy PNG compression to 8-bit palette with alpha), built on libimgquant",
-      "url": "https://crates.io/crates/imgquant",
-      "created_at": "2026-11-18T14:34:46.572788Z"
+      "name": "rpi-office",
+      "version": "0.1.1",
+      "description": "Drive Excel, Word and PowerPoint from rpi through the pi-for-office task-pane add-in (loopback WebSocket bridge + Office tool proxy)",
+      "url": "https://crates.io/crates/rpi-office",
+      "created_at": "2026-11-19T14:30:36.946030Z"
     },
     {
-      "name": "sensai-engine",
-      "version": "0.0.0",
-      "description": "Reserved for the SensAI inference engine library.",
-      "url": "https://crates.io/crates/sensai-engine",
-      "created_at": "2026-11-18T14:34:44.085769Z"
-    },
-    {
-      "name": "libimgquant",
-      "version": "3.0.0",
-      "description": "Pure-Rust, BSD-licensed color quantizer: converts RGBA images to 8-bit palette images with alpha for small PNGs and GIFs. Based on libimagequant 2.4.1, improved with color quantization research",
-      "url": "https://crates.io/crates/libimgquant",
-      "created_at": "2026-11-18T14:34:43.538948Z"
-    },
-    {
-      "name": "embassy-rp-riscv",
+      "name": "grow-datadog-apm",
       "version": "0.1.0",
-      "description": "Embassy Hardware Abstraction Layer (HAL) for the Raspberry Pi RP2040 or RP235x microcontroller",
-      "url": "https://crates.io/crates/embassy-rp-riscv",
-      "created_at": "2026-11-18T14:29:41.122960Z"
+      "description": "Rust SDK for Datadog APM by Grow Codes",
+      "url": "https://crates.io/crates/grow-datadog-apm",
+      "created_at": "2026-11-19T14:30:33.770484Z"
     },
     {
-      "name": "biome_js_runtime",
-      "version": "0.7.3",
-      "description": "ECMAScript runtime for JS plugins",
-      "url": "https://crates.io/crates/biome_js_runtime",
-      "created_at": "2026-11-18T14:27:54.011498Z"
-    },
-    {
-      "name": "tarot-cards",
+      "name": "claude-monitor",
       "version": "0.1.0",
-      "description": "The 78 Rider-Waite tarot cards as static data: names, keywords, upright and reversed meanings, yes/no answers, plus a seeded draw.",
-      "url": "https://crates.io/crates/tarot-cards",
-      "created_at": "2026-11-18T14:26:28.018810Z"
+      "description": "Always-on localhost hub for Claude Code: OTLP intake, transcript index, hook speedups, API gateway, and a live TUI.",
+      "url": "https://crates.io/crates/claude-monitor",
+      "created_at": "2026-11-19T14:30:00.301755Z"
     },
     {
-      "name": "prime-toast",
+      "name": "database-monitor",
       "version": "0.1.0",
-      "description": "prime-rs: Toast component and MessageService (PrimeNG port)",
-      "url": "https://crates.io/crates/prime-toast",
-      "created_at": "2026-11-18T14:26:05.901140Z"
+      "description": "Zero-query passive terminal monitor for outbound database connections, traffic, SQL payloads, and AI agent over-execution on Windows.",
+      "url": "https://crates.io/crates/database-monitor",
+      "created_at": "2026-11-19T14:29:55.616033Z"
     },
     {
-      "name": "embassy-executor-riscv",
+      "name": "network-monitor-core",
+      "version": "0.1.1",
+      "description": "Engine crate of network-monitor: packet capture, protocol decoders, flow tracking, display filters, process attribution, and the egress monitor core.",
+      "url": "https://crates.io/crates/network-monitor-core",
+      "created_at": "2026-11-19T14:29:51.648601Z"
+    },
+    {
+      "name": "besk",
+      "version": "0.1.1",
+      "description": "\u042d\u0442\u043e \u0443\u0447\u0435\u0431\u043d\u044b\u0439 \u043f\u0440\u043e\u0435\u043a\u0442 \u0434\u043b\u044f \u0442\u0435\u0441\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f \u043a\u0438\u0431\u0435\u0440\u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u0438.",
+      "url": "https://crates.io/crates/besk",
+      "created_at": "2026-11-19T14:26:06.535499Z"
+    },
+    {
+      "name": "lintel-iced-highlighter",
+      "version": "0.15.0-dev",
+      "description": "A syntax highlighter for iced",
+      "url": "https://crates.io/crates/lintel-iced-highlighter",
+      "created_at": "2026-11-19T14:25:20.885696Z"
+    },
+    {
+      "name": "epistat-inference",
       "version": "0.1.0",
-      "description": "async/await executor designed for embedded usage",
-      "url": "https://crates.io/crates/embassy-executor-riscv",
-      "created_at": "2026-11-18T14:19:16.865467Z"
+      "description": "Influence-function and sandwich variances, cluster-robust and bootstrap intervals that reproduce across thread counts",
+      "url": "https://crates.io/crates/epistat-inference",
+      "created_at": "2026-11-19T14:21:19.362023Z"
     },
     {
-      "name": "pandleanpcs",
+      "name": "toxtg",
+      "version": "0.1.2",
+      "description": "Tiny async library for sending files to Telegram via the Bot API. No logging, no tracing.",
+      "url": "https://crates.io/crates/toxtg",
+      "created_at": "2026-11-19T14:21:15.878256Z"
+    },
+    {
+      "name": "epistat-linalg",
+      "version": "0.1.0",
+      "description": "Dense solves with fallbacks and row-blocked products on faer, with results that do not depend on the number of threads",
+      "url": "https://crates.io/crates/epistat-linalg",
+      "created_at": "2026-11-19T14:21:04.027697Z"
+    },
+    {
+      "name": "epistat-stats",
+      "version": "0.1.0",
+      "description": "Sample quantiles, the normal distribution and floating-point sums that agree with R and Python to the bit",
+      "url": "https://crates.io/crates/epistat-stats",
+      "created_at": "2026-11-19T14:21:01.580429Z"
+    },
+    {
+      "name": "epistat-rng",
+      "version": "0.1.0",
+      "description": "SplitMix64 streams and bootstrap draws that reproduce across threads, platforms and languages",
+      "url": "https://crates.io/crates/epistat-rng",
+      "created_at": "2026-11-19T14:20:58.792273Z"
+    },
+    {
+      "name": "grow-zipkin",
+      "version": "0.1.0",
+      "description": "Rust SDK for Zipkin by Grow Codes",
+      "url": "https://crates.io/crates/grow-zipkin",
+      "created_at": "2026-11-19T14:20:33.947557Z"
+    },
+    {
+      "name": "dive-cli",
+      "version": "0.1.0",
+      "description": "The dive TLA+ model checker command-line tool, with a TLC-compatible `tlc` command",
+      "url": "https://crates.io/crates/dive-cli",
+      "created_at": "2026-11-19T14:17:06.822285Z"
+    },
+    {
+      "name": "overload-tui",
       "version": "0.5.0",
-      "description": "Reference openings for sparse univariate polynomials over GF(2^128)",
-      "url": "https://crates.io/crates/pandleanpcs",
-      "created_at": "2026-11-18T14:18:18.519502Z"
+      "description": "A macOS terminal tool to find and kill resource-hungry processes fast",
+      "url": "https://crates.io/crates/overload-tui",
+      "created_at": "2026-11-19T14:15:26.379111Z"
     },
     {
-      "name": "biome_resolver",
-      "version": "0.7.3",
-      "description": "Responsible for resolving dependency path",
-      "url": "https://crates.io/crates/biome_resolver",
-      "created_at": "2026-11-18T14:17:53.439806Z"
+      "name": "lintel-iced-futures",
+      "version": "0.15.0-dev",
+      "description": "Commands, subscriptions, and future executors for iced",
+      "url": "https://crates.io/crates/lintel-iced-futures",
+      "created_at": "2026-11-19T14:15:14.545936Z"
     },
     {
-      "name": "saidhome",
-      "version": "0.0.1",
-      "description": "SAIDHOME Inc., makers of .said, the memory file any AI can use. Name reserved; the first release is coming.",
-      "url": "https://crates.io/crates/saidhome",
-      "created_at": "2026-11-18T14:16:32.872790Z"
-    },
-    {
-      "name": "prime-timeline",
-      "version": "0.1.0",
-      "description": "prime-rs: Timeline component (PrimeNG port)",
-      "url": "https://crates.io/crates/prime-timeline",
-      "created_at": "2026-11-18T14:16:02.555607Z"
-    },
-    {
-      "name": "rand_mwcx",
-      "version": "0.1.0",
-      "description": "Scrambled multiply-with-carry random number generators",
-      "url": "https://crates.io/crates/rand_mwcx",
-      "created_at": "2026-11-18T14:15:49.034706Z"
-    },
-    {
-      "name": "asksaid",
-      "version": "0.0.1",
-      "description": "Rust SDK for .said, the memory file any AI can use. Name reserved; the first release is coming.",
-      "url": "https://crates.io/crates/asksaid",
-      "created_at": "2026-11-18T14:14:07.426051Z"
-    },
-    {
-      "name": "said-core",
-      "version": "0.0.1",
-      "description": "Reader and writer for the open .said memory format. Name reserved; the first release is coming.",
-      "url": "https://crates.io/crates/said-core",
-      "created_at": "2026-11-18T14:13:53.186026Z"
-    },
-    {
-      "name": "branded-index",
-      "version": "0.1.0",
-      "description": "Branded indices: pay the bounds check once, at validation, instead of on every access",
-      "url": "https://crates.io/crates/branded-index",
-      "created_at": "2026-11-18T14:11:16.330070Z"
-    },
-    {
-      "name": "embassy-time-queue-utils-riscv",
-      "version": "0.1.0",
-      "description": "Timer queue driver trait for embassy-time",
-      "url": "https://crates.io/crates/embassy-time-queue-utils-riscv",
-      "created_at": "2026-11-18T14:10:16.790106Z"
-    },
-    {
-      "name": "biome_project_layout",
-      "version": "0.7.3",
-      "description": "Data structure for tracking projects and their packages",
-      "url": "https://crates.io/crates/biome_project_layout",
-      "created_at": "2026-11-18T14:07:52.618191Z"
-    },
-    {
-      "name": "prime-theme",
-      "version": "0.1.0",
-      "description": "prime-rs: static CSS of the Aura theme",
-      "url": "https://crates.io/crates/prime-theme",
-      "created_at": "2026-11-18T14:05:59.512044Z"
-    },
-    {
-      "name": "embassy-executor-timer-queue-riscv",
-      "version": "0.1.0",
-      "description": "Timer queue item and interface between embassy-executor and timer queues",
-      "url": "https://crates.io/crates/embassy-executor-timer-queue-riscv",
-      "created_at": "2026-11-18T14:00:15.923717Z"
-    },
-    {
-      "name": "shitsukan",
-      "version": "0.1.0",
-      "description": "Placeholder",
-      "url": "https://crates.io/crates/shitsukan",
-      "created_at": "2026-11-18T13:58:10.200248Z"
-    },
-    {
-      "name": "biome_package",
-      "version": "0.7.3",
-      "description": "Workspace package handler",
-      "url": "https://crates.io/crates/biome_package",
-      "created_at": "2026-11-18T13:57:53.254883Z"
-    },
-    {
-      "name": "koliseo",
+      "name": "gst-plugin-audiomultimixer",
       "version": "0.0.0",
-      "description": "Safe Rust bindings for koliseo",
-      "url": "https://crates.io/crates/koliseo",
-      "created_at": "2026-11-18T13:56:38.269495Z"
+      "description": "GStreamer audio multi-mixer plugin (placeholder)",
+      "url": "https://crates.io/crates/gst-plugin-audiomultimixer",
+      "created_at": "2026-11-19T14:13:40.952949Z"
+    },
+    {
+      "name": "gradus-cli",
+      "version": "0.1.2",
+      "description": "Command-line interface for Gradus.",
+      "url": "https://crates.io/crates/gradus-cli",
+      "created_at": "2026-11-19T14:12:29.156764Z"
+    },
+    {
+      "name": "upland",
+      "version": "0.1.8",
+      "description": "HTTP API server with an embedded web UI",
+      "url": "https://crates.io/crates/upland",
+      "created_at": "2026-11-19T14:10:47.434300Z"
+    },
+    {
+      "name": "grow-grafana-tempo",
+      "version": "0.1.0",
+      "description": "Rust SDK for Grafana Tempo by Grow Codes",
+      "url": "https://crates.io/crates/grow-grafana-tempo",
+      "created_at": "2026-11-19T14:10:33.741023Z"
+    },
+    {
+      "name": "dive-api",
+      "version": "0.1.0",
+      "description": "Embeddable Rust API of the dive TLA+ tools: parsing, semantic analysis, model checking, simulation and trace validation",
+      "url": "https://crates.io/crates/dive-api",
+      "created_at": "2026-11-19T14:07:09.996925Z"
+    },
+    {
+      "name": "localca",
+      "version": "1.0.1",
+      "description": "Issue locally trusted TLS certificates",
+      "url": "https://crates.io/crates/localca",
+      "created_at": "2026-11-19T14:06:08.706227Z"
+    },
+    {
+      "name": "gst-plugin-debugutils",
+      "version": "0.0.0",
+      "description": "GStreamer debug utils plugin (placeholder)",
+      "url": "https://crates.io/crates/gst-plugin-debugutils",
+      "created_at": "2026-11-19T14:05:22.165198Z"
     }
   ]
 }
