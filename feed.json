@@ -1,215 +1,215 @@
 {
-  "updated": "2026-11-20T14:29:04.025841+00:00",
+  "updated": "2026-11-21T13:47:44.346656+00:00",
   "items": [
     {
-      "name": "rune-diff",
+      "name": "cosmosearch-extract-docx",
       "version": "0.1.0",
-      "description": "Myers line/word diff with unified output, volatile-field masking and structural HTTP response diff (status, headers, JSON and text bodies)",
-      "url": "https://crates.io/crates/rune-diff",
-      "created_at": "2026-11-20T14:25:13.268174Z"
+      "description": "Word (.docx) extractor for cosmosearch.",
+      "url": "https://crates.io/crates/cosmosearch-extract-docx",
+      "created_at": "2026-11-21T13:43:58.131587Z"
     },
     {
-      "name": "wsdp",
+      "name": "cargo-cache-ng",
       "version": "0.1.0",
-      "description": "Async high-level client for \u010c\u00daZK WSDP real-estate cadastre services",
-      "url": "https://crates.io/crates/wsdp",
-      "created_at": "2026-11-20T14:24:22.151083Z"
+      "description": "Manage the Cargo cache ($CARGO_HOME or ~/.cargo/), show sizes, and remove directories selectively",
+      "url": "https://crates.io/crates/cargo-cache-ng",
+      "created_at": "2026-11-21T13:40:52.949278Z"
     },
     {
-      "name": "noonoo-ttf",
-      "version": "0.20.0",
-      "description": "Noonoo's TrueType/OpenType parser: font metrics, cmap, and a Shaper.",
-      "url": "https://crates.io/crates/noonoo-ttf",
-      "created_at": "2026-11-20T14:21:54.157846Z"
-    },
-    {
-      "name": "y901-shell",
-      "version": "0.2.5",
-      "description": "Platform selection and OS adapters (clipboard, secrets) for Y901.",
-      "url": "https://crates.io/crates/y901-shell",
-      "created_at": "2026-11-20T14:21:07.814775Z"
-    },
-    {
-      "name": "sdelete-gui",
-      "version": "2.0.0",
-      "description": "Windows Explorer context-menu manager and sequential batch runner for Microsoft Sysinternals SDelete",
-      "url": "https://crates.io/crates/sdelete-gui",
-      "created_at": "2026-11-20T14:20:45.582497Z"
-    },
-    {
-      "name": "payswitch",
+      "name": "cosmosearch-extract-csv",
       "version": "0.1.0",
-      "description": "Deterministic, sub-millisecond cross-border financial switching and double-entry settlement engine in Rust",
-      "url": "https://crates.io/crates/payswitch",
-      "created_at": "2026-11-20T14:20:15.591540Z"
+      "description": "CSV extractor for cosmosearch.",
+      "url": "https://crates.io/crates/cosmosearch-extract-csv",
+      "created_at": "2026-11-21T13:33:28.808090Z"
     },
     {
-      "name": "rune-ml-metrics",
+      "name": "cosmosearch-embed-local",
       "version": "0.1.0",
-      "description": "Model evaluation metrics \u2014 classification, ranking (ROC/PR), regression and clustering scores matching scikit-learn",
-      "url": "https://crates.io/crates/rune-ml-metrics",
-      "created_at": "2026-11-20T14:14:58.124684Z"
+      "description": "Local CPU embeddings for cosmosearch, using candle.",
+      "url": "https://crates.io/crates/cosmosearch-embed-local",
+      "created_at": "2026-11-21T13:33:28.316114Z"
     },
     {
-      "name": "noonoo-toml",
-      "version": "0.20.0",
-      "description": "Noonoo's TOML parser: a documented subset into the JSON value model.",
-      "url": "https://crates.io/crates/noonoo-toml",
-      "created_at": "2026-11-20T14:11:41.011406Z"
-    },
-    {
-      "name": "y901-backend-web",
-      "version": "0.2.5",
-      "description": "Y901 browser (wasm32) backend: canvas presentation, DOM input, rAF pacing",
-      "url": "https://crates.io/crates/y901-backend-web",
-      "created_at": "2026-11-20T14:11:10.185915Z"
-    },
-    {
-      "name": "rune-cve",
+      "name": "cosmosearch-chunk",
       "version": "0.1.0",
-      "description": "CVE and NVD 2.0 record model with CPE 2.3 parsing and version-range matching",
-      "url": "https://crates.io/crates/rune-cve",
-      "created_at": "2026-11-20T14:05:13.171978Z"
+      "description": "Runs cosmosearch extractors safely and turns their output into chunks.",
+      "url": "https://crates.io/crates/cosmosearch-chunk",
+      "created_at": "2026-11-21T13:33:27.399786Z"
     },
     {
-      "name": "coinolive",
-      "version": "1.0.0",
-      "description": "Coino Live API v2 client: accept crypto payments, custody users, withdrawals and webhook verification.",
-      "url": "https://crates.io/crates/coinolive",
-      "created_at": "2026-11-20T14:04:14.335838Z"
+      "name": "cosmosearch-cache",
+      "version": "0.1.0",
+      "description": "Memory and disk caches for cosmosearch.",
+      "url": "https://crates.io/crates/cosmosearch-cache",
+      "created_at": "2026-11-21T13:33:26.562995Z"
     },
     {
-      "name": "egui_mineral_eframe",
+      "name": "cosmosearch-core",
+      "version": "0.1.0",
+      "description": "Shared types and plug-in contracts for cosmosearch.",
+      "url": "https://crates.io/crates/cosmosearch-core",
+      "created_at": "2026-11-21T13:33:24.648762Z"
+    },
+    {
+      "name": "rusterisk-cli",
+      "version": "0.1.0",
+      "description": "Inspect call routing, diagnose media, and verify test calls on a running Rusterisk server",
+      "url": "https://crates.io/crates/rusterisk-cli",
+      "created_at": "2026-11-21T13:33:18.033359Z"
+    },
+    {
+      "name": "cruma-tron-runner",
+      "version": "0.1.0",
+      "description": "Connect a worker to Tron, receive scheduled jobs over the runner protocol, and report their results.",
+      "url": "https://crates.io/crates/cruma-tron-runner",
+      "created_at": "2026-11-21T13:32:38.967221Z"
+    },
+    {
+      "name": "rsargv",
+      "version": "1.1.0",
+      "description": "Zero-dependency command-line argument parser with direct variable binding, environment variable resolution, and validation rules.",
+      "url": "https://crates.io/crates/rsargv",
+      "created_at": "2026-11-21T13:31:52.024770Z"
+    },
+    {
+      "name": "vtcode-computer-use",
+      "version": "0.185.0",
+      "description": "Turn-local computer-use actions and driver lifecycle for VT Code",
+      "url": "https://crates.io/crates/vtcode-computer-use",
+      "created_at": "2026-11-21T13:27:43.701528Z"
+    },
+    {
+      "name": "meeng-sdk",
+      "version": "0.1.0",
+      "description": "Meeng.dev's SDK for Rust: emails, domains, contacts, contact books, campaigns, analytics and webhooks.",
+      "url": "https://crates.io/crates/meeng-sdk",
+      "created_at": "2026-11-21T13:27:12.888204Z"
+    },
+    {
+      "name": "custody-machines",
+      "version": "0.1.0",
+      "description": "Decides where a vault key lives, so the only copy is never one that dies on reboot",
+      "url": "https://crates.io/crates/custody-machines",
+      "created_at": "2026-11-21T13:22:52.259178Z"
+    },
+    {
+      "name": "pltrs",
+      "version": "0.1.0",
+      "description": "matplotlib rebuilt in Rust: figures, axes, artists, every output format, interactive windows and a pyplot-style API",
+      "url": "https://crates.io/crates/pltrs",
+      "created_at": "2026-11-21T13:16:14.576108Z"
+    },
+    {
+      "name": "borrowed",
+      "version": "0.1.0",
+      "description": "Postfix borrowing.",
+      "url": "https://crates.io/crates/borrowed",
+      "created_at": "2026-11-21T13:10:41.036191Z"
+    },
+    {
+      "name": "pltrs-ui",
+      "version": "0.1.0",
+      "description": "A small retained-mode UI engine used for pltrs figure windows",
+      "url": "https://crates.io/crates/pltrs-ui",
+      "created_at": "2026-11-21T13:05:12.558651Z"
+    },
+    {
+      "name": "pltrs-render",
+      "version": "0.1.0",
+      "description": "Renderer abstraction with raster (PNG), SVG, PDF, PostScript and PGF backends",
+      "url": "https://crates.io/crates/pltrs-render",
+      "created_at": "2026-11-21T12:54:55.022480Z"
+    },
+    {
+      "name": "kavachkit",
+      "version": "0.6.0",
+      "description": "Rules, skills, hooks, memory and security checks for Claude Code, in one small CLI",
+      "url": "https://crates.io/crates/kavachkit",
+      "created_at": "2026-11-21T12:45:31.222402Z"
+    },
+    {
+      "name": "oxyboy",
       "version": "0.0.0",
-      "description": "Placeholder for egui_mineral_eframe, part of the egui_mineral UI framework; releases follow.",
-      "url": "https://crates.io/crates/egui_mineral_eframe",
-      "created_at": "2026-11-20T14:02:54.125545Z"
+      "description": "Name reserved for oxyboy, a Game Boy Advance analyzer, decompiler, and static recompiler. Releases ship on GitHub, not here.",
+      "url": "https://crates.io/crates/oxyboy",
+      "created_at": "2026-11-21T12:45:26.064982Z"
     },
     {
-      "name": "noonoo-svg",
-      "version": "0.20.0",
-      "description": "Noonoo's SVG parser: an SVG subset rendered to paint commands.",
-      "url": "https://crates.io/crates/noonoo-svg",
-      "created_at": "2026-11-20T14:01:28.254686Z"
-    },
-    {
-      "name": "y901-backend-win32",
-      "version": "0.2.5",
-      "description": "Win32 / D3D11 backend for Y901.",
-      "url": "https://crates.io/crates/y901-backend-win32",
-      "created_at": "2026-11-20T14:01:11.234368Z"
-    },
-    {
-      "name": "arcadia-framework",
-      "version": "0.1.3",
-      "description": "A NestJS-inspired modular backend framework for Rust",
-      "url": "https://crates.io/crates/arcadia-framework",
-      "created_at": "2026-11-20T13:58:55.431790Z"
-    },
-    {
-      "name": "arcadia-macros",
-      "version": "0.1.3",
-      "description": "Procedural macros for the Arcadia Rust backend framework",
-      "url": "https://crates.io/crates/arcadia-macros",
-      "created_at": "2026-11-20T13:58:51.267765Z"
-    },
-    {
-      "name": "rune-csp",
-      "version": "0.1.1",
-      "description": "Parse, analyze and canonicalize Content-Security-Policy headers, reporting weaknesses as rune-finding findings",
-      "url": "https://crates.io/crates/rune-csp",
-      "created_at": "2026-11-20T13:56:35.102602Z"
-    },
-    {
-      "name": "rune-cors",
+      "name": "pltrs-text",
       "version": "0.1.0",
-      "description": "Analyze CORS response headers for dangerous origin, credential and allowlist combinations, reporting rune-finding findings",
-      "url": "https://crates.io/crates/rune-cors",
-      "created_at": "2026-11-20T13:56:31.896988Z"
+      "description": "Text layout, mathtext typesetting and usetex (DVI, virtual fonts, TFM, font maps) as matplotlib does them",
+      "url": "https://crates.io/crates/pltrs-text",
+      "created_at": "2026-11-21T12:44:36.532029Z"
     },
     {
-      "name": "rune-cookie-sec",
+      "name": "tauri-plugin-content-update-build",
       "version": "0.1.0",
-      "description": "Analyze Set-Cookie headers for weak security attributes, reporting rune-finding findings",
-      "url": "https://crates.io/crates/rune-cookie-sec",
-      "created_at": "2026-11-20T13:56:28.316098Z"
+      "description": "Build-time helper of tauri-plugin-content-update: hashes the native API an app provides and generates typed TypeScript bindings of its commands",
+      "url": "https://crates.io/crates/tauri-plugin-content-update-build",
+      "created_at": "2026-11-21T12:39:13.631430Z"
     },
     {
-      "name": "rune-cookie",
+      "name": "tauri-plugin-content-update",
       "version": "0.1.0",
-      "description": "RFC 6265 cookies: Set-Cookie/Cookie parsing and serialization, cookie dates, and a sans-I/O cookie jar with PSL scoping and SameSite",
-      "url": "https://crates.io/crates/rune-cookie",
-      "created_at": "2026-11-20T13:56:24.676678Z"
+      "description": "Over-the-air web content updates for Tauri 2 apps: per-file delta downloads, automatic rollback and native compatibility checks",
+      "url": "https://crates.io/crates/tauri-plugin-content-update",
+      "created_at": "2026-11-21T12:39:12.820263Z"
     },
     {
-      "name": "rune-cloud-ranges",
+      "name": "proton-map-rs",
       "version": "0.1.0",
-      "description": "Cloud and CDN IP-range datasets (AWS, Google, Azure, Cloudflare, Fastly, Oracle, DigitalOcean) with provider, service and CDN lookup",
-      "url": "https://crates.io/crates/rune-cloud-ranges",
-      "created_at": "2026-11-20T13:56:21.241953Z"
+      "description": "Offline vector basemap for Proton apps: PMTiles reader, MVT decoder and an anti-aliased raster tile renderer",
+      "url": "https://crates.io/crates/proton-map-rs",
+      "created_at": "2026-11-21T12:36:31.149481Z"
     },
     {
-      "name": "rigvtools",
+      "name": "pltrs-platform",
       "version": "0.1.0",
-      "description": "Companion CLI genomic utilities (faidx, sort, count, info) for rigv",
-      "url": "https://crates.io/crates/rigvtools",
-      "created_at": "2026-11-20T13:55:00.235585Z"
+      "description": "Native windowing and input abstraction (Wayland, X11, macOS and Windows)",
+      "url": "https://crates.io/crates/pltrs-platform",
+      "created_at": "2026-11-21T12:34:50.883332Z"
     },
     {
-      "name": "tuigv",
+      "name": "pltrs-raster",
       "version": "0.1.0",
-      "description": "Interactive terminal & headless genome viewer supporting BAM/CRAM/SAM/PAF, VCF/BCF/PED, GFF/GTF/BED/bigBed, bigWig/WIG/bedGraph, BEDPE/bigInteract, SEG CNV, GWAS Manhattan plots, Sashimi junctions, and bundled igv.js sync.",
-      "url": "https://crates.io/crates/tuigv",
-      "created_at": "2026-11-20T13:52:06.740344Z"
+      "description": "Anti-aliased scanline rasterizer, stroker and compositor",
+      "url": "https://crates.io/crates/pltrs-raster",
+      "created_at": "2026-11-21T12:34:45.629903Z"
     },
     {
-      "name": "tuigv-serve",
-      "version": "0.1.1",
-      "description": "Local HTTP server that bidirectionally mirrors the tuigv TUI view in igv.js.",
-      "url": "https://crates.io/crates/tuigv-serve",
-      "created_at": "2026-11-20T13:51:25.189425Z"
-    },
-    {
-      "name": "noonoo-xml",
-      "version": "0.20.0",
-      "description": "Noonoo's XML parser: documents into the noonoo-dom tree.",
-      "url": "https://crates.io/crates/noonoo-xml",
-      "created_at": "2026-11-20T13:51:14.953171Z"
-    },
-    {
-      "name": "rigv",
+      "name": "pltrs-font",
       "version": "0.1.0",
-      "description": "Rust port of the Integrative Genomics Viewer (IGV) with desktop GUI and headless batch rendering",
-      "url": "https://crates.io/crates/rigv",
-      "created_at": "2026-11-20T13:51:08.292327Z"
+      "description": "TrueType/OpenType parsing, glyph outlines, shaping and font management with bundled fonts",
+      "url": "https://crates.io/crates/pltrs-font",
+      "created_at": "2026-11-21T12:34:40.780509Z"
     },
     {
-      "name": "tuigv-render",
-      "version": "0.1.1",
-      "description": "Graphical SVG, PNG, circular Circos chord, and Kitty/iTerm2/Sixel terminal pixel renderer for tuigv.",
-      "url": "https://crates.io/crates/tuigv-render",
-      "created_at": "2026-11-20T13:51:08.136800Z"
-    },
-    {
-      "name": "tuigv-core",
-      "version": "0.1.1",
-      "description": "Pure async genomics data layer for tuigv: regions, remote range I/O, alignment analytics, coverage, pedigrees, Sashimi junctions, and multi-format readers. UI-free.",
-      "url": "https://crates.io/crates/tuigv-core",
-      "created_at": "2026-11-20T13:50:41.824245Z"
-    },
-    {
-      "name": "werker",
+      "name": "pltrs-codec",
       "version": "0.1.0",
-      "description": "A stdio MCP server that uses a Forgejo repository as an issue tracker for coding agents",
-      "url": "https://crates.io/crates/werker",
-      "created_at": "2026-11-20T13:47:28.254113Z"
+      "description": "Self-contained compression and image codecs: DEFLATE/zlib, PNG/APNG, JPEG, TIFF, GIF and WebP, and an AVIF encoder",
+      "url": "https://crates.io/crates/pltrs-codec",
+      "created_at": "2026-11-21T12:34:32.679466Z"
     },
     {
-      "name": "nespra_admin",
+      "name": "pltrs-core",
       "version": "0.1.0",
-      "description": "Unofficial async Rust client for the Vespa operational APIs: health, status and more",
-      "url": "https://crates.io/crates/nespra_admin",
-      "created_at": "2026-11-20T13:43:37.286470Z"
+      "description": "Geometry, paths, affine transforms, colours and numpy's float semantics shared by every pltrs crate",
+      "url": "https://crates.io/crates/pltrs-core",
+      "created_at": "2026-11-21T12:34:24.196168Z"
+    },
+    {
+      "name": "rustier_runtime",
+      "version": "0.0.1",
+      "description": "Rustier macro runtime and transport support.",
+      "url": "https://crates.io/crates/rustier_runtime",
+      "created_at": "2026-11-21T12:31:39.465602Z"
+    },
+    {
+      "name": "varpage",
+      "version": "0.1.0",
+      "description": "Compact storage for variable-size records on seekable streams.",
+      "url": "https://crates.io/crates/varpage",
+      "created_at": "2026-11-21T12:30:30.900835Z"
     }
   ]
 }
