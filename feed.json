@@ -1,215 +1,215 @@
 {
-  "updated": "2026-11-21T13:47:44.346656+00:00",
+  "updated": "2026-11-22T13:41:34.103120+00:00",
   "items": [
     {
-      "name": "cosmosearch-extract-docx",
-      "version": "0.1.0",
-      "description": "Word (.docx) extractor for cosmosearch.",
-      "url": "https://crates.io/crates/cosmosearch-extract-docx",
-      "created_at": "2026-11-21T13:43:58.131587Z"
-    },
-    {
-      "name": "cargo-cache-ng",
-      "version": "0.1.0",
-      "description": "Manage the Cargo cache ($CARGO_HOME or ~/.cargo/), show sizes, and remove directories selectively",
-      "url": "https://crates.io/crates/cargo-cache-ng",
-      "created_at": "2026-11-21T13:40:52.949278Z"
-    },
-    {
-      "name": "cosmosearch-extract-csv",
-      "version": "0.1.0",
-      "description": "CSV extractor for cosmosearch.",
-      "url": "https://crates.io/crates/cosmosearch-extract-csv",
-      "created_at": "2026-11-21T13:33:28.808090Z"
-    },
-    {
-      "name": "cosmosearch-embed-local",
-      "version": "0.1.0",
-      "description": "Local CPU embeddings for cosmosearch, using candle.",
-      "url": "https://crates.io/crates/cosmosearch-embed-local",
-      "created_at": "2026-11-21T13:33:28.316114Z"
-    },
-    {
-      "name": "cosmosearch-chunk",
-      "version": "0.1.0",
-      "description": "Runs cosmosearch extractors safely and turns their output into chunks.",
-      "url": "https://crates.io/crates/cosmosearch-chunk",
-      "created_at": "2026-11-21T13:33:27.399786Z"
-    },
-    {
-      "name": "cosmosearch-cache",
-      "version": "0.1.0",
-      "description": "Memory and disk caches for cosmosearch.",
-      "url": "https://crates.io/crates/cosmosearch-cache",
-      "created_at": "2026-11-21T13:33:26.562995Z"
-    },
-    {
-      "name": "cosmosearch-core",
-      "version": "0.1.0",
-      "description": "Shared types and plug-in contracts for cosmosearch.",
-      "url": "https://crates.io/crates/cosmosearch-core",
-      "created_at": "2026-11-21T13:33:24.648762Z"
-    },
-    {
-      "name": "rusterisk-cli",
-      "version": "0.1.0",
-      "description": "Inspect call routing, diagnose media, and verify test calls on a running Rusterisk server",
-      "url": "https://crates.io/crates/rusterisk-cli",
-      "created_at": "2026-11-21T13:33:18.033359Z"
-    },
-    {
-      "name": "cruma-tron-runner",
-      "version": "0.1.0",
-      "description": "Connect a worker to Tron, receive scheduled jobs over the runner protocol, and report their results.",
-      "url": "https://crates.io/crates/cruma-tron-runner",
-      "created_at": "2026-11-21T13:32:38.967221Z"
-    },
-    {
-      "name": "rsargv",
-      "version": "1.1.0",
-      "description": "Zero-dependency command-line argument parser with direct variable binding, environment variable resolution, and validation rules.",
-      "url": "https://crates.io/crates/rsargv",
-      "created_at": "2026-11-21T13:31:52.024770Z"
-    },
-    {
-      "name": "vtcode-computer-use",
-      "version": "0.185.0",
-      "description": "Turn-local computer-use actions and driver lifecycle for VT Code",
-      "url": "https://crates.io/crates/vtcode-computer-use",
-      "created_at": "2026-11-21T13:27:43.701528Z"
-    },
-    {
-      "name": "meeng-sdk",
-      "version": "0.1.0",
-      "description": "Meeng.dev's SDK for Rust: emails, domains, contacts, contact books, campaigns, analytics and webhooks.",
-      "url": "https://crates.io/crates/meeng-sdk",
-      "created_at": "2026-11-21T13:27:12.888204Z"
-    },
-    {
-      "name": "custody-machines",
-      "version": "0.1.0",
-      "description": "Decides where a vault key lives, so the only copy is never one that dies on reboot",
-      "url": "https://crates.io/crates/custody-machines",
-      "created_at": "2026-11-21T13:22:52.259178Z"
-    },
-    {
-      "name": "pltrs",
-      "version": "0.1.0",
-      "description": "matplotlib rebuilt in Rust: figures, axes, artists, every output format, interactive windows and a pyplot-style API",
-      "url": "https://crates.io/crates/pltrs",
-      "created_at": "2026-11-21T13:16:14.576108Z"
-    },
-    {
-      "name": "borrowed",
-      "version": "0.1.0",
-      "description": "Postfix borrowing.",
-      "url": "https://crates.io/crates/borrowed",
-      "created_at": "2026-11-21T13:10:41.036191Z"
-    },
-    {
-      "name": "pltrs-ui",
-      "version": "0.1.0",
-      "description": "A small retained-mode UI engine used for pltrs figure windows",
-      "url": "https://crates.io/crates/pltrs-ui",
-      "created_at": "2026-11-21T13:05:12.558651Z"
-    },
-    {
-      "name": "pltrs-render",
-      "version": "0.1.0",
-      "description": "Renderer abstraction with raster (PNG), SVG, PDF, PostScript and PGF backends",
-      "url": "https://crates.io/crates/pltrs-render",
-      "created_at": "2026-11-21T12:54:55.022480Z"
-    },
-    {
-      "name": "kavachkit",
-      "version": "0.6.0",
-      "description": "Rules, skills, hooks, memory and security checks for Claude Code, in one small CLI",
-      "url": "https://crates.io/crates/kavachkit",
-      "created_at": "2026-11-21T12:45:31.222402Z"
-    },
-    {
-      "name": "oxyboy",
+      "name": "p14g",
       "version": "0.0.0",
-      "description": "Name reserved for oxyboy, a Game Boy Advance analyzer, decompiler, and static recompiler. Releases ship on GitHub, not here.",
-      "url": "https://crates.io/crates/oxyboy",
-      "created_at": "2026-11-21T12:45:26.064982Z"
+      "description": "Check untrusted SQL against an allowlist and rewrite it so it is safe to run on Postgres",
+      "url": "https://crates.io/crates/p14g",
+      "created_at": "2026-11-22T13:40:49.531180Z"
     },
     {
-      "name": "pltrs-text",
+      "name": "ls2",
       "version": "0.1.0",
-      "description": "Text layout, mathtext typesetting and usetex (DVI, virtual fonts, TFM, font maps) as matplotlib does them",
-      "url": "https://crates.io/crates/pltrs-text",
-      "created_at": "2026-11-21T12:44:36.532029Z"
+      "description": "Async Luna Service 2 IPC for webOS TV",
+      "url": "https://crates.io/crates/ls2",
+      "created_at": "2026-11-22T13:40:15.664855Z"
     },
     {
-      "name": "tauri-plugin-content-update-build",
+      "name": "gpdoc-plugin-bold",
       "version": "0.1.0",
-      "description": "Build-time helper of tauri-plugin-content-update: hashes the native API an app provides and generates typed TypeScript bindings of its commands",
-      "url": "https://crates.io/crates/tauri-plugin-content-update-build",
-      "created_at": "2026-11-21T12:39:13.631430Z"
+      "description": "Bold plugin for the gpdoc rich-text editor",
+      "url": "https://crates.io/crates/gpdoc-plugin-bold",
+      "created_at": "2026-11-22T13:38:36.826919Z"
     },
     {
-      "name": "tauri-plugin-content-update",
-      "version": "0.1.0",
-      "description": "Over-the-air web content updates for Tauri 2 apps: per-file delta downloads, automatic rollback and native compatibility checks",
-      "url": "https://crates.io/crates/tauri-plugin-content-update",
-      "created_at": "2026-11-21T12:39:12.820263Z"
+      "name": "evorule-demo-services",
+      "version": "0.5.2",
+      "description": "Native Rust implementation of the yuanze-demos business services - mounted on the evorule-server IoDispatcher as an IoHandler",
+      "url": "https://crates.io/crates/evorule-demo-services",
+      "created_at": "2026-11-22T13:37:09.354920Z"
     },
     {
-      "name": "proton-map-rs",
-      "version": "0.1.0",
-      "description": "Offline vector basemap for Proton apps: PMTiles reader, MVT decoder and an anti-aliased raster tile renderer",
-      "url": "https://crates.io/crates/proton-map-rs",
-      "created_at": "2026-11-21T12:36:31.149481Z"
-    },
-    {
-      "name": "pltrs-platform",
-      "version": "0.1.0",
-      "description": "Native windowing and input abstraction (Wayland, X11, macOS and Windows)",
-      "url": "https://crates.io/crates/pltrs-platform",
-      "created_at": "2026-11-21T12:34:50.883332Z"
-    },
-    {
-      "name": "pltrs-raster",
-      "version": "0.1.0",
-      "description": "Anti-aliased scanline rasterizer, stroker and compositor",
-      "url": "https://crates.io/crates/pltrs-raster",
-      "created_at": "2026-11-21T12:34:45.629903Z"
-    },
-    {
-      "name": "pltrs-font",
-      "version": "0.1.0",
-      "description": "TrueType/OpenType parsing, glyph outlines, shaping and font management with bundled fonts",
-      "url": "https://crates.io/crates/pltrs-font",
-      "created_at": "2026-11-21T12:34:40.780509Z"
-    },
-    {
-      "name": "pltrs-codec",
-      "version": "0.1.0",
-      "description": "Self-contained compression and image codecs: DEFLATE/zlib, PNG/APNG, JPEG, TIFF, GIF and WebP, and an AVIF encoder",
-      "url": "https://crates.io/crates/pltrs-codec",
-      "created_at": "2026-11-21T12:34:32.679466Z"
-    },
-    {
-      "name": "pltrs-core",
-      "version": "0.1.0",
-      "description": "Geometry, paths, affine transforms, colours and numpy's float semantics shared by every pltrs crate",
-      "url": "https://crates.io/crates/pltrs-core",
-      "created_at": "2026-11-21T12:34:24.196168Z"
-    },
-    {
-      "name": "rustier_runtime",
+      "name": "vegam",
       "version": "0.0.1",
-      "description": "Rustier macro runtime and transport support.",
-      "url": "https://crates.io/crates/rustier_runtime",
-      "created_at": "2026-11-21T12:31:39.465602Z"
+      "description": "Jerk-limited time-optimal path parameterization (TOPP)",
+      "url": "https://crates.io/crates/vegam",
+      "created_at": "2026-11-22T13:36:16.406208Z"
     },
     {
-      "name": "varpage",
+      "name": "embassy-net-driver-channel-riscv",
       "version": "0.1.0",
-      "description": "Compact storage for variable-size records on seekable streams.",
-      "url": "https://crates.io/crates/varpage",
-      "created_at": "2026-11-21T12:30:30.900835Z"
+      "description": "High-level channel-based driver for the `embassy-net` async TCP/IP network stack.",
+      "url": "https://crates.io/crates/embassy-net-driver-channel-riscv",
+      "created_at": "2026-11-22T13:33:24.300695Z"
+    },
+    {
+      "name": "gpdoc-plugin-paragraph",
+      "version": "0.1.0",
+      "description": "Paragraph plugin for the gpdoc rich-text editor",
+      "url": "https://crates.io/crates/gpdoc-plugin-paragraph",
+      "created_at": "2026-11-22T13:28:43.993747Z"
+    },
+    {
+      "name": "evorule-indicator-services",
+      "version": "0.1.1",
+      "description": "Deterministic financial technical-indicator native services - Rust rewrite bit-exact aligned with the Python reference implementation, mounted on the evorule-server IoDispatcher as an IoHandler",
+      "url": "https://crates.io/crates/evorule-indicator-services",
+      "created_at": "2026-11-22T13:26:00.764236Z"
+    },
+    {
+      "name": "mihari",
+      "version": "0.1.0",
+      "description": "Keyboard-driven image viewer and sorter",
+      "url": "https://crates.io/crates/mihari",
+      "created_at": "2026-11-22T13:23:39.001210Z"
+    },
+    {
+      "name": "keywork-docview",
+      "version": "0.2.0",
+      "description": "A Keywork widget that shows a static HTML document: scrolling, text selection with copy, and links, on the keywork-doc engine",
+      "url": "https://crates.io/crates/keywork-docview",
+      "created_at": "2026-11-22T13:20:00.026775Z"
+    },
+    {
+      "name": "keywork-doc",
+      "version": "0.2.0",
+      "description": "A document engine for static HTML and CSS: the cascade, box tree, layout, and painting into Keywork's display list, without scripts or networking",
+      "url": "https://crates.io/crates/keywork-doc",
+      "created_at": "2026-11-22T13:19:59.571052Z"
+    },
+    {
+      "name": "keywork-net",
+      "version": "0.2.0",
+      "description": "HTTP/1.1 and HTTPS for Keywork apps, on the event loop's own sockets and tasks",
+      "url": "https://crates.io/crates/keywork-net",
+      "created_at": "2026-11-22T13:19:56.303978Z"
+    },
+    {
+      "name": "keywork-html",
+      "version": "0.2.0",
+      "description": "A WHATWG HTML tokenizer and tree builder without dependencies that recovers from broken markup as browsers do, into a compact DOM with interned names",
+      "url": "https://crates.io/crates/keywork-html",
+      "created_at": "2026-11-22T13:19:46.638119Z"
+    },
+    {
+      "name": "keywork-css",
+      "version": "0.2.0",
+      "description": "CSS for documents without a document tree: tokenizing, style sheets, selectors as data, media queries, values with calc(), colors, typed declarations, and interned computed styles",
+      "url": "https://crates.io/crates/keywork-css",
+      "created_at": "2026-11-22T13:19:46.055691Z"
+    },
+    {
+      "name": "gpdoc-plugin-blockquote",
+      "version": "0.1.0",
+      "description": "Blockquote plugin for the gpdoc rich-text editor",
+      "url": "https://crates.io/crates/gpdoc-plugin-blockquote",
+      "created_at": "2026-11-22T13:18:38.795063Z"
+    },
+    {
+      "name": "gpdoc-plugin-audio",
+      "version": "0.1.0",
+      "description": "Audio plugin for the gpdoc rich-text editor",
+      "url": "https://crates.io/crates/gpdoc-plugin-audio",
+      "created_at": "2026-11-22T13:18:37.383380Z"
+    },
+    {
+      "name": "gpdoc-plugin",
+      "version": "0.1.0",
+      "description": "Plugin declarations, composition, and editing helpers for gpdoc",
+      "url": "https://crates.io/crates/gpdoc-plugin",
+      "created_at": "2026-11-22T13:18:34.552700Z"
+    },
+    {
+      "name": "gpdoc",
+      "version": "0.1.0",
+      "description": "A rich-text editor framework for GPUI",
+      "url": "https://crates.io/crates/gpdoc",
+      "created_at": "2026-11-22T13:18:33.349087Z"
+    },
+    {
+      "name": "gpdoc-core",
+      "version": "0.1.0",
+      "description": "Document model, transforms, transactions, and headless editing for the gpdoc rich-text editor",
+      "url": "https://crates.io/crates/gpdoc-core",
+      "created_at": "2026-11-22T13:18:30.071162Z"
+    },
+    {
+      "name": "evorule-rule-dep-graph",
+      "version": "0.5.2",
+      "description": "Deterministic constant dependency graph materialization from rule-set metadata (instruction-constant reference edges, dimensional coupling edges, explicit cross-domain edges)",
+      "url": "https://crates.io/crates/evorule-rule-dep-graph",
+      "created_at": "2026-11-22T13:17:57.032733Z"
+    },
+    {
+      "name": "score-centering",
+      "version": "0.1.1",
+      "description": "Differentiable per-token score-centering correction for policy-gradient trainers",
+      "url": "https://crates.io/crates/score-centering",
+      "created_at": "2026-11-22T13:16:35.941513Z"
+    },
+    {
+      "name": "sockat-cli",
+      "version": "0.6.1",
+      "description": "The command sockat: print a path for a Unix domain socket that fits the socket address limit, for a path longer than sun_path allows",
+      "url": "https://crates.io/crates/sockat-cli",
+      "created_at": "2026-11-22T13:15:00.237123Z"
+    },
+    {
+      "name": "marcelene",
+      "version": "0.1.0",
+      "description": "Executes installed Marceline plugins for Marcellus using Wasmtime.",
+      "url": "https://crates.io/crates/marcelene",
+      "created_at": "2026-11-22T13:10:40.619505Z"
+    },
+    {
+      "name": "marceline",
+      "version": "0.1.0",
+      "description": "Plugin interfaces and packaging tools for Marcellus.",
+      "url": "https://crates.io/crates/marceline",
+      "created_at": "2026-11-22T13:08:39.981893Z"
+    },
+    {
+      "name": "evorule-physics-services",
+      "version": "0.1.1",
+      "description": "Deterministic physics-simulation native services (vendored rpsm-core kernel) - mounted on the evorule-server IoDispatcher as an IoHandler",
+      "url": "https://crates.io/crates/evorule-physics-services",
+      "created_at": "2026-11-22T13:06:14.197035Z"
+    },
+    {
+      "name": "konectl-cli",
+      "version": "0.1.0",
+      "description": "Command-line tool to configure the ROCCAT Kone Pro Air mouse on Linux (unofficial)",
+      "url": "https://crates.io/crates/konectl-cli",
+      "created_at": "2026-11-22T13:04:05.656343Z"
+    },
+    {
+      "name": "konectl",
+      "version": "0.1.0",
+      "description": "Unofficial library to configure the ROCCAT Kone Pro Air mouse on Linux",
+      "url": "https://crates.io/crates/konectl",
+      "created_at": "2026-11-22T13:04:03.252574Z"
+    },
+    {
+      "name": "evorule-rule-schema",
+      "version": "0.5.2",
+      "description": "Rule-schema gate for EvoRule - deterministic validation against the frozen evorule-system-rules v1.0 schemas",
+      "url": "https://crates.io/crates/evorule-rule-schema",
+      "created_at": "2026-11-22T12:57:00.860937Z"
+    },
+    {
+      "name": "monoxus-core",
+      "version": "0.1.0",
+      "description": "Pure Rust headless UI state machines, relationships, attribute publishers, and overlay geometry for Monoxus.",
+      "url": "https://crates.io/crates/monoxus-core",
+      "created_at": "2026-11-22T12:52:19.341526Z"
+    },
+    {
+      "name": "svggod",
+      "version": "1.1.2",
+      "description": "Compile declarative diagram descriptions to SVG and check any SVG for correctness, legibility and portability",
+      "url": "https://crates.io/crates/svggod",
+      "created_at": "2026-11-22T12:52:01.297549Z"
     }
   ]
 }
