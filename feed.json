@@ -1,215 +1,215 @@
 {
-  "updated": "2026-11-22T13:41:34.103120+00:00",
+  "updated": "2026-11-23T16:40:23.126613+00:00",
   "items": [
     {
-      "name": "p14g",
-      "version": "0.0.0",
-      "description": "Check untrusted SQL against an allowlist and rewrite it so it is safe to run on Postgres",
-      "url": "https://crates.io/crates/p14g",
-      "created_at": "2026-11-22T13:40:49.531180Z"
+      "name": "bentrix",
+      "version": "0.1.382",
+      "description": "The Rust client of Bentrix: every capability of a running Bentrix over its MCP endpoint, over loopback HTTP on std::net, serde_json its one dependency.",
+      "url": "https://crates.io/crates/bentrix",
+      "created_at": "2026-11-23T16:37:51.054399Z"
     },
     {
-      "name": "ls2",
+      "name": "quat_iot",
       "version": "0.1.0",
-      "description": "Async Luna Service 2 IPC for webOS TV",
-      "url": "https://crates.io/crates/ls2",
-      "created_at": "2026-11-22T13:40:15.664855Z"
+      "description": "Advanced no_std quaternary (2-bit per quat) storage, ring buffer, RLE, and framing library for IoT devices",
+      "url": "https://crates.io/crates/quat_iot",
+      "created_at": "2026-11-23T16:36:30.481161Z"
     },
     {
-      "name": "gpdoc-plugin-bold",
+      "name": "tisqlx",
       "version": "0.1.0",
-      "description": "Bold plugin for the gpdoc rich-text editor",
-      "url": "https://crates.io/crates/gpdoc-plugin-bold",
-      "created_at": "2026-11-22T13:38:36.826919Z"
+      "description": "Async, pure-Rust SQL toolkit built specifically for TiDB (tokio + rustls), with compile-time checked queries.",
+      "url": "https://crates.io/crates/tisqlx",
+      "created_at": "2026-11-23T16:35:26.393550Z"
     },
     {
-      "name": "evorule-demo-services",
-      "version": "0.5.2",
-      "description": "Native Rust implementation of the yuanze-demos business services - mounted on the evorule-server IoDispatcher as an IoHandler",
-      "url": "https://crates.io/crates/evorule-demo-services",
-      "created_at": "2026-11-22T13:37:09.354920Z"
-    },
-    {
-      "name": "vegam",
-      "version": "0.0.1",
-      "description": "Jerk-limited time-optimal path parameterization (TOPP)",
-      "url": "https://crates.io/crates/vegam",
-      "created_at": "2026-11-22T13:36:16.406208Z"
-    },
-    {
-      "name": "embassy-net-driver-channel-riscv",
+      "name": "tisqlx-macros",
       "version": "0.1.0",
-      "description": "High-level channel-based driver for the `embassy-net` async TCP/IP network stack.",
-      "url": "https://crates.io/crates/embassy-net-driver-channel-riscv",
-      "created_at": "2026-11-22T13:33:24.300695Z"
+      "description": "Procedural macros for tisqlx (not for direct use).",
+      "url": "https://crates.io/crates/tisqlx-macros",
+      "created_at": "2026-11-23T16:35:24.836643Z"
     },
     {
-      "name": "gpdoc-plugin-paragraph",
+      "name": "tisqlx-cli",
       "version": "0.1.0",
-      "description": "Paragraph plugin for the gpdoc rich-text editor",
-      "url": "https://crates.io/crates/gpdoc-plugin-paragraph",
-      "created_at": "2026-11-22T13:28:43.993747Z"
+      "description": "Command-line utility for tisqlx: database management, migrations, offline query data.",
+      "url": "https://crates.io/crates/tisqlx-cli",
+      "created_at": "2026-11-23T16:35:24.203483Z"
     },
     {
-      "name": "evorule-indicator-services",
-      "version": "0.1.1",
-      "description": "Deterministic financial technical-indicator native services - Rust rewrite bit-exact aligned with the Python reference implementation, mounted on the evorule-server IoDispatcher as an IoHandler",
-      "url": "https://crates.io/crates/evorule-indicator-services",
-      "created_at": "2026-11-22T13:26:00.764236Z"
-    },
-    {
-      "name": "mihari",
+      "name": "tisqlx-core",
       "version": "0.1.0",
-      "description": "Keyboard-driven image viewer and sorter",
-      "url": "https://crates.io/crates/mihari",
-      "created_at": "2026-11-22T13:23:39.001210Z"
+      "description": "Core of tisqlx: a pure-Rust async TiDB driver (protocol, types, pool, transactions, migrations).",
+      "url": "https://crates.io/crates/tisqlx-core",
+      "created_at": "2026-11-23T16:35:21.788911Z"
     },
     {
-      "name": "keywork-docview",
-      "version": "0.2.0",
-      "description": "A Keywork widget that shows a static HTML document: scrolling, text selection with copy, and links, on the keywork-doc engine",
-      "url": "https://crates.io/crates/keywork-docview",
-      "created_at": "2026-11-22T13:20:00.026775Z"
-    },
-    {
-      "name": "keywork-doc",
-      "version": "0.2.0",
-      "description": "A document engine for static HTML and CSS: the cascade, box tree, layout, and painting into Keywork's display list, without scripts or networking",
-      "url": "https://crates.io/crates/keywork-doc",
-      "created_at": "2026-11-22T13:19:59.571052Z"
-    },
-    {
-      "name": "keywork-net",
-      "version": "0.2.0",
-      "description": "HTTP/1.1 and HTTPS for Keywork apps, on the event loop's own sockets and tasks",
-      "url": "https://crates.io/crates/keywork-net",
-      "created_at": "2026-11-22T13:19:56.303978Z"
-    },
-    {
-      "name": "keywork-html",
-      "version": "0.2.0",
-      "description": "A WHATWG HTML tokenizer and tree builder without dependencies that recovers from broken markup as browsers do, into a compact DOM with interned names",
-      "url": "https://crates.io/crates/keywork-html",
-      "created_at": "2026-11-22T13:19:46.638119Z"
-    },
-    {
-      "name": "keywork-css",
-      "version": "0.2.0",
-      "description": "CSS for documents without a document tree: tokenizing, style sheets, selectors as data, media queries, values with calc(), colors, typed declarations, and interned computed styles",
-      "url": "https://crates.io/crates/keywork-css",
-      "created_at": "2026-11-22T13:19:46.055691Z"
-    },
-    {
-      "name": "gpdoc-plugin-blockquote",
+      "name": "rustellar-fit",
       "version": "0.1.0",
-      "description": "Blockquote plugin for the gpdoc rich-text editor",
-      "url": "https://crates.io/crates/gpdoc-plugin-blockquote",
-      "created_at": "2026-11-22T13:18:38.795063Z"
+      "description": "Least-squares transit fits in pure Rust: Levenberg-Marquardt to the best parameters, with standard errors and derived quantities",
+      "url": "https://crates.io/crates/rustellar-fit",
+      "created_at": "2026-11-23T16:34:04.012524Z"
     },
     {
-      "name": "gpdoc-plugin-audio",
+      "name": "rustellar-bls",
       "version": "0.1.0",
-      "description": "Audio plugin for the gpdoc rich-text editor",
-      "url": "https://crates.io/crates/gpdoc-plugin-audio",
-      "created_at": "2026-11-22T13:18:37.383380Z"
+      "description": "Box least squares transit search (Kovacs, Zucker & Mazeh 2002) in pure Rust",
+      "url": "https://crates.io/crates/rustellar-bls",
+      "created_at": "2026-11-23T16:34:03.221501Z"
     },
     {
-      "name": "gpdoc-plugin",
+      "name": "rustellar-model",
       "version": "0.1.0",
-      "description": "Plugin declarations, composition, and editing helpers for gpdoc",
-      "url": "https://crates.io/crates/gpdoc-plugin",
-      "created_at": "2026-11-22T13:18:34.552700Z"
+      "description": "Analytic transit light-curve model (Mandel & Agol, quadratic limb darkening) in pure Rust",
+      "url": "https://crates.io/crates/rustellar-model",
+      "created_at": "2026-11-23T16:34:00.872106Z"
     },
     {
-      "name": "gpdoc",
+      "name": "rustellar-ls",
       "version": "0.1.0",
-      "description": "A rich-text editor framework for GPUI",
-      "url": "https://crates.io/crates/gpdoc",
-      "created_at": "2026-11-22T13:18:33.349087Z"
+      "description": "The Lomb-Scargle periodogram for unevenly sampled series in pure Rust: exact and fast, with false-alarm probabilities",
+      "url": "https://crates.io/crates/rustellar-ls",
+      "created_at": "2026-11-23T16:34:00.269454Z"
     },
     {
-      "name": "gpdoc-core",
+      "name": "rustellar-core",
       "version": "0.1.0",
-      "description": "Document model, transforms, transactions, and headless editing for the gpdoc rich-text editor",
-      "url": "https://crates.io/crates/gpdoc-core",
-      "created_at": "2026-11-22T13:18:30.071162Z"
+      "description": "Light-curve container and shared types for the rustellar astronomy time-series toolkit",
+      "url": "https://crates.io/crates/rustellar-core",
+      "created_at": "2026-11-23T16:33:57.765115Z"
     },
     {
-      "name": "evorule-rule-dep-graph",
-      "version": "0.5.2",
-      "description": "Deterministic constant dependency graph materialization from rule-set metadata (instruction-constant reference edges, dimensional coupling edges, explicit cross-domain edges)",
-      "url": "https://crates.io/crates/evorule-rule-dep-graph",
-      "created_at": "2026-11-22T13:17:57.032733Z"
-    },
-    {
-      "name": "score-centering",
-      "version": "0.1.1",
-      "description": "Differentiable per-token score-centering correction for policy-gradient trainers",
-      "url": "https://crates.io/crates/score-centering",
-      "created_at": "2026-11-22T13:16:35.941513Z"
-    },
-    {
-      "name": "sockat-cli",
-      "version": "0.6.1",
-      "description": "The command sockat: print a path for a Unix domain socket that fits the socket address limit, for a path longer than sun_path allows",
-      "url": "https://crates.io/crates/sockat-cli",
-      "created_at": "2026-11-22T13:15:00.237123Z"
-    },
-    {
-      "name": "marcelene",
+      "name": "rc-z80-snapshot",
       "version": "0.1.0",
-      "description": "Executes installed Marceline plugins for Marcellus using Wasmtime.",
-      "url": "https://crates.io/crates/marcelene",
-      "created_at": "2026-11-22T13:10:40.619505Z"
+      "description": "ZX Spectrum .z80 snapshot reader and writer",
+      "url": "https://crates.io/crates/rc-z80-snapshot",
+      "created_at": "2026-11-23T16:30:11.859013Z"
     },
     {
-      "name": "marceline",
+      "name": "nosfry-blossom",
+      "version": "0.4.0",
+      "description": "Blossom blob server (BUD-01/02/06/11/12/13) for the nosfry Nostr relay",
+      "url": "https://crates.io/crates/nosfry-blossom",
+      "created_at": "2026-11-23T16:29:57.581881Z"
+    },
+    {
+      "name": "eryx-build",
+      "version": "0.16.1",
+      "description": "Manifest-driven build driver for the CLI components eryx runs as child commands",
+      "url": "https://crates.io/crates/eryx-build",
+      "created_at": "2026-11-23T16:29:19.865509Z"
+    },
+    {
+      "name": "abap-origami",
+      "version": "0.2.1",
+      "description": "origami: a layout-only formatter for ABAP and the CDS family (CDS, DDLX, DCL, BDEF, SRVD)",
+      "url": "https://crates.io/crates/abap-origami",
+      "created_at": "2026-11-23T16:27:00.540546Z"
+    },
+    {
+      "name": "rake-shortcuts",
+      "version": "0.1.0-alpha.5",
+      "description": "Owned native global shortcut registrations for Rake",
+      "url": "https://crates.io/crates/rake-shortcuts",
+      "created_at": "2026-11-23T16:26:49.884390Z"
+    },
+    {
+      "name": "imbuf-opencv",
       "version": "0.1.0",
-      "description": "Plugin interfaces and packaging tools for Marcellus.",
-      "url": "https://crates.io/crates/marceline",
-      "created_at": "2026-11-22T13:08:39.981893Z"
+      "description": "Zero-copy conversions between imbuf image buffers and OpenCV Mats.",
+      "url": "https://crates.io/crates/imbuf-opencv",
+      "created_at": "2026-11-23T16:26:47.509483Z"
     },
     {
-      "name": "evorule-physics-services",
-      "version": "0.1.1",
-      "description": "Deterministic physics-simulation native services (vendored rpsm-core kernel) - mounted on the evorule-server IoDispatcher as an IoHandler",
-      "url": "https://crates.io/crates/evorule-physics-services",
-      "created_at": "2026-11-22T13:06:14.197035Z"
-    },
-    {
-      "name": "konectl-cli",
+      "name": "quat_embedded",
       "version": "0.1.0",
-      "description": "Command-line tool to configure the ROCCAT Kone Pro Air mouse on Linux (unofficial)",
-      "url": "https://crates.io/crates/konectl-cli",
-      "created_at": "2026-11-22T13:04:05.656343Z"
+      "description": "Separated quaternary logic, precision, and compact storage library for bare-metal STM32 and ESP32",
+      "url": "https://crates.io/crates/quat_embedded",
+      "created_at": "2026-11-23T16:25:45.245691Z"
     },
     {
-      "name": "konectl",
+      "name": "picoboot-nusb",
       "version": "0.1.0",
-      "description": "Unofficial library to configure the ROCCAT Kone Pro Air mouse on Linux",
-      "url": "https://crates.io/crates/konectl",
-      "created_at": "2026-11-22T13:04:03.252574Z"
+      "description": "USB transport for picoboot, using nusb",
+      "url": "https://crates.io/crates/picoboot-nusb",
+      "created_at": "2026-11-23T16:24:42.390849Z"
     },
     {
-      "name": "evorule-rule-schema",
-      "version": "0.5.2",
-      "description": "Rule-schema gate for EvoRule - deterministic validation against the frozen evorule-system-rules v1.0 schemas",
-      "url": "https://crates.io/crates/evorule-rule-schema",
-      "created_at": "2026-11-22T12:57:00.860937Z"
-    },
-    {
-      "name": "monoxus-core",
+      "name": "imbuf-image",
       "version": "0.1.0",
-      "description": "Pure Rust headless UI state machines, relationships, attribute publishers, and overlay geometry for Monoxus.",
-      "url": "https://crates.io/crates/monoxus-core",
-      "created_at": "2026-11-22T12:52:19.341526Z"
+      "description": "Conversions between imbuf image buffers and the `image` crate, with zero-copy borrows and moves where possible.",
+      "url": "https://crates.io/crates/imbuf-image",
+      "created_at": "2026-11-23T16:24:21.742301Z"
     },
     {
-      "name": "svggod",
-      "version": "1.1.2",
-      "description": "Compile declarative diagram descriptions to SVG and check any SVG for correctness, legibility and portability",
-      "url": "https://crates.io/crates/svggod",
-      "created_at": "2026-11-22T12:52:01.297549Z"
+      "name": "sip-header-diagnostics",
+      "version": "1.0.0",
+      "description": "Stable warning codes for SIP header field value parsing, as sip-header reports them",
+      "url": "https://crates.io/crates/sip-header-diagnostics",
+      "created_at": "2026-11-23T16:23:04.526111Z"
+    },
+    {
+      "name": "rc-szx-snapshot",
+      "version": "0.1.0",
+      "description": "ZX Spectrum .szx (Spectaculator) snapshot reader and writer",
+      "url": "https://crates.io/crates/rc-szx-snapshot",
+      "created_at": "2026-11-23T16:19:43.306696Z"
+    },
+    {
+      "name": "origami_core",
+      "version": "0.2.1",
+      "description": "Core of the origami ABAP and CDS formatter: detection, self-check, results",
+      "url": "https://crates.io/crates/origami_core",
+      "created_at": "2026-11-23T16:15:58.468831Z"
+    },
+    {
+      "name": "origami_cds",
+      "version": "0.2.1",
+      "description": "CDS family (DDLS, DDLX, DCL, BDEF, SRVD) support for the origami formatter",
+      "url": "https://crates.io/crates/origami_cds",
+      "created_at": "2026-11-23T16:15:56.845785Z"
+    },
+    {
+      "name": "origami_abap",
+      "version": "0.2.1",
+      "description": "ABAP lexer, structure check and layout for the origami formatter",
+      "url": "https://crates.io/crates/origami_abap",
+      "created_at": "2026-11-23T16:15:56.535636Z"
+    },
+    {
+      "name": "origami_layout",
+      "version": "0.2.1",
+      "description": "Doc IR and printer for the origami ABAP and CDS formatter",
+      "url": "https://crates.io/crates/origami_layout",
+      "created_at": "2026-11-23T16:15:54.947448Z"
+    },
+    {
+      "name": "origami_syntax",
+      "version": "0.2.1",
+      "description": "Shared syntax primitives for the origami ABAP and CDS formatter",
+      "url": "https://crates.io/crates/origami_syntax",
+      "created_at": "2026-11-23T16:15:53.212542Z"
+    },
+    {
+      "name": "derive_dst",
+      "version": "0.1.0",
+      "description": "Derive macro for DST structs: generates a private `UninitFoo` MaybeUninit mirror, safe allocation constructors (`new_uninit_for_size` / `new_uninit_for_count` returning the box with its `Layout`, tail offset & count), an unsafe `assume_init`, and layout constructors (`layout_for_size` / `layout_for_count`) returning `LayoutError`. Requires nightly.",
+      "url": "https://crates.io/crates/derive_dst",
+      "created_at": "2026-11-23T16:11:23.455176Z"
+    },
+    {
+      "name": "rc-sna-snapshot",
+      "version": "0.1.0",
+      "description": "ZX Spectrum .sna snapshot reader and writer",
+      "url": "https://crates.io/crates/rc-sna-snapshot",
+      "created_at": "2026-11-23T16:09:14.371575Z"
+    },
+    {
+      "name": "dvr-runtime",
+      "version": "0.1.0",
+      "description": "Sans-IO DVR archive: the on-disk period format (an append-only HLS media playlist per period plus one media file), the writer's roll and retention state machine that returns a plan of storage operations, catch-up read planning, and typeless recovery. No I/O unless the `fs` feature is on, no clock reads.",
+      "url": "https://crates.io/crates/dvr-runtime",
+      "created_at": "2026-11-23T16:04:00.675691Z"
     }
   ]
 }
