@@ -1,215 +1,215 @@
 {
-  "updated": "2026-11-23T16:40:23.126613+00:00",
+  "updated": "2026-11-24T16:36:16.652391+00:00",
   "items": [
     {
-      "name": "bentrix",
-      "version": "0.1.382",
-      "description": "The Rust client of Bentrix: every capability of a running Bentrix over its MCP endpoint, over loopback HTTP on std::net, serde_json its one dependency.",
-      "url": "https://crates.io/crates/bentrix",
-      "created_at": "2026-11-23T16:37:51.054399Z"
-    },
-    {
-      "name": "quat_iot",
-      "version": "0.1.0",
-      "description": "Advanced no_std quaternary (2-bit per quat) storage, ring buffer, RLE, and framing library for IoT devices",
-      "url": "https://crates.io/crates/quat_iot",
-      "created_at": "2026-11-23T16:36:30.481161Z"
-    },
-    {
-      "name": "tisqlx",
-      "version": "0.1.0",
-      "description": "Async, pure-Rust SQL toolkit built specifically for TiDB (tokio + rustls), with compile-time checked queries.",
-      "url": "https://crates.io/crates/tisqlx",
-      "created_at": "2026-11-23T16:35:26.393550Z"
-    },
-    {
-      "name": "tisqlx-macros",
-      "version": "0.1.0",
-      "description": "Procedural macros for tisqlx (not for direct use).",
-      "url": "https://crates.io/crates/tisqlx-macros",
-      "created_at": "2026-11-23T16:35:24.836643Z"
-    },
-    {
-      "name": "tisqlx-cli",
-      "version": "0.1.0",
-      "description": "Command-line utility for tisqlx: database management, migrations, offline query data.",
-      "url": "https://crates.io/crates/tisqlx-cli",
-      "created_at": "2026-11-23T16:35:24.203483Z"
-    },
-    {
-      "name": "tisqlx-core",
-      "version": "0.1.0",
-      "description": "Core of tisqlx: a pure-Rust async TiDB driver (protocol, types, pool, transactions, migrations).",
-      "url": "https://crates.io/crates/tisqlx-core",
-      "created_at": "2026-11-23T16:35:21.788911Z"
-    },
-    {
-      "name": "rustellar-fit",
-      "version": "0.1.0",
-      "description": "Least-squares transit fits in pure Rust: Levenberg-Marquardt to the best parameters, with standard errors and derived quantities",
-      "url": "https://crates.io/crates/rustellar-fit",
-      "created_at": "2026-11-23T16:34:04.012524Z"
-    },
-    {
-      "name": "rustellar-bls",
-      "version": "0.1.0",
-      "description": "Box least squares transit search (Kovacs, Zucker & Mazeh 2002) in pure Rust",
-      "url": "https://crates.io/crates/rustellar-bls",
-      "created_at": "2026-11-23T16:34:03.221501Z"
-    },
-    {
-      "name": "rustellar-model",
-      "version": "0.1.0",
-      "description": "Analytic transit light-curve model (Mandel & Agol, quadratic limb darkening) in pure Rust",
-      "url": "https://crates.io/crates/rustellar-model",
-      "created_at": "2026-11-23T16:34:00.872106Z"
-    },
-    {
-      "name": "rustellar-ls",
-      "version": "0.1.0",
-      "description": "The Lomb-Scargle periodogram for unevenly sampled series in pure Rust: exact and fast, with false-alarm probabilities",
-      "url": "https://crates.io/crates/rustellar-ls",
-      "created_at": "2026-11-23T16:34:00.269454Z"
-    },
-    {
-      "name": "rustellar-core",
-      "version": "0.1.0",
-      "description": "Light-curve container and shared types for the rustellar astronomy time-series toolkit",
-      "url": "https://crates.io/crates/rustellar-core",
-      "created_at": "2026-11-23T16:33:57.765115Z"
-    },
-    {
-      "name": "rc-z80-snapshot",
-      "version": "0.1.0",
-      "description": "ZX Spectrum .z80 snapshot reader and writer",
-      "url": "https://crates.io/crates/rc-z80-snapshot",
-      "created_at": "2026-11-23T16:30:11.859013Z"
-    },
-    {
-      "name": "nosfry-blossom",
-      "version": "0.4.0",
-      "description": "Blossom blob server (BUD-01/02/06/11/12/13) for the nosfry Nostr relay",
-      "url": "https://crates.io/crates/nosfry-blossom",
-      "created_at": "2026-11-23T16:29:57.581881Z"
-    },
-    {
-      "name": "eryx-build",
-      "version": "0.16.1",
-      "description": "Manifest-driven build driver for the CLI components eryx runs as child commands",
-      "url": "https://crates.io/crates/eryx-build",
-      "created_at": "2026-11-23T16:29:19.865509Z"
-    },
-    {
-      "name": "abap-origami",
-      "version": "0.2.1",
-      "description": "origami: a layout-only formatter for ABAP and the CDS family (CDS, DDLX, DCL, BDEF, SRVD)",
-      "url": "https://crates.io/crates/abap-origami",
-      "created_at": "2026-11-23T16:27:00.540546Z"
-    },
-    {
-      "name": "rake-shortcuts",
-      "version": "0.1.0-alpha.5",
-      "description": "Owned native global shortcut registrations for Rake",
-      "url": "https://crates.io/crates/rake-shortcuts",
-      "created_at": "2026-11-23T16:26:49.884390Z"
-    },
-    {
-      "name": "imbuf-opencv",
-      "version": "0.1.0",
-      "description": "Zero-copy conversions between imbuf image buffers and OpenCV Mats.",
-      "url": "https://crates.io/crates/imbuf-opencv",
-      "created_at": "2026-11-23T16:26:47.509483Z"
-    },
-    {
-      "name": "quat_embedded",
-      "version": "0.1.0",
-      "description": "Separated quaternary logic, precision, and compact storage library for bare-metal STM32 and ESP32",
-      "url": "https://crates.io/crates/quat_embedded",
-      "created_at": "2026-11-23T16:25:45.245691Z"
-    },
-    {
-      "name": "picoboot-nusb",
-      "version": "0.1.0",
-      "description": "USB transport for picoboot, using nusb",
-      "url": "https://crates.io/crates/picoboot-nusb",
-      "created_at": "2026-11-23T16:24:42.390849Z"
-    },
-    {
-      "name": "imbuf-image",
-      "version": "0.1.0",
-      "description": "Conversions between imbuf image buffers and the `image` crate, with zero-copy borrows and moves where possible.",
-      "url": "https://crates.io/crates/imbuf-image",
-      "created_at": "2026-11-23T16:24:21.742301Z"
-    },
-    {
-      "name": "sip-header-diagnostics",
+      "name": "spatie-ray",
       "version": "1.0.0",
-      "description": "Stable warning codes for SIP header field value parsing, as sip-header reports them",
-      "url": "https://crates.io/crates/sip-header-diagnostics",
-      "created_at": "2026-11-23T16:23:04.526111Z"
+      "description": "Send debug output from Rust to the Ray desktop app",
+      "url": "https://crates.io/crates/spatie-ray",
+      "created_at": "2026-11-24T16:34:53.182375Z"
     },
     {
-      "name": "rc-szx-snapshot",
+      "name": "nsh-firebase-auth",
       "version": "0.1.0",
-      "description": "ZX Spectrum .szx (Spectaculator) snapshot reader and writer",
-      "url": "https://crates.io/crates/rc-szx-snapshot",
-      "created_at": "2026-11-23T16:19:43.306696Z"
+      "description": "Firebase auth for Native Shell Rust apps: Identity Toolkit sign-in, Secure Token refresh, a currentUser signal and persistence behind a key-value store",
+      "url": "https://crates.io/crates/nsh-firebase-auth",
+      "created_at": "2026-11-24T16:34:19.746264Z"
     },
     {
-      "name": "origami_core",
-      "version": "0.2.1",
-      "description": "Core of the origami ABAP and CDS formatter: detection, self-check, results",
-      "url": "https://crates.io/crates/origami_core",
-      "created_at": "2026-11-23T16:15:58.468831Z"
+      "name": "tabdance-elvish-tree-sitter",
+      "version": "0.0.1",
+      "description": "Elvish and Elvish transcript grammars for the tree-sitter parsing library",
+      "url": "https://crates.io/crates/tabdance-elvish-tree-sitter",
+      "created_at": "2026-11-24T16:33:11.510774Z"
     },
     {
-      "name": "origami_cds",
-      "version": "0.2.1",
-      "description": "CDS family (DDLS, DDLX, DCL, BDEF, SRVD) support for the origami formatter",
-      "url": "https://crates.io/crates/origami_cds",
-      "created_at": "2026-11-23T16:15:56.845785Z"
-    },
-    {
-      "name": "origami_abap",
-      "version": "0.2.1",
-      "description": "ABAP lexer, structure check and layout for the origami formatter",
-      "url": "https://crates.io/crates/origami_abap",
-      "created_at": "2026-11-23T16:15:56.535636Z"
-    },
-    {
-      "name": "origami_layout",
-      "version": "0.2.1",
-      "description": "Doc IR and printer for the origami ABAP and CDS formatter",
-      "url": "https://crates.io/crates/origami_layout",
-      "created_at": "2026-11-23T16:15:54.947448Z"
-    },
-    {
-      "name": "origami_syntax",
-      "version": "0.2.1",
-      "description": "Shared syntax primitives for the origami ABAP and CDS formatter",
-      "url": "https://crates.io/crates/origami_syntax",
-      "created_at": "2026-11-23T16:15:53.212542Z"
-    },
-    {
-      "name": "derive_dst",
+      "name": "async-read",
       "version": "0.1.0",
-      "description": "Derive macro for DST structs: generates a private `UninitFoo` MaybeUninit mirror, safe allocation constructors (`new_uninit_for_size` / `new_uninit_for_count` returning the box with its `Layout`, tail offset & count), an unsafe `assume_init`, and layout constructors (`layout_for_size` / `layout_for_count`) returning `LayoutError`. Requires nightly.",
-      "url": "https://crates.io/crates/derive_dst",
-      "created_at": "2026-11-23T16:11:23.455176Z"
+      "description": "Drive an AsyncRead with a future",
+      "url": "https://crates.io/crates/async-read",
+      "created_at": "2026-11-24T16:30:25.665886Z"
     },
     {
-      "name": "rc-sna-snapshot",
+      "name": "flareapp-reqwest",
       "version": "0.1.0",
-      "description": "ZX Spectrum .sna snapshot reader and writer",
-      "url": "https://crates.io/crates/rc-sna-snapshot",
-      "created_at": "2026-11-23T16:09:14.371575Z"
+      "description": "Continues Flare traces in outgoing reqwest calls.",
+      "url": "https://crates.io/crates/flareapp-reqwest",
+      "created_at": "2026-11-24T16:27:17.697317Z"
     },
     {
-      "name": "dvr-runtime",
+      "name": "kian-media",
+      "version": "0.3.0",
+      "description": "Client-side media tools (OCR, speech-to-text, text-to-speech) as an audited bundle tool provider (ADR-061)",
+      "url": "https://crates.io/crates/kian-media",
+      "created_at": "2026-11-24T16:24:28.354997Z"
+    },
+    {
+      "name": "kian-web",
+      "version": "0.3.0",
+      "description": "Client-side web tools (DeepSeek Search/Fetch) as an audited bundle tool provider (ADR-057)",
+      "url": "https://crates.io/crates/kian-web",
+      "created_at": "2026-11-24T16:24:04.692986Z"
+    },
+    {
+      "name": "nsh-firebase-app-check",
       "version": "0.1.0",
-      "description": "Sans-IO DVR archive: the on-disk period format (an append-only HLS media playlist per period plus one media file), the writer's roll and retention state machine that returns a plan of storage operations, catch-up read planning, and typeless recovery. No I/O unless the `fs` feature is on, no clock reads.",
-      "url": "https://crates.io/crates/dvr-runtime",
-      "created_at": "2026-11-23T16:04:00.675691Z"
+      "description": "Firebase App Check for Native Shell Rust apps: the debug-token exchange with ttl caching, and the native tier's firebase.appcheck.getToken routing",
+      "url": "https://crates.io/crates/nsh-firebase-app-check",
+      "created_at": "2026-11-24T16:23:55.994009Z"
+    },
+    {
+      "name": "egui-charts-scripting",
+      "version": "0.3.0-alpha.1",
+      "description": "Scripts that add studies to egui-charts: a series runtime with a Rhai front end",
+      "url": "https://crates.io/crates/egui-charts-scripting",
+      "created_at": "2026-11-24T16:22:38.508510Z"
+    },
+    {
+      "name": "kute-protocol",
+      "version": "0.3.0",
+      "description": "KUTE vocabulary exchange protocol: two peers agree on a vocabulary, extend it, and exchange encoded messages",
+      "url": "https://crates.io/crates/kute-protocol",
+      "created_at": "2026-11-24T16:22:37.476809Z"
+    },
+    {
+      "name": "multicalc-robot-model",
+      "version": "0.11.0",
+      "description": "Loads MuJoCo MJCF and URDF robot models into multicalc types",
+      "url": "https://crates.io/crates/multicalc-robot-model",
+      "created_at": "2026-11-24T16:21:21.355998Z"
+    },
+    {
+      "name": "kute-discover",
+      "version": "0.3.0",
+      "description": "Structural discovery for KUTE: recurring patterns in symbol streams, with evidence, support and held-out evaluation",
+      "url": "https://crates.io/crates/kute-discover",
+      "created_at": "2026-11-24T16:20:43.738255Z"
+    },
+    {
+      "name": "cordex-lavalink",
+      "version": "0.1.7",
+      "description": "Pure-Rust Lavalink v4 client for cordex, integrated with cordex-voice.",
+      "url": "https://crates.io/crates/cordex-lavalink",
+      "created_at": "2026-11-24T16:18:54.803672Z"
+    },
+    {
+      "name": "cordex-voice",
+      "version": "0.1.7",
+      "description": "Pure-Rust Discord voice signaling and session coordination for cordex (Lavalink v4 & custom voice backends).",
+      "url": "https://crates.io/crates/cordex-voice",
+      "created_at": "2026-11-24T16:18:52.595223Z"
+    },
+    {
+      "name": "iblancasa-cli-otel",
+      "version": "0.1.0",
+      "description": "Vendor-neutral OpenTelemetry execution spans for command-line applications",
+      "url": "https://crates.io/crates/iblancasa-cli-otel",
+      "created_at": "2026-11-24T16:18:37.842986Z"
+    },
+    {
+      "name": "flareapp-actix",
+      "version": "0.1.0",
+      "description": "actix-web middleware that gives each request its own Flare scope and trace.",
+      "url": "https://crates.io/crates/flareapp-actix",
+      "created_at": "2026-11-24T16:17:07.677043Z"
+    },
+    {
+      "name": "hazard3-hall-analog",
+      "version": "0.5.0",
+      "description": "Async no_std driver for OPEN-SMART linear Hall-effect sensor (RP235x) in the Hazard3 RISC-V ecosystem.",
+      "url": "https://crates.io/crates/hazard3-hall-analog",
+      "created_at": "2026-11-24T16:14:35.763857Z"
+    },
+    {
+      "name": "nsh-firebase-analytics",
+      "version": "0.1.0",
+      "description": "Firebase analytics for Native Shell Rust apps: events, user properties, screen views, consent, a clock-driven batching queue and pluggable transports",
+      "url": "https://crates.io/crates/nsh-firebase-analytics",
+      "created_at": "2026-11-24T16:13:32.816908Z"
+    },
+    {
+      "name": "treecut",
+      "version": "0.1.0",
+      "description": "Local-first AST, SQLite-cached, and Git-diff context slicer for AI coding agents",
+      "url": "https://crates.io/crates/treecut",
+      "created_at": "2026-11-24T16:12:58.141853Z"
+    },
+    {
+      "name": "cargo-lifetimes",
+      "version": "0.1.0",
+      "description": "Finds Rust types that store a borrow: structs, enums, unions and type aliases with a lifetime parameter",
+      "url": "https://crates.io/crates/cargo-lifetimes",
+      "created_at": "2026-11-24T16:09:58.608736Z"
+    },
+    {
+      "name": "flareapp-tower",
+      "version": "0.1.0",
+      "description": "Tower middleware that gives each request its own Flare scope and trace.",
+      "url": "https://crates.io/crates/flareapp-tower",
+      "created_at": "2026-11-24T16:06:52.090808Z"
+    },
+    {
+      "name": "shape_path",
+      "version": "0.3.41",
+      "description": "ShExPath: a path language that addresses the elements of a ShEx schema",
+      "url": "https://crates.io/crates/shape_path",
+      "created_at": "2026-11-24T16:06:41.275821Z"
+    },
+    {
+      "name": "pkl-server",
+      "version": "0.32.0-rc.3",
+      "description": "Native stdio MessagePack IPC server (`pkl server`) for Pkl 0.32.0",
+      "url": "https://crates.io/crates/pkl-server",
+      "created_at": "2026-11-24T16:05:49.765074Z"
+    },
+    {
+      "name": "pkl-repl",
+      "version": "0.32.0-rc.3",
+      "description": "Native interactive & piped REPL (`pkl repl`) for Pkl 0.32.0",
+      "url": "https://crates.io/crates/pkl-repl",
+      "created_at": "2026-11-24T16:05:30.873717Z"
+    },
+    {
+      "name": "adaptif-gatotkaca-runtime",
+      "version": "0.1.0",
+      "description": "A uniform facade over execution models for the adaptif-gatotkaca engine: one interface over tokio, thread pools and thread-per-core executors",
+      "url": "https://crates.io/crates/adaptif-gatotkaca-runtime",
+      "created_at": "2026-11-24T16:05:22.260480Z"
+    },
+    {
+      "name": "pkl-lang",
+      "version": "0.32.0-rc.3",
+      "description": "Public Rust evaluator API for Apple Pkl 0.32.0",
+      "url": "https://crates.io/crates/pkl-lang",
+      "created_at": "2026-11-24T16:05:13.036346Z"
+    },
+    {
+      "name": "pkl-host-native",
+      "version": "0.32.0-rc.3",
+      "description": "Native OS host adapter (filesystem, modulepath, HTTP/TLS, cancellation) for pkl-runtime",
+      "url": "https://crates.io/crates/pkl-host-native",
+      "created_at": "2026-11-24T16:04:52.692848Z"
+    },
+    {
+      "name": "nsh-biometrics",
+      "version": "0.1.0",
+      "description": "Biometric and device-credential authentication for Native Shell apps: Face ID, Touch ID, Android biometrics, Windows Hello and polkit",
+      "url": "https://crates.io/crates/nsh-biometrics",
+      "created_at": "2026-11-24T16:04:22.474346Z"
+    },
+    {
+      "name": "pkl-formatter",
+      "version": "0.32.0-rc.3",
+      "description": "Pure-Rust Wasm-compatible Pkl 0.32.0 code formatter",
+      "url": "https://crates.io/crates/pkl-formatter",
+      "created_at": "2026-11-24T16:04:09.782502Z"
+    },
+    {
+      "name": "pkl-runtime",
+      "version": "0.32.0-rc.3",
+      "description": "Shared Rust runtime for the Pkl 0.32.0 compatibility project",
+      "url": "https://crates.io/crates/pkl-runtime",
+      "created_at": "2026-11-24T16:03:51.007808Z"
     }
   ]
 }
