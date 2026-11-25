@@ -1,215 +1,215 @@
 {
-  "updated": "2026-11-24T16:36:16.652391+00:00",
+  "updated": "2026-11-25T16:19:14.965874+00:00",
   "items": [
     {
-      "name": "spatie-ray",
-      "version": "1.0.0",
-      "description": "Send debug output from Rust to the Ray desktop app",
-      "url": "https://crates.io/crates/spatie-ray",
-      "created_at": "2026-11-24T16:34:53.182375Z"
-    },
-    {
-      "name": "nsh-firebase-auth",
+      "name": "konoma-mermaid",
       "version": "0.1.0",
-      "description": "Firebase auth for Native Shell Rust apps: Identity Toolkit sign-in, Secure Token refresh, a currentUser signal and persistence behind a key-value store",
-      "url": "https://crates.io/crates/nsh-firebase-auth",
-      "created_at": "2026-11-24T16:34:19.746264Z"
+      "description": "konoma's mermaid plugin: diagrams drawn as pictures (or as Unicode text) for .mmd files and ```mermaid fences",
+      "url": "https://crates.io/crates/konoma-mermaid",
+      "created_at": "2026-11-25T16:16:20.349479Z"
     },
     {
-      "name": "tabdance-elvish-tree-sitter",
-      "version": "0.0.1",
-      "description": "Elvish and Elvish transcript grammars for the tree-sitter parsing library",
-      "url": "https://crates.io/crates/tabdance-elvish-tree-sitter",
-      "created_at": "2026-11-24T16:33:11.510774Z"
+      "name": "supernsh-icons-devicon",
+      "version": "0.2.0",
+      "description": "Devicon icons for Native Shell (NSH) apps, in Rust and TSX, drawn by supernsh-icons",
+      "url": "https://crates.io/crates/supernsh-icons-devicon",
+      "created_at": "2026-11-25T16:14:55.385487Z"
     },
     {
-      "name": "async-read",
+      "name": "agix-session",
+      "version": "0.4.4",
+      "description": "Agix \u2014 in-memory session state management",
+      "url": "https://crates.io/crates/agix-session",
+      "created_at": "2026-11-25T16:11:54.015509Z"
+    },
+    {
+      "name": "atlas-vmdk",
+      "version": "26.0.1-a",
+      "description": "Read VMware VMDK virtual disks: monolithic sparse, stream-optimized and descriptor-based images.",
+      "url": "https://crates.io/crates/atlas-vmdk",
+      "created_at": "2026-11-25T16:11:46.131046Z"
+    },
+    {
+      "name": "atlas-vhd",
+      "version": "26.0.1-a",
+      "description": "Read Microsoft VHD and VHDX virtual disks: fixed, dynamic and differencing images.",
+      "url": "https://crates.io/crates/atlas-vhd",
+      "created_at": "2026-11-25T16:11:39.215636Z"
+    },
+    {
+      "name": "serge-web-dev",
+      "version": "0.1.0-alpha.0",
+      "description": "Web bundling and the local dev server of serge (SPA fallback, API proxy, live reload)",
+      "url": "https://crates.io/crates/serge-web-dev",
+      "created_at": "2026-11-25T16:09:19.040768Z"
+    },
+    {
+      "name": "koan-auth",
+      "version": "0.75.2",
+      "description": "Accounts and signing in for koan and the services beside it: passwords, sessions, API keys, invites, sign-in limits and an OAuth 2.1 authorization server, over SQLite.",
+      "url": "https://crates.io/crates/koan-auth",
+      "created_at": "2026-11-25T16:08:53.238362Z"
+    },
+    {
+      "name": "trongoscript-host",
+      "version": "0.1.1",
+      "description": "Shared embedding layer for the Trongoscript Ruby and PHP bindings",
+      "url": "https://crates.io/crates/trongoscript-host",
+      "created_at": "2026-11-25T16:07:34.328268Z"
+    },
+    {
+      "name": "rowstile",
+      "version": "0.1.0-beta.5",
+      "description": "rowstile for Rust apps (a preview): transactions signed in, the database's refusals as typed errors",
+      "url": "https://crates.io/crates/rowstile",
+      "created_at": "2026-11-25T16:06:16.657645Z"
+    },
+    {
+      "name": "konoma-media",
       "version": "0.1.0",
-      "description": "Drive an AsyncRead with a future",
-      "url": "https://crates.io/crates/async-read",
-      "created_at": "2026-11-24T16:30:25.665886Z"
+      "description": "konoma's picture plugins: images, SVG, PDF pages and video thumbnails shown as images",
+      "url": "https://crates.io/crates/konoma-media",
+      "created_at": "2026-11-25T16:06:07.174319Z"
     },
     {
-      "name": "flareapp-reqwest",
+      "name": "betteroffice-fonts-cjk-jp",
+      "version": "0.6.0",
+      "description": "Bundled cjk-jp font pack bytes for native font resolution",
+      "url": "https://crates.io/crates/betteroffice-fonts-cjk-jp",
+      "created_at": "2026-11-25T16:05:20.645383Z"
+    },
+    {
+      "name": "betteroffice-fonts-cjk-tc",
+      "version": "0.6.0",
+      "description": "Bundled cjk-tc font pack bytes for native font resolution",
+      "url": "https://crates.io/crates/betteroffice-fonts-cjk-tc",
+      "created_at": "2026-11-25T16:05:17.210345Z"
+    },
+    {
+      "name": "betteroffice-fonts-cjk-sc",
+      "version": "0.6.0",
+      "description": "Bundled cjk-sc font pack bytes for native font resolution",
+      "url": "https://crates.io/crates/betteroffice-fonts-cjk-sc",
+      "created_at": "2026-11-25T16:05:12.974118Z"
+    },
+    {
+      "name": "betteroffice-fonts-intl",
+      "version": "0.6.0",
+      "description": "Bundled intl font pack bytes for native font resolution",
+      "url": "https://crates.io/crates/betteroffice-fonts-intl",
+      "created_at": "2026-11-25T16:05:07.180333Z"
+    },
+    {
+      "name": "betteroffice-fonts-latin",
+      "version": "0.6.0",
+      "description": "Bundled latin font pack bytes for native font resolution",
+      "url": "https://crates.io/crates/betteroffice-fonts-latin",
+      "created_at": "2026-11-25T16:05:03.477762Z"
+    },
+    {
+      "name": "supernsh-icons-codicon",
+      "version": "0.2.0",
+      "description": "Codicons icons for Native Shell (NSH) apps, in Rust and TSX, drawn by supernsh-icons",
+      "url": "https://crates.io/crates/supernsh-icons-codicon",
+      "created_at": "2026-11-25T16:04:30.224805Z"
+    },
+    {
+      "name": "tssae-adapter-api",
       "version": "0.1.0",
-      "description": "Continues Flare traces in outgoing reqwest calls.",
-      "url": "https://crates.io/crates/flareapp-reqwest",
-      "created_at": "2026-11-24T16:27:17.697317Z"
+      "description": "Stable Rust API and runtime protocol for TSSAE native adapters",
+      "url": "https://crates.io/crates/tssae-adapter-api",
+      "created_at": "2026-11-25T16:03:16.643863Z"
     },
     {
-      "name": "kian-media",
-      "version": "0.3.0",
-      "description": "Client-side media tools (OCR, speech-to-text, text-to-speech) as an audited bundle tool provider (ADR-061)",
-      "url": "https://crates.io/crates/kian-media",
-      "created_at": "2026-11-24T16:24:28.354997Z"
+      "name": "agix-scene",
+      "version": "0.4.4",
+      "description": "Agix \u2014 built-in agent scene implementations and declarative scenes",
+      "url": "https://crates.io/crates/agix-scene",
+      "created_at": "2026-11-25T16:02:04.201977Z"
     },
     {
-      "name": "kian-web",
-      "version": "0.3.0",
-      "description": "Client-side web tools (DeepSeek Search/Fetch) as an audited bundle tool provider (ADR-057)",
-      "url": "https://crates.io/crates/kian-web",
-      "created_at": "2026-11-24T16:24:04.692986Z"
+      "name": "atlas-vdi",
+      "version": "26.0.1-a",
+      "description": "Read VirtualBox VDI virtual disks: dynamic and fixed images.",
+      "url": "https://crates.io/crates/atlas-vdi",
+      "created_at": "2026-11-25T16:00:28.112720Z"
     },
     {
-      "name": "nsh-firebase-app-check",
+      "name": "serge-web-dom",
+      "version": "0.1.0-alpha.0",
+      "description": "Web target of serge: mounts the view tree as real DOM with fine-grained updates",
+      "url": "https://crates.io/crates/serge-web-dom",
+      "created_at": "2026-11-25T15:59:20.960195Z"
+    },
+    {
+      "name": "konoma-math",
       "version": "0.1.0",
-      "description": "Firebase App Check for Native Shell Rust apps: the debug-token exchange with ttl caching, and the native tier's firebase.appcheck.getToken routing",
-      "url": "https://crates.io/crates/nsh-firebase-app-check",
-      "created_at": "2026-11-24T16:23:55.994009Z"
+      "description": "konoma's math plugin: LaTeX formulas in Markdown drawn as pictures",
+      "url": "https://crates.io/crates/konoma-math",
+      "created_at": "2026-11-25T15:55:49.619474Z"
     },
     {
-      "name": "egui-charts-scripting",
-      "version": "0.3.0-alpha.1",
-      "description": "Scripts that add studies to egui-charts: a series runtime with a Rhai front end",
-      "url": "https://crates.io/crates/egui-charts-scripting",
-      "created_at": "2026-11-24T16:22:38.508510Z"
+      "name": "supernsh-icons-circle-flags",
+      "version": "0.2.0",
+      "description": "Circle Flags icons for Native Shell (NSH) apps, in Rust and TSX, drawn by supernsh-icons",
+      "url": "https://crates.io/crates/supernsh-icons-circle-flags",
+      "created_at": "2026-11-25T15:54:07.230323Z"
     },
     {
-      "name": "kute-protocol",
-      "version": "0.3.0",
-      "description": "KUTE vocabulary exchange protocol: two peers agree on a vocabulary, extend it, and exchange encoded messages",
-      "url": "https://crates.io/crates/kute-protocol",
-      "created_at": "2026-11-24T16:22:37.476809Z"
+      "name": "agix-ptc",
+      "version": "0.4.4",
+      "description": "Agix \u2014 RunCode and RunExt: JavaScript that calls the session's tools, written by the model or brought by a plugin",
+      "url": "https://crates.io/crates/agix-ptc",
+      "created_at": "2026-11-25T15:51:56.067386Z"
     },
     {
-      "name": "multicalc-robot-model",
-      "version": "0.11.0",
-      "description": "Loads MuJoCo MJCF and URDF robot models into multicalc types",
-      "url": "https://crates.io/crates/multicalc-robot-model",
-      "created_at": "2026-11-24T16:21:21.355998Z"
+      "name": "serge-router",
+      "version": "0.1.0-alpha.0",
+      "description": "App assembly (SergeApp, feature()) and typed routing with guards for serge",
+      "url": "https://crates.io/crates/serge-router",
+      "created_at": "2026-11-25T15:49:20.431076Z"
     },
     {
-      "name": "kute-discover",
-      "version": "0.3.0",
-      "description": "Structural discovery for KUTE: recurring patterns in symbol streams, with evidence, support and held-out evaluation",
-      "url": "https://crates.io/crates/kute-discover",
-      "created_at": "2026-11-24T16:20:43.738255Z"
+      "name": "ncdb-relay-server",
+      "version": "0.0.0",
+      "description": "Placeholder for the NoCentralDB relay crate; the first real version follows with the next beta.",
+      "url": "https://crates.io/crates/ncdb-relay-server",
+      "created_at": "2026-11-25T15:48:04.277387Z"
     },
     {
-      "name": "cordex-lavalink",
-      "version": "0.1.7",
-      "description": "Pure-Rust Lavalink v4 client for cordex, integrated with cordex-voice.",
-      "url": "https://crates.io/crates/cordex-lavalink",
-      "created_at": "2026-11-24T16:18:54.803672Z"
+      "name": "ncdb-relay",
+      "version": "0.0.0",
+      "description": "Placeholder for the NoCentralDB relay crate; the first real version follows with the next beta.",
+      "url": "https://crates.io/crates/ncdb-relay",
+      "created_at": "2026-11-25T15:47:58.619738Z"
     },
     {
-      "name": "cordex-voice",
-      "version": "0.1.7",
-      "description": "Pure-Rust Discord voice signaling and session coordination for cordex (Lavalink v4 & custom voice backends).",
-      "url": "https://crates.io/crates/cordex-voice",
-      "created_at": "2026-11-24T16:18:52.595223Z"
-    },
-    {
-      "name": "iblancasa-cli-otel",
+      "name": "konoma-code",
       "version": "0.1.0",
-      "description": "Vendor-neutral OpenTelemetry execution spans for command-line applications",
-      "url": "https://crates.io/crates/iblancasa-cli-otel",
-      "created_at": "2026-11-24T16:18:37.842986Z"
+      "description": "konoma's code plugin: source and config files shown as text colored by syntect",
+      "url": "https://crates.io/crates/konoma-code",
+      "created_at": "2026-11-25T15:45:25.216757Z"
     },
     {
-      "name": "flareapp-actix",
-      "version": "0.1.0",
-      "description": "actix-web middleware that gives each request its own Flare scope and trace.",
-      "url": "https://crates.io/crates/flareapp-actix",
-      "created_at": "2026-11-24T16:17:07.677043Z"
+      "name": "atlas-partition",
+      "version": "26.0.1-a",
+      "description": "Read GPT, MBR and Apple Partition Map partition tables, with damage reported instead of hidden.",
+      "url": "https://crates.io/crates/atlas-partition",
+      "created_at": "2026-11-25T15:45:21.786565Z"
     },
     {
-      "name": "hazard3-hall-analog",
-      "version": "0.5.0",
-      "description": "Async no_std driver for OPEN-SMART linear Hall-effect sensor (RP235x) in the Hazard3 RISC-V ecosystem.",
-      "url": "https://crates.io/crates/hazard3-hall-analog",
-      "created_at": "2026-11-24T16:14:35.763857Z"
+      "name": "supernsh-icons-carbon",
+      "version": "0.2.0",
+      "description": "Carbon icons for Native Shell (NSH) apps, in Rust and TSX, drawn by supernsh-icons",
+      "url": "https://crates.io/crates/supernsh-icons-carbon",
+      "created_at": "2026-11-25T15:43:43.989568Z"
     },
     {
-      "name": "nsh-firebase-analytics",
-      "version": "0.1.0",
-      "description": "Firebase analytics for Native Shell Rust apps: events, user properties, screen views, consent, a clock-driven batching queue and pluggable transports",
-      "url": "https://crates.io/crates/nsh-firebase-analytics",
-      "created_at": "2026-11-24T16:13:32.816908Z"
-    },
-    {
-      "name": "treecut",
-      "version": "0.1.0",
-      "description": "Local-first AST, SQLite-cached, and Git-diff context slicer for AI coding agents",
-      "url": "https://crates.io/crates/treecut",
-      "created_at": "2026-11-24T16:12:58.141853Z"
-    },
-    {
-      "name": "cargo-lifetimes",
-      "version": "0.1.0",
-      "description": "Finds Rust types that store a borrow: structs, enums, unions and type aliases with a lifetime parameter",
-      "url": "https://crates.io/crates/cargo-lifetimes",
-      "created_at": "2026-11-24T16:09:58.608736Z"
-    },
-    {
-      "name": "flareapp-tower",
-      "version": "0.1.0",
-      "description": "Tower middleware that gives each request its own Flare scope and trace.",
-      "url": "https://crates.io/crates/flareapp-tower",
-      "created_at": "2026-11-24T16:06:52.090808Z"
-    },
-    {
-      "name": "shape_path",
-      "version": "0.3.41",
-      "description": "ShExPath: a path language that addresses the elements of a ShEx schema",
-      "url": "https://crates.io/crates/shape_path",
-      "created_at": "2026-11-24T16:06:41.275821Z"
-    },
-    {
-      "name": "pkl-server",
-      "version": "0.32.0-rc.3",
-      "description": "Native stdio MessagePack IPC server (`pkl server`) for Pkl 0.32.0",
-      "url": "https://crates.io/crates/pkl-server",
-      "created_at": "2026-11-24T16:05:49.765074Z"
-    },
-    {
-      "name": "pkl-repl",
-      "version": "0.32.0-rc.3",
-      "description": "Native interactive & piped REPL (`pkl repl`) for Pkl 0.32.0",
-      "url": "https://crates.io/crates/pkl-repl",
-      "created_at": "2026-11-24T16:05:30.873717Z"
-    },
-    {
-      "name": "adaptif-gatotkaca-runtime",
-      "version": "0.1.0",
-      "description": "A uniform facade over execution models for the adaptif-gatotkaca engine: one interface over tokio, thread pools and thread-per-core executors",
-      "url": "https://crates.io/crates/adaptif-gatotkaca-runtime",
-      "created_at": "2026-11-24T16:05:22.260480Z"
-    },
-    {
-      "name": "pkl-lang",
-      "version": "0.32.0-rc.3",
-      "description": "Public Rust evaluator API for Apple Pkl 0.32.0",
-      "url": "https://crates.io/crates/pkl-lang",
-      "created_at": "2026-11-24T16:05:13.036346Z"
-    },
-    {
-      "name": "pkl-host-native",
-      "version": "0.32.0-rc.3",
-      "description": "Native OS host adapter (filesystem, modulepath, HTTP/TLS, cancellation) for pkl-runtime",
-      "url": "https://crates.io/crates/pkl-host-native",
-      "created_at": "2026-11-24T16:04:52.692848Z"
-    },
-    {
-      "name": "nsh-biometrics",
-      "version": "0.1.0",
-      "description": "Biometric and device-credential authentication for Native Shell apps: Face ID, Touch ID, Android biometrics, Windows Hello and polkit",
-      "url": "https://crates.io/crates/nsh-biometrics",
-      "created_at": "2026-11-24T16:04:22.474346Z"
-    },
-    {
-      "name": "pkl-formatter",
-      "version": "0.32.0-rc.3",
-      "description": "Pure-Rust Wasm-compatible Pkl 0.32.0 code formatter",
-      "url": "https://crates.io/crates/pkl-formatter",
-      "created_at": "2026-11-24T16:04:09.782502Z"
-    },
-    {
-      "name": "pkl-runtime",
-      "version": "0.32.0-rc.3",
-      "description": "Shared Rust runtime for the Pkl 0.32.0 compatibility project",
-      "url": "https://crates.io/crates/pkl-runtime",
-      "created_at": "2026-11-24T16:03:51.007808Z"
+      "name": "supernsh-icons-bx",
+      "version": "0.2.0",
+      "description": "BoxIcons v2 icons for Native Shell (NSH) apps, in Rust and TSX, drawn by supernsh-icons",
+      "url": "https://crates.io/crates/supernsh-icons-bx",
+      "created_at": "2026-11-25T15:43:41.598851Z"
     }
   ]
 }
