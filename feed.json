@@ -1,215 +1,215 @@
 {
-  "updated": "2026-11-26T15:54:23.780895+00:00",
+  "updated": "2026-11-27T15:42:37.334892+00:00",
   "items": [
     {
-      "name": "ag-sqlite",
+      "name": "simee-android",
+      "version": "0.1.0",
+      "description": "The Android backend's client: lists AVDs as devices, starts and stops simee, drives running instances over their console and display socket.",
+      "url": "https://crates.io/crates/simee-android",
+      "created_at": "2026-11-27T15:41:42.528153Z"
+    },
+    {
+      "name": "data-genie-xlsx",
+      "version": "0.3.0",
+      "description": "Excel (.xlsx) reader and writer for data-genie",
+      "url": "https://crates.io/crates/data-genie-xlsx",
+      "created_at": "2026-11-27T15:39:01.570058Z"
+    },
+    {
+      "name": "data-genie-s3",
+      "version": "0.3.0",
+      "description": "Amazon S3 and object-store streaming transport for data-genie",
+      "url": "https://crates.io/crates/data-genie-s3",
+      "created_at": "2026-11-27T15:39:01.058023Z"
+    },
+    {
+      "name": "data-genie-parquet",
+      "version": "0.3.0",
+      "description": "Apache Parquet reader and writer for data-genie",
+      "url": "https://crates.io/crates/data-genie-parquet",
+      "created_at": "2026-11-27T15:39:00.664106Z"
+    },
+    {
+      "name": "data-genie-http",
+      "version": "0.3.0",
+      "description": "HTTP/REST streaming transport and paginated JSON reader for data-genie",
+      "url": "https://crates.io/crates/data-genie-http",
+      "created_at": "2026-11-27T15:39:00.037444Z"
+    },
+    {
+      "name": "data-genie-core",
+      "version": "0.3.0",
+      "description": "Core streaming ETL engine, traits, transports, filters, transformers, and readers/writers for data-genie",
+      "url": "https://crates.io/crates/data-genie-core",
+      "created_at": "2026-11-27T15:38:57.477004Z"
+    },
+    {
+      "name": "sh0",
+      "version": "0.2.0",
+      "description": "Lightweight cross-platform TUI SSH/SFTP manager with an AI-first CLI",
+      "url": "https://crates.io/crates/sh0",
+      "created_at": "2026-11-27T15:38:31.707983Z"
+    },
+    {
+      "name": "verilith-url",
+      "version": "0.1.0",
+      "description": "A formally verified (Verus) WHATWG URL parser",
+      "url": "https://crates.io/crates/verilith-url",
+      "created_at": "2026-11-27T15:36:51.668102Z"
+    },
+    {
+      "name": "sasso-macros",
       "version": "0.22.0",
-      "description": "Shared SQLite open, migration, and transaction helpers for Agentty stores",
-      "url": "https://crates.io/crates/ag-sqlite",
-      "created_at": "2026-11-26T15:52:45.504988Z"
+      "description": "The `sasso::include!` macro: compile Sass to CSS at Rust compile time. Use it through `sasso` with the `macro` feature.",
+      "url": "https://crates.io/crates/sasso-macros",
+      "created_at": "2026-11-27T15:32:03.375750Z"
     },
     {
-      "name": "horsegirl",
-      "version": "0.0.0",
-      "description": "An agent-first diagram language: state the facts once, choose a lens. This version holds the name.",
-      "url": "https://crates.io/crates/horsegirl",
-      "created_at": "2026-11-26T15:50:48.226083Z"
+      "name": "sasso-core",
+      "version": "0.22.0",
+      "description": "The compiler behind sasso, a pure-Rust SCSS to CSS compiler. Depend on `sasso`, which re-exports all of it.",
+      "url": "https://crates.io/crates/sasso-core",
+      "created_at": "2026-11-27T15:31:51.198092Z"
     },
     {
-      "name": "cloud_terrastodon_auth",
-      "version": "0.38.0",
-      "description": "Runtime authentication and credential sessions for Cloud Terrastodon",
-      "url": "https://crates.io/crates/cloud_terrastodon_auth",
-      "created_at": "2026-11-26T15:49:33.864089Z"
-    },
-    {
-      "name": "tilolang-cli",
-      "version": "0.5.0",
-      "description": "The tilolang command: create, check, run, build, package and publish Tilo apps, written in tilolang or in Rust.",
-      "url": "https://crates.io/crates/tilolang-cli",
-      "created_at": "2026-11-26T15:48:56.392332Z"
-    },
-    {
-      "name": "bib_getter",
+      "name": "simee-emu-avd",
       "version": "0.1.0",
-      "description": "Basic getter for ISBN and DOI records outputing biblatex entries",
-      "url": "https://crates.io/crates/bib_getter",
-      "created_at": "2026-11-26T15:48:53.857092Z"
+      "description": "AVD discovery and config: ini files, system image resolution, bootconfig, form factor, running instances.",
+      "url": "https://crates.io/crates/simee-emu-avd",
+      "created_at": "2026-11-27T15:31:39.416210Z"
     },
     {
-      "name": "speedyspec-php-serialize",
-      "version": "0.3.0",
-      "description": "PHP's serialize format in Rust: serialize, unserialize, maybe_serialize, and conversions to hook values.",
-      "url": "https://crates.io/crates/speedyspec-php-serialize",
-      "created_at": "2026-11-26T15:47:36.811784Z"
-    },
-    {
-      "name": "auric-fontawesome",
-      "version": "0.8.3",
-      "description": "Font Awesome icons addon for the Ember-inspired Auric SPA framework",
-      "url": "https://crates.io/crates/auric-fontawesome",
-      "created_at": "2026-11-26T15:47:12.650947Z"
-    },
-    {
-      "name": "auric-ace",
-      "version": "0.8.3",
-      "description": "Ace code editor addon for the Ember-inspired Auric SPA framework",
-      "url": "https://crates.io/crates/auric-ace",
-      "created_at": "2026-11-26T15:47:10.076665Z"
-    },
-    {
-      "name": "auric-websockets-build",
-      "version": "0.8.3",
-      "description": "Codegen for the WebSockets addon for the Ember-inspired Auric SPA framework",
-      "url": "https://crates.io/crates/auric-websockets-build",
-      "created_at": "2026-11-26T15:47:04.639254Z"
-    },
-    {
-      "name": "auric-fontawesome-build",
-      "version": "0.8.3",
-      "description": "Codegen for the Font Awesome addon for the Ember-inspired Auric SPA framework",
-      "url": "https://crates.io/crates/auric-fontawesome-build",
-      "created_at": "2026-11-26T15:47:02.793588Z"
-    },
-    {
-      "name": "auric-ace-build",
-      "version": "0.8.3",
-      "description": "Codegen for the Ace code editor addon for the Ember-inspired Auric SPA framework",
-      "url": "https://crates.io/crates/auric-ace-build",
-      "created_at": "2026-11-26T15:47:00.246150Z"
-    },
-    {
-      "name": "henad-graph",
-      "version": "0.4.0",
-      "description": "Graph models and sheets of Henad: node graphs and author documents as model files, checked, lowered and compiled to WGSL.",
-      "url": "https://crates.io/crates/henad-graph",
-      "created_at": "2026-11-26T15:40:53.826302Z"
-    },
-    {
-      "name": "cloud_terrastodon_registry_execution",
-      "version": "0.38.0",
-      "description": "Invocation and execution of registered Cloud Terrastodon operations",
-      "url": "https://crates.io/crates/cloud_terrastodon_registry_execution",
-      "created_at": "2026-11-26T15:39:32.346270Z"
-    },
-    {
-      "name": "tilolang-window",
-      "version": "0.5.0",
-      "description": "A tilolang app's window with nothing on screen: its instance staged with a scenario, its views laid out by the toolkit's frame pipeline, and the platform it stands on.",
-      "url": "https://crates.io/crates/tilolang-window",
-      "created_at": "2026-11-26T15:38:55.856447Z"
-    },
-    {
-      "name": "waos-gpu-host",
-      "version": "0.8.0",
-      "description": "The host the engine serves wasdk:gpu with: wgpu's API over wgpu-core, each call one of wgpu-core's.",
-      "url": "https://crates.io/crates/waos-gpu-host",
-      "created_at": "2026-11-26T15:37:51.177870Z"
-    },
-    {
-      "name": "sqlload-python-host",
-      "version": "0.0.0",
-      "description": "Placeholder for SQLLoad's Python host crate (running Python tables on the SQLLoad engine). The first real release is published from the sqlload repository.",
-      "url": "https://crates.io/crates/sqlload-python-host",
-      "created_at": "2026-11-26T15:37:47.858919Z"
-    },
-    {
-      "name": "mincorr",
-      "version": "0.3.0",
-      "description": "Fast correlation matrices (Pearson, Spearman, Kendall tau-b, biweight midcorrelation, Hellinger correlation): library and CLI",
-      "url": "https://crates.io/crates/mincorr",
-      "created_at": "2026-11-26T15:37:41.122346Z"
-    },
-    {
-      "name": "speedyspec-rest-contracts",
+      "name": "arvin",
       "version": "0.2.0",
-      "description": "The REST transport's contracts: bindings, the REST request and response, links, and the RestHooks port.",
-      "url": "https://crates.io/crates/speedyspec-rest-contracts",
-      "created_at": "2026-11-26T15:37:36.616054Z"
+      "description": "A staged cutoff for agent runs, where a run keeps its tools, budget, and sandbox only while it keeps proving progress. Three triggers move the stage, an operator pull, a budget ceiling, and missed proofs.",
+      "url": "https://crates.io/crates/arvin",
+      "created_at": "2026-11-27T15:28:59.288620Z"
     },
     {
-      "name": "tilo-app-builder",
-      "version": "0.5.0",
-      "description": "Tilo apps written in Rust: scaffold, check, build for each platform, package and publish them; the `tilolang` command runs it",
-      "url": "https://crates.io/crates/tilo-app-builder",
-      "created_at": "2026-11-26T15:35:18.195281Z"
+      "name": "verilith-tls",
+      "version": "0.1.0",
+      "description": "TLS 1.3 (RFC 8446) message parsing, handshake state machine and key schedule, formally verified with Verus",
+      "url": "https://crates.io/crates/verilith-tls",
+      "created_at": "2026-11-27T15:26:29.485760Z"
     },
     {
-      "name": "tilolang-tilo",
-      "version": "0.5.0",
-      "description": "Tilo platform integration for tilolang apps: their resources in the device's store, the published surface, and the UI graph translation.",
-      "url": "https://crates.io/crates/tilolang-tilo",
-      "created_at": "2026-11-26T15:35:12.552407Z"
+      "name": "grad-cli",
+      "version": "0.2.0-alpha.3",
+      "description": "CLI for the Gradiated training and serving platform",
+      "url": "https://crates.io/crates/grad-cli",
+      "created_at": "2026-11-27T15:25:10.307652Z"
     },
     {
-      "name": "cloud_terrastodon_execution",
-      "version": "0.38.0",
-      "description": "Scoped request execution and injected authentication for Cloud Terrastodon",
-      "url": "https://crates.io/crates/cloud_terrastodon_execution",
-      "created_at": "2026-11-26T15:29:32.388474Z"
+      "name": "grad-sdk",
+      "version": "0.2.0-alpha.3",
+      "description": "Rust SDK for the Gradiated training and serving platform",
+      "url": "https://crates.io/crates/grad-sdk",
+      "created_at": "2026-11-27T15:24:42.017519Z"
     },
     {
-      "name": "speedyspec-routing",
-      "version": "0.2.0",
-      "description": "Routing contracts: routes, resolutions, route data, the table store, dispatch strategies and WordPress's routing concepts.",
-      "url": "https://crates.io/crates/speedyspec-routing",
-      "created_at": "2026-11-26T15:27:35.737212Z"
+      "name": "issn",
+      "version": "0.1.0",
+      "description": "A library to work with International Standard Serial Number (ISSN)",
+      "url": "https://crates.io/crates/issn",
+      "created_at": "2026-11-27T15:23:14.480836Z"
     },
     {
-      "name": "envelope-keys",
+      "name": "hazard3-piezo",
+      "version": "0.3.0",
+      "description": "Async no_std piezoelectric vibration sensor driver for the Hazard3 ecosystem.",
+      "url": "https://crates.io/crates/hazard3-piezo",
+      "created_at": "2026-11-27T15:22:34.235428Z"
+    },
+    {
+      "name": "rasterizeddb_raft",
       "version": "1.0.0",
-      "description": "Envelope encryption key providers: a provider contract, wrapped data keys, and a conformance suite",
-      "url": "https://crates.io/crates/envelope-keys",
-      "created_at": "2026-11-26T15:24:10.424402Z"
+      "description": "RasterizedDB's Raft: a deterministic, I/O-free consensus core for per-shard replication (sharding-plan.md B3, D3)",
+      "url": "https://crates.io/crates/rasterizeddb_raft",
+      "created_at": "2026-11-27T15:22:15.396837Z"
     },
     {
-      "name": "sciart",
-      "version": "1.0.1",
-      "description": "Real-time generative science art for the terminal: physics, chemistry, biology, Earth and space",
-      "url": "https://crates.io/crates/sciart",
-      "created_at": "2026-11-26T15:22:44.516172Z"
-    },
-    {
-      "name": "sciart-keepawake",
-      "version": "0.7.0",
-      "description": "Internal: keep-awake backends of sciart. No semver promise; use the `sciart` crate",
-      "url": "https://crates.io/crates/sciart-keepawake",
-      "created_at": "2026-11-26T15:22:37.096992Z"
-    },
-    {
-      "name": "sciart-generators",
-      "version": "0.7.0",
-      "description": "Internal: the scene registry of sciart. No semver promise; use the `sciart` crate",
-      "url": "https://crates.io/crates/sciart-generators",
-      "created_at": "2026-11-26T15:22:35.063739Z"
-    },
-    {
-      "name": "lc2kicad",
+      "name": "simee-coresim",
       "version": "0.1.0",
-      "description": "Headless CLI and library to export LCSC / EasyEDA components to KiCad 8/9/10, Altium Designer, STEP/OBJ 3D models, and PDF datasheets.",
-      "url": "https://crates.io/crates/lc2kicad",
-      "created_at": "2026-11-26T15:21:59.862151Z"
+      "description": "Safe API over the host simulator service: device lifecycle, apps, framebuffers and HID input.",
+      "url": "https://crates.io/crates/simee-coresim",
+      "created_at": "2026-11-27T15:21:42.611926Z"
     },
     {
-      "name": "hazard3-ssd1306-physics",
-      "version": "0.6.1",
-      "description": "Dessins 2D no_std pour objets physiques (bras robotique, pendule, ressort-masse, boussole, engrenages,piston) sur OLED SSD1306 128\u00d764",
-      "url": "https://crates.io/crates/hazard3-ssd1306-physics",
-      "created_at": "2026-11-26T15:19:33.387685Z"
-    },
-    {
-      "name": "cloud_terrastodon_cli_types",
-      "version": "0.38.0",
-      "description": "Shared validated command-line inputs for Cloud Terrastodon",
-      "url": "https://crates.io/crates/cloud_terrastodon_cli_types",
-      "created_at": "2026-11-26T15:19:32.509493Z"
-    },
-    {
-      "name": "speedyspec-transport-contracts",
+      "name": "singe-cuda-emulator",
       "version": "0.2.0",
-      "description": "The unified operation API's transport contracts: the Transport port and its default mapping, bindings, exposure lookup, authentication, codecs and hook stages.",
-      "url": "https://crates.io/crates/speedyspec-transport-contracts",
-      "created_at": "2026-11-26T15:17:36.239878Z"
+      "description": "Emulated CUDA and NCCL on the CPU.",
+      "url": "https://crates.io/crates/singe-cuda-emulator",
+      "created_at": "2026-11-27T15:20:46.846223Z"
+    },
+    {
+      "name": "verilith-snappy",
+      "version": "0.1.0",
+      "description": "A formally verified (Verus) Snappy compressor and decompressor with the snappy-c API",
+      "url": "https://crates.io/crates/verilith-snappy",
+      "created_at": "2026-11-27T15:16:06.109300Z"
+    },
+    {
+      "name": "nsh-system-controls",
+      "version": "0.1.0",
+      "description": "The system's own segmented control, switch and date and time picker for Native Shell (NSH) apps, an nshm: UIKit's on iOS, the framework's on Android.",
+      "url": "https://crates.io/crates/nsh-system-controls",
+      "created_at": "2026-11-27T15:12:47.438202Z"
+    },
+    {
+      "name": "simee-bundle",
+      "version": "0.1.0",
+      "description": "Portable device bundles: a manifest, content-addressed LZ4 chunks, and the same as one plain tar; verified on import.",
+      "url": "https://crates.io/crates/simee-bundle",
+      "created_at": "2026-11-27T15:11:39.414447Z"
+    },
+    {
+      "name": "atproto-space-client",
+      "version": "0.15.0",
+      "description": "XRPC client for AT Protocol permissioned-data spaces - the 0016 credential exchange, records, sync, notify registration, and space management",
+      "url": "https://crates.io/crates/atproto-space-client",
+      "created_at": "2026-11-27T15:11:38.437963Z"
+    },
+    {
+      "name": "atproto-firehose",
+      "version": "0.15.0",
+      "description": "AT Protocol com.atproto.sync.subscribeRepos consumer - frame decoding, commit verification, and a reconnecting stream",
+      "url": "https://crates.io/crates/atproto-firehose",
+      "created_at": "2026-11-27T15:11:37.452650Z"
+    },
+    {
+      "name": "atproto-space",
+      "version": "0.15.0",
+      "description": "AT Protocol permissioned-data spaces \u2014 primitives for the 0016 Atproto Spaces draft (LtHash, commits and their MACs, delegation-token/space-credential JWTs, repo STAR archive serialization and verification)",
+      "url": "https://crates.io/crates/atproto-space",
+      "created_at": "2026-11-27T15:11:34.234887Z"
+    },
+    {
+      "name": "petitcarnets",
+      "version": "0.0.2",
+      "description": "Terminal user interfaces in the Elm architecture (model, update, view), with no dependencies.",
+      "url": "https://crates.io/crates/petitcarnets",
+      "created_at": "2026-11-27T15:10:23.215866Z"
+    },
+    {
+      "name": "verilith-regex",
+      "version": "0.1.0",
+      "description": "A linear-time regular expression engine (RE2 syntax and semantics) formally verified with Verus",
+      "url": "https://crates.io/crates/verilith-regex",
+      "created_at": "2026-11-27T15:05:45.876884Z"
+    },
+    {
+      "name": "simee-audio",
+      "version": "0.1.0",
+      "description": "Per-device simulator audio without a driver: process-tap capture and mute, route and volume.",
+      "url": "https://crates.io/crates/simee-audio",
+      "created_at": "2026-11-27T15:01:40.584197Z"
+    },
+    {
+      "name": "rasterizeddb_router",
+      "version": "1.0.0",
+      "description": "RasterizedDB's routing function (route_v1) and shard map, shared by the engine, the client and the gateway",
+      "url": "https://crates.io/crates/rasterizeddb_router",
+      "created_at": "2026-11-27T15:01:40.078509Z"
     }
   ]
 }
